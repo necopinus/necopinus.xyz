@@ -8,5 +8,5 @@ And what if it turns out that there are in fact many such proto-societies, some 
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 June 22, 2016

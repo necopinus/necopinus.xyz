@@ -6,5 +6,5 @@ Animated GIF.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 September 21, 2018

@@ -6,5 +6,5 @@ Detail of the end of the western median of Colfax at Broadway.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 November 3, 2004

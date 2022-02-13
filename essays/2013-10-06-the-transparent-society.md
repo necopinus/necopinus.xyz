@@ -12,5 +12,5 @@ That’s a far weirder, more disturbing, and more perilous world than Dr. Brin &
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 October 6, 2013

@@ -6,5 +6,5 @@ Departing Boston.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 October 25, 2018

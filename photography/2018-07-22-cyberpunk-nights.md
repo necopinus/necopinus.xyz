@@ -6,5 +6,5 @@ The view out the window of my room at the Hotel Pennsylvania on the second night
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 22, 2018

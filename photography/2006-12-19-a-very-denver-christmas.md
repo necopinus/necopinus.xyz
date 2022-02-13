@@ -6,5 +6,5 @@ The Denver City and County Building, Christmas 2006.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 December 19, 2006

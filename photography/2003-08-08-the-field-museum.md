@@ -6,5 +6,5 @@ Construction (repair work?) on the Field Museum in Chicago’s eastern foundatio
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 August 8, 2003

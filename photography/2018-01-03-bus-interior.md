@@ -6,5 +6,5 @@ Early morning bus.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 January 3, 2018

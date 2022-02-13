@@ -6,5 +6,5 @@ The Holy Ghost Church, with 1900 California in the background. This is one of my
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 4, 2005

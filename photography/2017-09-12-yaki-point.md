@@ -6,5 +6,5 @@ Looking towards Yaki Point from the Grand Canyon visitor center. Len Montgomery 
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 September 12, 2017

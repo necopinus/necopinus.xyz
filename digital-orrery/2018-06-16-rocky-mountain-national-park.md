@@ -88,5 +88,5 @@ Looking northwest from above the Rocky Mountain National Park Alpine Visitor Cen
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 June 16, 2018

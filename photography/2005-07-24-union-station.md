@@ -6,5 +6,5 @@ Union Station, looking particularly steampunk.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 24, 2005

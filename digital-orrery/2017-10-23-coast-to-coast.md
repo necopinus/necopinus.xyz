@@ -156,5 +156,5 @@ The fountain in front of the Library of Congress.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 October 23, 2017

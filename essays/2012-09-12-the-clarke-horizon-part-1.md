@@ -10,5 +10,5 @@ As a side note, our normal conception of “progress” probably boils down to t
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 September 12, 2012

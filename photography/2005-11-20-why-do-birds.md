@@ -6,5 +6,5 @@ Pigeons take flight near Civic Center Park (Broadway & Colfax).
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 November 20, 2005

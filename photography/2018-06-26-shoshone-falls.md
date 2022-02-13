@@ -6,5 +6,5 @@ Shoshone Falls along the Snake River. The tall red-roofed building at center-lef
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 June 26, 2018

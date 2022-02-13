@@ -54,5 +54,5 @@ So while on the one hand I’m skeptical that granting legal personhood to Te Ur
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 September 5, 2016

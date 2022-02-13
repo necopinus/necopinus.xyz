@@ -6,5 +6,5 @@ Ad with generic beer next to the Wingstop at 20th & Washington, Denver, CO.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 April 10, 2017

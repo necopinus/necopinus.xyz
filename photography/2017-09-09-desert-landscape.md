@@ -6,5 +6,5 @@ Looking southeast from the trail around the South Window and North Window arches
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 September 9, 2017

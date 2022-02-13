@@ -6,5 +6,5 @@ The Highland Bowl as seen from the top of Aspen Mountain.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 December 18, 2018

@@ -6,5 +6,5 @@ The view from the Boston Aquarium.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 October 20, 2018

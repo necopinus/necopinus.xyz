@@ -8,6 +8,6 @@ that consume the land.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 7, 2012
-tags:: #Poetry
+🏷️ #Poetry

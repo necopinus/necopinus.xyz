@@ -6,5 +6,5 @@ Sunset over the midwest, somewhere between Denver, CO and Louisville, KY.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 June 28, 2018

@@ -6,5 +6,5 @@ Jersey City from the air, just before landing in New York City for [HOPE 12](htt
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 19, 2018

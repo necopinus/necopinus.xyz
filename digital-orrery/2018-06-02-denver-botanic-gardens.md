@@ -52,5 +52,5 @@ A detail of some flowers growing on the central sculpture/water feature of the S
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 June 2, 2018

@@ -6,5 +6,5 @@ Part of a series of metal sculptures that used to be located in the small park b
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 13, 2005

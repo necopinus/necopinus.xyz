@@ -6,5 +6,5 @@ Plants growing in the DC metro (subway).
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 March 25, 2017

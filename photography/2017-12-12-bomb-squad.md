@@ -8,5 +8,5 @@ Well, this isn’t something you see every day…
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 December 12, 2017

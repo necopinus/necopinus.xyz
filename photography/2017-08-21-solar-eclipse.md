@@ -6,5 +6,5 @@ The 2017 solar eclipse as seen from Denver, near the eclipse maxima. This is act
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 August 21, 2017

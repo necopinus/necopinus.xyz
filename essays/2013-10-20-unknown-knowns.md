@@ -24,5 +24,5 @@ The identification of “unknown knowns” with knowledge that exists but whose 
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 October 20, 2013

@@ -10,5 +10,5 @@ The brightness reef.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 August 10, 2003

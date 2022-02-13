@@ -6,5 +6,5 @@ The view from my plane window, just after take off from Denver on my way to Bost
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 25, 2017

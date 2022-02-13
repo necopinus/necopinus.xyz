@@ -6,5 +6,5 @@ Evocative clouds.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 4, 2019

@@ -6,5 +6,5 @@ Looking east along the Grand Canyon from near Hopi Point. The Colorado River is 
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 September 11, 2017

@@ -6,5 +6,5 @@ Aquatic snails at the Denver Zoo.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 May 12, 2019

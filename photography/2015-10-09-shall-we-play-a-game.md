@@ -6,5 +6,5 @@ Shall we play a game?
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 October 9, 2015

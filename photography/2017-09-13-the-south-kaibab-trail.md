@@ -6,5 +6,5 @@ Looking back towards a point between the South Kaibab Trail Head and Mather Poin
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 September 13, 2017

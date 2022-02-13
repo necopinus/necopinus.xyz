@@ -6,5 +6,5 @@ A venus fly trap at the Denver Botanic Gardens.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 November 17, 2018

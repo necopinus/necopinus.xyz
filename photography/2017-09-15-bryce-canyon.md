@@ -6,5 +6,5 @@ Looking across Bryce Canyon from between the upper and lower Inspiration Points;
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 September 15, 2017

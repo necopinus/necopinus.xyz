@@ -6,5 +6,5 @@ Cherry Creek sandbar.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 8, 2003

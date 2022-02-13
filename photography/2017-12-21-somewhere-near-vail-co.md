@@ -6,5 +6,5 @@ The view from the road back to Denver from Aspen.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 December 21, 2017

@@ -6,5 +6,5 @@ Len Montgomery approaches the south side of Broken Arch, in Arches National Park
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 September 10, 2017

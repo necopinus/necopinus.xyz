@@ -6,5 +6,5 @@ Looking south-ish through part of the forest on top of Aspen Mountain.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 December 18, 2017

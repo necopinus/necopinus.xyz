@@ -6,5 +6,5 @@ LoDo honey bee.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 October 7, 2015

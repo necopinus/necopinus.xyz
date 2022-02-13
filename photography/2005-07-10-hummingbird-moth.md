@@ -6,5 +6,5 @@ While walking to the Penn Street Perk to meet up with Stacie Wilcox, I happened 
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 July 10, 2005

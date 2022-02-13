@@ -6,5 +6,5 @@ Looking out over Denver at dusk just after a snow storm from a window at work. A
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 December 31, 2018

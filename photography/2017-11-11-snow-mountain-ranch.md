@@ -6,5 +6,5 @@ Looking east just after sunset from the building in Snow Mountain Ranch where Pa
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 November 11, 2017

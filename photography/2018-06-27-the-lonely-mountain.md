@@ -6,5 +6,5 @@ Looking east-southeast from the top of Inferno Cone towards the Big Southern But
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 June 27, 2018

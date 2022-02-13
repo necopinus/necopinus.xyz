@@ -6,5 +6,5 @@ A solid, rocky rise on a mesa southwest of Moab glows in in the setting Sun. Wha
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 August 30, 2003

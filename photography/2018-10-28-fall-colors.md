@@ -6,5 +6,5 @@ Fall colors in Denver’s City Park.
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 October 28, 2018

@@ -6,5 +6,5 @@ The tiny Buddha Heather Kunst gave me before she left for Boston, still sitting 
 
 - - - -
 
-👤 Nathan Acks
+👤 Nathan Acks  
 📅 August 19, 2017
