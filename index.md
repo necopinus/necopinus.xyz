@@ -1,4 +1,4 @@
-# 🌱 necopinus.xyz 🌱
+# <span aria-hidden="true">🌱</span> necopinus.xyz <span aria-hidden="true">🌱</span>
 
 ## Home on the Web
 
