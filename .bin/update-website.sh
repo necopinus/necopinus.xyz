@@ -11,7 +11,6 @@ if [[ "$REPO_DIR" == "necopinus.xyz" ]] && [[ "$REPO_PARENT_DIR" == "_repos" ]] 
 	       -not -iname '.git' \
 	       -not -iname '.gitignore' \
 	       -not -iname '_config.yml' \
-	       -not -iname 'README.md' \
 	       -exec rm -rf "{}" \;
 
 	cp -rf ../../necopinus.xyz/* .
