@@ -6,5 +6,5 @@ A container ship passes under the Golden Gate Bridge on its way out to the Pacif
 
 - - - -
 
-👤 Nathan Acks  
-📅 September 23, 2016
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> September 23, 2016

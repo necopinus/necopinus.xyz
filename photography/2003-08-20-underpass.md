@@ -6,5 +6,5 @@ An underpass near the Platte River.
 
 - - - -
 
-👤 Nathan Acks  
-📅 August 20, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> August 20, 2003

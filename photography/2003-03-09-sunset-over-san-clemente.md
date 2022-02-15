@@ -6,5 +6,5 @@ Sunset over San Clemente. I camped on this beach for two nights, before finally 
 
 - - - -
 
-👤 Nathan Acks  
-📅 March 9, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> March 9, 2003

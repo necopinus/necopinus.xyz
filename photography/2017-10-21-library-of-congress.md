@@ -6,5 +6,5 @@ The entrance to the Library of Congress’ James Madison Memorial Building at ni
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 21, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 21, 2017

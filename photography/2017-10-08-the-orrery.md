@@ -6,5 +6,5 @@ The orrery at [The Interval](https://theinterval.org/), which is run by [The Lon
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 8, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 8, 2017

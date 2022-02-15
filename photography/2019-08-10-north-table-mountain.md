@@ -6,5 +6,5 @@ Power lines on North Table Mountain.
 
 - - - -
 
-👤 Nathan Acks  
-📅 August 10, 2019
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> August 10, 2019

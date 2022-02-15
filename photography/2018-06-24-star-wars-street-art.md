@@ -6,5 +6,5 @@ The force is strong in Boise, ID.
 
 - - - -
 
-👤 Nathan Acks  
-📅 June 24, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> June 24, 2018

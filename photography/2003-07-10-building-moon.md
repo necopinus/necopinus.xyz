@@ -6,5 +6,5 @@ New apartment construction near the Cherry Creek footpath.
 
 - - - -
 
-👤 Nathan Acks  
-📅 July 10, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> July 10, 2003

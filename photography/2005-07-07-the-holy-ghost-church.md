@@ -6,5 +6,5 @@ A slightly different angle on the Holy Ghost Church and 1900 California.
 
 - - - -
 
-👤 Nathan Acks  
-📅 July 7, 2005
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> July 7, 2005

@@ -6,5 +6,5 @@ Pool game in progress at Cafe@Netherworld.
 
 - - - -
 
-👤 Nathan Acks  
-📅 September 1, 2005
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> September 1, 2005

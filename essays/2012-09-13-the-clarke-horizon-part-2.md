@@ -32,5 +32,5 @@ There’s probably a whole new cross-disciplinary field of study here. Certainly
 
 - - - -
 
-👤 Nathan Acks  
-📅 September 13, 2012
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> September 13, 2012

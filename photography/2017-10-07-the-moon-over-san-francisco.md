@@ -6,5 +6,5 @@ The Moon rises over San Francisco Bay. Looking inland from Krista Stone-Manista 
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 7, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 7, 2017

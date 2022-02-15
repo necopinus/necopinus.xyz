@@ -6,5 +6,5 @@ Detail of a train pulling through the east side of the University of Louisville.
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 18, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 18, 2017

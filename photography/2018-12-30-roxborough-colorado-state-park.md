@@ -6,5 +6,5 @@ Roxborough Colorado State Park in winter.
 
 - - - -
 
-👤 Nathan Acks  
-📅 December 30, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> December 30, 2018

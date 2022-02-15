@@ -6,5 +6,5 @@ Flowering lavender at the Denver Botanic Gardens at Chatfield.
 
 - - - -
 
-👤 Nathan Acks  
-📅 July 20, 2019
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> July 20, 2019

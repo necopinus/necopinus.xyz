@@ -6,5 +6,5 @@ The northwestern gate to June’s PlantAsia at the Denver Botanic Gardens.
 
 - - - -
 
-👤 Nathan Acks  
-📅 June 2, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> June 2, 2018

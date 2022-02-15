@@ -6,5 +6,5 @@ We have seen the glaciers retreat, and watched the valleys they carved be reveal
 
 - - - -
 
-👤 Nathan Acks  
-📅 June 12, 2015
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> June 12, 2015

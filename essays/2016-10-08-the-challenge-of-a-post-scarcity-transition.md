@@ -34,5 +34,5 @@ It’s less clear how to address this second barrier, but it does appear that [c
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 8, 2016
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 8, 2016

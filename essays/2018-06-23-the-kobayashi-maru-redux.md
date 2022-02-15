@@ -16,5 +16,5 @@ The most important part of the [Kobayashi Maru scenario](https://en.m.wikipedia.
 
 - - - -
 
-👤 Nathan Acks  
-📅 June 23, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> June 23, 2018

@@ -6,5 +6,5 @@ The ceiling of The Great Hall at the Metropolitan Museum of Art in New York City
 
 - - - -
 
-👤 Nathan Acks  
-📅 July 23, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> July 23, 2018

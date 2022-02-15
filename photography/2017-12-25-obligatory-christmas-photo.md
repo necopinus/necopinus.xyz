@@ -6,5 +6,5 @@ Obligatory Christmas photo.
 
 - - - -
 
-👤 Nathan Acks  
-📅 December 25, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> December 25, 2017

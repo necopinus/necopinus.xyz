@@ -8,5 +8,5 @@ Taken from I-70.
 
 - - - -
 
-👤 Nathan Acks  
-📅 July 23, 2006
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> July 23, 2006

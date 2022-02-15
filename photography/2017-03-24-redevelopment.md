@@ -8,5 +8,5 @@ What I find interesting here is that there’s not even an attempt here to recas
 
 - - - -
 
-👤 Nathan Acks  
-📅 March 24, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> March 24, 2017

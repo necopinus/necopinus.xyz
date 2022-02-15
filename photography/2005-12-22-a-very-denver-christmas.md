@@ -6,5 +6,5 @@ Denver City Hall, Christmas 2005.
 
 - - - -
 
-👤 Nathan Acks  
-📅 December 22, 2005
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> December 22, 2005

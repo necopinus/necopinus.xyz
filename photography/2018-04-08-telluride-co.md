@@ -6,5 +6,5 @@ Looking southeast across Telluride, CO towards Trico Peak from the Airbnb Len Mo
 
 - - - -
 
-👤 Nathan Acks  
-📅 April 8, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> April 8, 2018

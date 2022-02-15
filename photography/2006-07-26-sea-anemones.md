@@ -6,5 +6,5 @@ Anemones at the [National Aquarium](http://www.aqua.org/).
 
 - - - -
 
-👤 Nathan Acks  
-📅 July 26, 2006
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> July 26, 2006

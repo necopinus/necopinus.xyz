@@ -10,5 +10,5 @@ I took this photograph on a crappy instant camera on the second day of my outbou
 
 - - - -
 
-👤 Nathan Acks  
-📅 March 8, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> March 8, 2003

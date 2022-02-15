@@ -6,5 +6,5 @@ A lighthouse near Boston, Massachusetts, as seen on approach to Logan Internatio
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 17, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 17, 2018

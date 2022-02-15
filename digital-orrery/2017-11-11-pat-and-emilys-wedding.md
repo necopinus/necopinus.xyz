@@ -56,5 +56,5 @@ Pat Kelly-Fischer & Emily Kelly-Fischer dance during their wedding reception.
 
 - - - -
 
-👤 Nathan Acks  
-📅 November 11, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> November 11, 2017

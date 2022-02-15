@@ -6,5 +6,5 @@ The intersection of Colfax and Tremont in Denver during a heavy afternoon rainst
 
 - - - -
 
-👤 Nathan Acks  
-📅 August 18, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> August 18, 2003

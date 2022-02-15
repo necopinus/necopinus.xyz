@@ -6,5 +6,5 @@ Capitol at dawn.
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 19, 2015
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 19, 2015

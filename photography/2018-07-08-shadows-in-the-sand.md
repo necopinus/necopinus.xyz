@@ -6,5 +6,5 @@ Len Montgomery and Nathan Acks’ shadows on the Great Sand Dunes.
 
 - - - -
 
-👤 Nathan Acks  
-📅 July 8, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> July 8, 2018

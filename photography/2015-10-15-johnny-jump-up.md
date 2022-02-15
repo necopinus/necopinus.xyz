@@ -6,5 +6,5 @@ Johnny jump-up.
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 15, 2015
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 15, 2015

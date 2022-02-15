@@ -6,5 +6,5 @@ Market Street Station at night.
 
 - - - -
 
-👤 Nathan Acks  
-📅 January 23, 2002
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> January 23, 2002

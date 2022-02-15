@@ -16,5 +16,5 @@ Note that what is “interesting” and “meaningful” may very well change wi
 
 - - - -
 
-👤 Nathan Acks  
-📅 January 7, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> January 7, 2018

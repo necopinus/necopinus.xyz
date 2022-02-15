@@ -184,5 +184,5 @@ Looking north to Serpent Point from the south rim of the Black Canyon of the Gun
 
 - - - -
 
-👤 Nathan Acks  
-📅 April 9, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> April 9, 2018

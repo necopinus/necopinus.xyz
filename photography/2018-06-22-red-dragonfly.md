@@ -6,5 +6,5 @@ A red dragonfly in my folks’ front yard in Boise, Idaho.
 
 - - - -
 
-👤 Nathan Acks  
-📅 June 22, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> June 22, 2018

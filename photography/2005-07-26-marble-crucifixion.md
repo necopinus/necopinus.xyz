@@ -6,5 +6,5 @@ A statue in the rotunda of an old church on the Auraria Campus.
 
 - - - -
 
-👤 Nathan Acks  
-📅 July 26, 2005
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> July 26, 2005

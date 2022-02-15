@@ -6,5 +6,5 @@ The Gunnison flows west through the Black Canyon.
 
 - - - -
 
-👤 Nathan Acks  
-📅 April 9, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> April 9, 2018

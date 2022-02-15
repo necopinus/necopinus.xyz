@@ -6,5 +6,5 @@ So green that Len Montgomery couldn’t stop laughing.
 
 - - - -
 
-👤 Nathan Acks  
-📅 September 16, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> September 16, 2017

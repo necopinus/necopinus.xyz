@@ -6,5 +6,5 @@ Looking southwest from the top of Aspen Mountain just after a snow storm.
 
 - - - -
 
-👤 Nathan Acks  
-📅 December 19, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> December 19, 2018

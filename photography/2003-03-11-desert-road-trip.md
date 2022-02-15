@@ -6,5 +6,5 @@ On the road, driving from San Clemente back to Denver. I believe this was taken 
 
 - - - -
 
-👤 Nathan Acks  
-📅 March 11, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> March 11, 2003

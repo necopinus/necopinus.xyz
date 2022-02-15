@@ -8,5 +8,5 @@ Definitely pollinated by flies.
 
 - - - -
 
-👤 Nathan Acks  
-📅 September 26, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> September 26, 2003

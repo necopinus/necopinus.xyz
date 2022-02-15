@@ -6,5 +6,5 @@ The sunset seen from the back patio of my folks’ house.
 
 - - - -
 
-👤 Nathan Acks  
-📅 July 9, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> July 9, 2003

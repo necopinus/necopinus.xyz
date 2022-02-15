@@ -6,5 +6,5 @@ The Abraham Lincoln (foreground) and John F. Kennedy Memorial (background) Bridg
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 20, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 20, 2017

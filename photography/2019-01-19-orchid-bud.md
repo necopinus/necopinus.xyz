@@ -6,5 +6,5 @@ An orchid bud at the Denver Botanic Gardens.
 
 - - - -
 
-👤 Nathan Acks  
-📅 January 19, 2019
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> January 19, 2019

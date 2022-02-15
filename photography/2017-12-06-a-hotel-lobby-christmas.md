@@ -6,5 +6,5 @@ A hotel lobby Christmas.
 
 - - - -
 
-👤 Nathan Acks  
-📅 December 6, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> December 6, 2017

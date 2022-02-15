@@ -6,5 +6,5 @@ Looking southeast from the [Rocky Mountain National Park](https://www.nps.gov/ro
 
 - - - -
 
-👤 Nathan Acks  
-📅 June 16, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> June 16, 2018

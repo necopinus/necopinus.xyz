@@ -6,5 +6,5 @@ So, that happened last night… 🙁
 
 - - - -
 
-👤 Nathan Acks  
-📅 November 1, 2015
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> November 1, 2015

@@ -6,5 +6,5 @@ Rainbow over Colfax.
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 18, 2015
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 18, 2015

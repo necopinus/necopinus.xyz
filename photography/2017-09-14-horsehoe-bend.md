@@ -6,5 +6,5 @@ Horseshoe Bend is in Grand Canyon National Park (the park begins at the top of t
 
 - - - -
 
-👤 Nathan Acks  
-📅 September 14, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> September 14, 2017

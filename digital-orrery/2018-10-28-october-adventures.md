@@ -76,5 +76,5 @@ Sunset near 18th & Logan in Denver.
 
 - - - -
 
-👤 Nathan Acks  
-📅 October 28, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> October 28, 2018

@@ -6,5 +6,5 @@ The setting sun somewhere between Denver and Chicago.
 
 - - - -
 
-👤 Nathan Acks  
-📅 August 5, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> August 5, 2003

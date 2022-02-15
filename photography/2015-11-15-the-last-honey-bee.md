@@ -8,5 +8,5 @@ The last honey bees (and a few smaller native bees) were here, searching for wha
 
 - - - -
 
-👤 Nathan Acks  
-📅 November 15, 2015
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> November 15, 2015

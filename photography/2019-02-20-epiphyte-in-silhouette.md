@@ -6,5 +6,5 @@ Someone left a small epiphyte on top of a window at my work.
 
 - - - -
 
-👤 Nathan Acks  
-📅 February 20, 2019
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> February 20, 2019

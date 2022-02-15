@@ -6,5 +6,5 @@ Willis von Schmusebär.
 
 - - - -
 
-👤 Nathan Acks  
-📅 January 21, 2002
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> January 21, 2002

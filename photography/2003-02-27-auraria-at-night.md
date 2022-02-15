@@ -6,5 +6,5 @@ Auraria Campus at night.
 
 - - - -
 
-👤 Nathan Acks  
-📅 February 27, 2003
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> February 27, 2003

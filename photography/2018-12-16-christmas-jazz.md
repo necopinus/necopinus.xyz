@@ -6,5 +6,5 @@ Christmas Jazz at an Aspen Gala.
 
 - - - -
 
-👤 Nathan Acks  
-📅 December 16, 2018
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> December 16, 2018

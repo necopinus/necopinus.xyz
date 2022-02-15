@@ -6,5 +6,5 @@ Christmas 2004.
 
 - - - -
 
-👤 Nathan Acks  
-📅 December 25, 2004
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> December 25, 2004

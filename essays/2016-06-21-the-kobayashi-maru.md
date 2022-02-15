@@ -4,5 +4,5 @@
 
 - - - -
 
-👤 Nathan Acks  
-📅 June 21, 2016
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> June 21, 2016

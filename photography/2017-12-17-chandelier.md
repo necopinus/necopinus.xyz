@@ -6,5 +6,5 @@ A chandelier in the ballroom under the Hotel Regis in Aspen, taken during the 20
 
 - - - -
 
-👤 Nathan Acks  
-📅 December 17, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> December 17, 2017

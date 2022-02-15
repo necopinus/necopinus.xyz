@@ -6,5 +6,5 @@ Moon over Republic Plaza.
 
 - - - -
 
-👤 Nathan Acks  
-📅 December 11, 2017
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">📅</span> December 11, 2017
