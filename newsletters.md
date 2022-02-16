@@ -1,1 +1,17 @@
 # <span aria-hidden="true">📯</span> Newsletter Archive <span aria-hidden="true">📯</span>
+
+* [2018-10-03 Other Decisions Can be Made](newsletters/2018-10-03-other-decisions-can-be-made.md)
+* [2018-09-23 Where Homo Sapiens is Headed](newsletters/2018-09-23-where-homo-sapiens-is-headed.md)
+* [2018-02-18 Something of Adaptive Value to Human Life](newsletters/2018-02-18-something-of-adaptive-value-to-human-life.md)
+* [2018-02-11 Surprise Must Hide in Secret Worlds](newsletters/2018-02-11-surprise-must-hide-in-secret-worlds.md)
+* [2018-01-28 The Last Remaining Hominin](newsletters/2018-01-28-the-last-remaining-hominin.md)
+* [2018-01-20 Everything Was Stripped Away](newsletters/2018-01-20-everything-was-stripped-away.md)
+* [2018-01-14 An Error of Scale](newsletters/2018-01-14-an-error-of-scale.md)
+* [2016-12-18 And We Will Know Him for a Thousand Years](newsletters/2016-12-18-and-we-will-know-him-for-a-thousand-years.md)
+* [2016-10-17 Pervasive and Obligatory Features](newsletters/2016-10-17-pervasive-and-obligatory-features.md)
+* [2016-10-01 When the Sea Came in and Covered the Land](newsletters/2016-10-01-when-the-sea-came-in-and-covered-the-land.md)
+* [2016-09-19 Enough Behavioral Flexibility to Persist in a Disturbed Landscape](newsletters/2016-09-19-enough-behavioral-flexibility-to-persist-in-a-disturbed-landscape.md)
+* [2016-09-05 A Matter of Intense But Mostly Theoretical Debate](newsletters/2016-09-05-a-matter-of-intense-but-mostly-theoretical-debate.md)
+* [2016-08-21 I’m Not Saying It’s Aliens…](newsletters/2016-08-21-im-not-saying-its-aliens.md)
+* [2016-08-15 A Slow Rate of Reproduction](newsletters/2016-08-15-a-slow-rate-of-reproduction.md)
+* [2016-08-09 Camp Century](newsletters/2016-08-09-camp-century.md)
