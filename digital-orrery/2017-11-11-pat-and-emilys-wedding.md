@@ -1,6 +1,6 @@
 # Pat & Emily’s Wedding
 
-Photos from my friends’ Pat Kelly-Fischer and Emily Kelly-Fischer’s wedding near Winter Park, Colorado. This set of photos sold me on the power of the combination of the Pixelbook’s pen and [Adobe Photoshop Lightroom CC](https://play.google.com/store/apps/details?id=com.adobe.lrmobile).
+Photos from my friends’ Pat Kelly-Fischer and Emily Kelly-Fischer’s wedding near Winter Park, Colorado. This set of photos sold me on the power of the combination of the Pixelbook’s pen and Adobe Photoshop Lightroom CC.
 
 ![The top of a wedding cake](assets/0a5b502974f808e8b1668f1dbde34d28.webp)
 
@@ -53,6 +53,8 @@ Pat Kelly-Fischer & Emily Kelly-Fischer dance at their wedding reception.
 ![The bride and groom dance at a wedding reception as other guests move and dance around them](assets/708a0d3bd895ae549c9bb33962fe974d.webp)
 
 Pat Kelly-Fischer & Emily Kelly-Fischer dance during their wedding reception.
+
+* [Adobe Lightroom: Photo Editor](https://play.google.com/store/apps/details?id=com.adobe.lrmobile)
 
 - - - -
 

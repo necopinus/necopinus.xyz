@@ -1,6 +1,10 @@
 # Travels in the Southwest Colorado Plateau
 
-A week spent road-tripping to [Arches](https://www.nps.gov/arch/index.htm), [Grand Canyon](https://www.nps.gov/grca/index.htm), and [Bryce Canyon](https://www.nps.gov/brca/index.htm) National Parks, and a few more spots in between.
+A week spent road-tripping to Arches, Grand Canyon, and Bryce Canyon National Parks, and a few more spots in between.
+
+* [Arches National Park](https://www.nps.gov/arch/index.htm)
+* [Grand Canyon National Park](https://www.nps.gov/grca/index.htm)
+* [Bryce Canyon National Park](https://www.nps.gov/brca/index.htm)
 
 ## Arches National Park
 

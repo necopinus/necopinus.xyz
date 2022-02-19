@@ -1,6 +1,9 @@
 # Telluride, CO and the Black Canyon of the Gunnison
 
-Every year Len Montgomery and I take a short vacation around her birthday. For 2018 we decided to spend a couple of days in [Telluride, CO](http://www.visittelluride.com/). On the way back we stopped by one of my favorite (and I think, under-rated) national parks, the [Black Canyon of the Gunnison](https://www.nps.gov/blca/).
+Every year Len Montgomery and I take a short vacation around her birthday. For 2018 we decided to spend a couple of days in Telluride, CO. On the way back we stopped by one of my favorite (and I think, under-rated) national parks, the Black Canyon of the Gunnison.
+
+* [Telluride, Colorado](http://www.visittelluride.com)
+* [Black Canyon of the Gunnison](https://www.nps.gov/blca/)
 
 ## Telluride
 

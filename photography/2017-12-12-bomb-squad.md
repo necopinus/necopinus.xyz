@@ -4,7 +4,9 @@
 
 Well, this isn’t something you see every day…
 
-(It turned out to have been a [“suspicious device” on an RTD train](http://www.9news.com/mobile/article/news/local/all-clear-given-after-suspicious-device-spotted-on-rtd-train/73-498997303).)
+(It turned out to have been a “suspicious device” on an RTD train.)
+
+* ['All clear' given after suspicious device spotted on RTD train](http://www.9news.com/mobile/article/news/local/all-clear-given-after-suspicious-device-spotted-on-rtd-train/73-498997303)
 
 - - - -
 

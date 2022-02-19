@@ -1,6 +1,6 @@
 # Te Urewera
 
-> This short “essay” was written in response to [a video a friend posted on my Facebook timeline](https://www.facebook.com/theguardian/videos/557279487793152/) about New Zealand granting the Te Urewera national park legal personhood — an idea that another (lawyer) friend took some exception to in the comments.
+> This short “essay” was written in response to a video a friend posted on my Facebook timeline about New Zealand granting the Te Urewera national park legal personhood — an idea that another (lawyer) friend took some exception to in the comments.
 
 So… Color me cautiously optimistic? But the devil’s always in the details, and I’d need to understand the situation a lot better than the information in the video allows to really come down on this one way or another.
 
@@ -42,15 +42,19 @@ That said…
 
 I do think we need to begin building the social, cultural, and legal frameworks necessary to bring “people who are not people” into our day-to-day decision-making process. I don’t have good, pat answers about how to do this, and frankly I don’t think anyone does. The way that we’re going to figure out how to do this is by trying different approaches.
 
-Some of these are going to be more incremental, like [the lawsuit of “Our Children’s Trust” on behalf of future generations](http://www.ourchildrenstrust.org/us/federal-lawsuit) that is currently winding its way through the US courts.
+Some of these are going to be more incremental, like the lawsuit of “Our Children’s Trust” on behalf of future generations that is currently winding its way through the US courts.
 
-Some of these are going to be subtle, like the incorporation if the concept of the [“rights of nature”](https://en.m.wikipedia.org/wiki/Rights_of_Nature) into Ecuador’s constitution.
+Some of these are going to be subtle, like the incorporation if the concept of the “rights of nature” into Ecuador’s constitution.
 
 And some of these are going, frankly, to be blunt instruments, like the declaration of Te Urewera’s legal personhood.
 
 Mistakes are going to be made, ideas tried and then discarded. This is how we figure things out as a society.
 
 So while on the one hand I’m skeptical that granting legal personhood to Te Urewera national park will ultimately have the desired outcome (or even adequately addresses the issues it was intended to), on the other I welcome the conversation.
+
+* [Can a national park be a person? New Zealand says yes](https://www.facebook.com/theguardian/videos/557279487793152/)
+* [Our Children’s Trust: Youth v. Gov](http://www.ourchildrenstrust.org/us/federal-lawsuit)
+* [Rights of Nature (Wikipedia)](https://en.m.wikipedia.org/wiki/Rights_of_Nature)
 
 - - - -
 

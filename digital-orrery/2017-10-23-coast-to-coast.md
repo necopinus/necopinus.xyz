@@ -24,7 +24,7 @@ The San Francisco after dinner crew.
 
 ![A spherical orrery made out of polished steal and stone at The Interval in San Francisco](assets/05d3485fdd3893358ca4323882fd13dd.webp)
 
-The orrery at [The Interval](https://theinterval.org/), which is run by [The Long Now](https://longnow.org/).
+The orrery at The Interval, which is run by The Long Now.
 
 ![Runways and hangers at the San Francisco International Airport](assets/f93fc321c1b69dc6e1c1958d145ec563.webp)
 
@@ -33,6 +33,10 @@ Takeoff from SFO, en route to Louisville, Kentucky. The San Francisco Bay is in 
 ![Maintenance hangers and planes at San Francisco International Airport as seen from the air](assets/bec266851012b243e8c86f0e7cf2fde4.webp)
 
 A view of part of SFO from the air, taken shortly after takeoff.
+
+* [The Interval](https://theinterval.org/)
+* [The Long Now Foundation](https://longnow.org/)
+
 
 ## Louisville
 

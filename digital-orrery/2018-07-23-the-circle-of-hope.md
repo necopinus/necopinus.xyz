@@ -1,8 +1,11 @@
 # The Circle of HOPE
 
-This year I attended HOPE 12, [The Circle of HOPE](https://xii.hope.net/). “HOPE” stands for “Hackers on Planet Earth”, and is one of the older hacker conferences in the US. It’s put on every other year by the crew from [2600 Magazine](https://www.2600.com/).
+This year I attended HOPE 12, The Circle of HOPE. “HOPE” stands for “Hackers on Planet Earth”, and is one of the older hacker conferences in the US. It’s put on every other year by the crew from 2600 Magazine.
 
 Attending HOPE is something I’ve wanted to do for a long time. While I didn’t take any photos in the conference itself, these are a few photos I took around the event.
+
+* [The Circle of HOPE](https://xii.hope.net/)
+* [2600: The Hacker Quarterly](https://www.2600.com/)
 
 # Denver to New York
 
@@ -24,7 +27,9 @@ Eastern Colorado from the air, on the way to New York City and HOPE 12.
 
 ![Looking west across Jersey City at dusk](assets/30b7086afab9c012ea2817ed2523ef20.webp)
 
-Jersey City from the air, just before landing in New York City for [HOPE 12](https://xii.hope.net/)!
+Jersey City from the air, just before landing in New York City for HOPE 12!
+
+* [The Circle of HOPE](https://xii.hope.net/)
 
 ## The Hotel Pennsylvania
 
@@ -34,11 +39,13 @@ The view out the window of my room at the Hotel Pennsylvania, the night before H
 
 ![A New York City skyline at night](assets/7d8d05bf92d1190b6859cab600b63c56.webp)
 
-The view out the window of my room at the Hotel Pennsylvania on the second night of [HOPE 12](https://xii.hope.net/).
+The view out the window of my room at the Hotel Pennsylvania on the second night of HOPE 12.
 
 ![A New York City skyline at night](assets/9d101625583ce0c7cc4dacbc9da24484.webp)
 
 The view out the window of my room at the Hotel Pennsylvania on the second night of HOPE 12.
+
+* [The Circle of HOPE](https://xii.hope.net/)
 
 ## The Metropolitan Museum of Art
 

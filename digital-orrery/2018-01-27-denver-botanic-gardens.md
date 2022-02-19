@@ -1,6 +1,6 @@
 # Denver Botanic Gardens
 
-Photos from the [Denver Botanic Gardens](https://www.botanicgardens.org/)’ annual orchid show, many of which I tagged for the usual photo contest (though none won).
+Photos from the Denver Botanic Gardens’ annual orchid show, many of which I tagged for the usual photo contest (though none won).
 
 ![A large cluster of bright orange and pink tropical flowers](assets/fa6aba6284a785ea642f658893a781bd.webp)
 
@@ -73,6 +73,8 @@ Flowers nearing bloom on a tree in the Denver Botanic Gardens conservatory.
 ![A delicate pink tropical flower with incredibly long stamen and few visible petals](assets/eb1924ba1c13b23077c1f715a8db4437.webp)
 
 A flower in the Denver Botanic Gardens conservatory.
+
+* [Denver Botanic Gardens](https://www.botanicgardens.org)
 
 - - - -
 

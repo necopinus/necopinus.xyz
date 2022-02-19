@@ -1,6 +1,6 @@
 # The Transparent Society
 
-While I agree with the advocates off the [“Transparent Society”](http://www.davidbrin.com/transparency.html), I don’t think they appreciate for the most part how radical that transparency is going to have to be, or how fundamentally our society is going to have to change because of it.
+While I agree with the advocates off the “Transparent Society”, I don’t think they appreciate for the most part how radical that transparency is going to have to be, or how fundamentally our society is going to have to change because of it.
 
 The problem here is not just that you can’t put the surveillance genie back in the bottle, but that both the things that enable surveillance only get cheaper and more widely available with time. and that intentionally weak cryptographic systems can be exploited by everyone. If the surveillance state grows — even if we are able to extract equivalent levels of transparency and accountability — then eventually we’re going to run into a situation where it’s trivially east to spy on everyone, both because the technology is cheap and ubiquitous, and also because the systems that would act as a counterbalance will have been effectively neutered.
 
@@ -9,6 +9,8 @@ I’m skeptical of the law’s ability to constrain behavior at that point (law 
 You might try to prevent that with massive, totalitarian-style surveillance, but that just creates a bigger, juicier target. I can envision people adapting to this by adopting radically open and accepting cultural norms (though I worry about the homogenizing nature of such global “total information awareness,” both due to outright coercion and the inescapable cacophony of the dominant culture), but I can’t envision any economic system built around tallying up one’s “contributions” (i.e., anything that involves any form of currency) surviving in a world where the records of such transactions are so totally vulnerable to being rewritten.
 
 That’s a far weirder, more disturbing, and more perilous world than Dr. Brin & co. seem willing to consider.
+
+* [David Brin's transparency page](http://www.davidbrin.com/transparency.html)
 
 - - - -
 

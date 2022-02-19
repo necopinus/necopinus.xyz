@@ -1,6 +1,6 @@
 # Great Sand Dunes National Park
 
-A weekend at [Great Sand Dunes National Park](https://www.nps.gov/grsa/index.htm). Technically a work trip, but I managed to fit in one short hike on the dunes.
+A weekend at Great Sand Dunes National Park. Technically a work trip, but I managed to fit in one short hike on the dunes.
 
 ![High desert scrubland ends abruptly in a field of high sand dunes](assets/36f1218fb30c9b9165e4ae7a5165477f.webp)
 
@@ -113,6 +113,8 @@ Looking southwest across the Great Sand Dunes. The Sangre de Cristo Mountains ar
 ![Len looks back toward the camera from a low, sandy hill](assets/5039f7444c31e93a4ee7625f6e8bff66.webp)
 
 Len Montgomery at the Great Sand Dunes. The Sangre de Cristo Mountains lie in the distance.
+
+* [Great Sand Dunes National Park](https://www.nps.gov/grsa/index.htm)
 
 - - - -
 

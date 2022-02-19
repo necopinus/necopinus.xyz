@@ -1,6 +1,6 @@
 # Denver Botanic Gardens
 
-Photos from the [Denver Botanic Gardens](https://www.botanicgardens.org/).
+Photos from the Denver Botanic Gardens.
 
 ![A bright pink rose](assets/de5c9d6c1f52ee48efe7af3c1da3247d.webp)
 
@@ -49,6 +49,8 @@ A detail of some flowers growing on the central sculpture/water feature of the S
 ![A knot of purple flowers](assets/0d4f5487ac678cfface75ae47f29c3a5.webp)
 
 A detail of some flowers growing on the central sculpture/water feature of the Steppe Garden at the Denver Botanic Gardens.
+
+* [Denver Botanic Gardens](https://www.botanicgardens.org/)
 
 - - - -
 

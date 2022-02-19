@@ -1,6 +1,6 @@
 # Rocky Mountain National Park
 
-A short excursion to Bear Lake and the Alpine Visitor Center in [Rocky Mountain National Park](https://www.nps.gov/romo/index.htm).
+A short excursion to Bear Lake and the Alpine Visitor Center in Rocky Mountain National Park.
 
 ![A sheer, angular peak rises above the valley walls surrounding a mountain lake](assets/5b977919cb7f3407cb6f02c081245eee.webp)
 
@@ -72,7 +72,7 @@ Looking towards Mamot Point from the Rocky Mountain National Park Alpine Visitor
 
 ![An alpine valley](assets/8ef053744d9f1417ef3824103e8c786f.webp)
 
-Looking southeast from the [Rocky Mountain National Park](https://www.nps.gov/romo/index.htm) Alpine Visitor Center down the Fall River Valley. Mount Chapin frames the valley to the left, while Sundance Mountain borders the valley on the right. Marmot Point can be seen just left of the center of the image; Mount Chiquita and Ypsilon Peak can be seen to its left.
+Looking southeast from the Rocky Mountain National Park Alpine Visitor Center down the Fall River Valley. Mount Chapin frames the valley to the left, while Sundance Mountain borders the valley on the right. Marmot Point can be seen just left of the center of the image; Mount Chiquita and Ypsilon Peak can be seen to its left.
 
 ![An alpine valley](assets/0cc485bad140601262908237a58b65ca.webp)
 
@@ -85,6 +85,8 @@ Looking north from above the Rocky Mountain National Park Alpine Visitor Center.
 ![An alpine valley](assets/7069b1649bce2fedfb849c2ecb1f9041.webp)
 
 Looking northwest from above the Rocky Mountain National Park Alpine Visitor Center. Specimen Mountain is almost dead center in the frame.
+
+* [Rocky Mountain National Park](https://www.nps.gov/romo/index.htm)
 
 - - - -
 

@@ -1,6 +1,6 @@
 # The Clarke Horizon, Part 2
 
-Okay, here’s an attempt at bringing [the conversation about the “Clarke Horizon”](2012-09-12-the-clarke-horizon-part-1.md) down to Earth a bit. I’m going to attempt to recap everything I’ve said previously in less technical language and annotate a few concepts along the way. The discussion so far has led to some revisions of the original concept; I’m not going to stop to explain what’s changed — just take this post as the canonical “state of the idea” at this time.
+Okay, here’s an attempt at bringing the conversation about the “Clarke Horizon” down to Earth a bit. I’m going to attempt to recap everything I’ve said previously in less technical language and annotate a few concepts along the way. The discussion so far has led to some revisions of the original concept; I’m not going to stop to explain what’s changed — just take this post as the canonical “state of the idea” at this time.
 
 Science fiction author Arthur C. Clarke famously proposed in 1973 that “any sufficiently advanced technology is indistinguishable from magic.” Let’s use this concept to define the “Clarke Horizon” — the point in the future where civilization operates in a manner that appears inexplicable — “magical” to an observer in the present. Most often this “magic” is technological (computers, for example, would be well beyond the Clarke Horizon of Roman civilization), but it may sometimes be social (for example, that modern cities can function as social entities at all would almost certainly be beyond the Clarke Horizon of our Neolithic forebears).
 
@@ -29,6 +29,8 @@ Now, this may sound profoundly creepy to you. And it should. Having some organiz
 We all want to live in the great big beautiful tomorrow, but it’s probably worth it to try getting there *without* traversing the Singularity. If we can come to understand the behavior of the Clarke Horizon well enough, it may be possible to choose trajectories for civilization that avoid Seldon Crises with lots of discontinuities, thereby minimizing the danger such events pose. A Foundation charged with this task might take as its Prime Directive (see, I can even work “Star Trek” into this!) that it should only seek to avoid the worst Crises, leaving as many trajectories of social and technological change as possible open at any one time. Perhaps it would be best to think of such an institution as something between an early warning system and a disaster preparedness agency whose purview is dislocations in civilization itself, rather than natural disasters.
 
 There’s probably a whole new cross-disciplinary field of study here. Certainly we’re talking about something a lot heavier and with a broader scope than economics, political science, or social psychology currently has. Perhaps we should just call it “psychohistory”.
+
+* [2012-09-12 The Clarke Horizon, Part 1](2012-09-12-the-clarke-horizon-part-1.md)
 
 - - - -
 
