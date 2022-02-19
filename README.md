@@ -22,7 +22,7 @@
 
 ## Elsewhere
 
-* [<span aria-hidden="true">💻</span> Cardboard Iguana Security](https://www.cardboard-iguana.com/)
+* [<span aria-hidden="true">🧑‍💻</span> Cardboard Iguana Security](https://www.cardboard-iguana.com/)
 * [<span aria-hidden="true">🏡</span> Château MaxMin()](https://www.chateaumaxmin.info/)
 * [<span aria-hidden="true">🐦</span> Twitter](https://twitter.com/necopinus)
 * [<span aria-hidden="true">📧</span> Email](mailto:nathan.acks@necopinus.xyz)
