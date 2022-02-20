@@ -10,7 +10,7 @@ So here’s a bit of an experiment… Shorter takes (occassionally paired with e
 
 Anyway, that’s the idea at least. Let’s see how well it works.
 
-* [Exponential View](https://www.exponentialview.co/))
+* [Exponential View](https://www.exponentialview.co/)
 * [Pythia (Wikipedia)](https://en.wikipedia.org/wiki/Pythia)
 * [Ozymandias (comics) (Wikipedia)](https://en.wikipedia.org/wiki/Ozymandias_%28comics%29)
 
