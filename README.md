@@ -26,3 +26,8 @@
 * [<span aria-hidden="true">🏡</span> Château MaxMin()](https://www.chateaumaxmin.info/)
 * [<span aria-hidden="true">🐦</span> Twitter](https://twitter.com/necopinus)
 * [<span aria-hidden="true">📧</span> Email](mailto:nathan.acks@necopinus.xyz)
+
+- - - -
+
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">🏷️</span> #MOC

@@ -124,3 +124,8 @@
 * [2003-02-27 Auraria at Night](photography/2003-02-27-auraria-at-night.md)
 * [2002-01-23 Market Street Station](photography/2002-01-23-market-street-station.md)
 * [2002-01-21 Willis von Schmusebär](photography/2002-01-21-willis-von-schmusebar.md)
+
+- - - -
+
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">🏷️</span> #MOC

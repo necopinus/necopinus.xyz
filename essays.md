@@ -10,3 +10,8 @@
 * [2013-10-06 The Transparent Society](essays/2013-10-06-the-transparent-society.md)
 * [2012-09-13 The Clarke Horizon, Part 2](essays/2012-09-13-the-clarke-horizon-part-2.md)
 * [2012-09-12 The Clarke Horizon, Part 1](essays/2012-09-12-the-clarke-horizon-part-1.md)
+
+- - - -
+
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">🏷️</span> #MOC

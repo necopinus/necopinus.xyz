@@ -15,3 +15,8 @@
 * [2016-08-21 I’m Not Saying It’s Aliens…](newsletters/2016-08-21-im-not-saying-its-aliens.md)
 * [2016-08-15 A Slow Rate of Reproduction](newsletters/2016-08-15-a-slow-rate-of-reproduction.md)
 * [2016-08-09 Camp Century](newsletters/2016-08-09-camp-century.md)
+
+- - - -
+
+<span aria-hidden="true">👤</span> Nathan Acks  
+<span aria-hidden="true">🏷️</span> #MOC
