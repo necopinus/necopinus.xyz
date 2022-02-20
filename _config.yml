@@ -1,0 +1,99 @@
+# Gemfile-based plugins.
+#
+plugins:
+  - jekyll-titles-from-headings
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-auto-image
+  - jekyll-readme-index
+
+# Some generic (non-standard) site settings.
+#
+name: necopinus.xyz
+description: Photography, thoughts on the future, and occasional poetry of questionable quality.
+url: https://necopinus.xyz
+icon: 57c94a5a8d772d3dfddc094a7de88939.webp
+cover: cdf0cd1465858b26d58cee511531a0f3.jpg
+author: Nathan Acks
+
+# Default image for the auto-image plugin (used in Twitter
+# Cards and Open Graph image tags.
+#
+image: /b6afe6a83fc275ddf0c138983f368a2e.webp
+
+# Optional front-matter defaults.
+#
+optional_front_matter:
+  remove_originals: true
+
+# Readme index defaults:
+readme_index:
+  remove_originals: true
+
+# Per-page defaults.
+#
+defaults:
+  - scope:
+      path: README.md
+    values:
+      layout: homepage
+  - scope:
+      path: delphi-strategy.md
+    values:
+      layout: list
+  - scope:
+      path: digital-orrery.md
+    values:
+      layout: list
+  - scope:
+      path: essays.md
+    values:
+      layout: list
+  - scope:
+      path: newsletters.md
+    values:
+      layout: list
+  - scope:
+      path: photography.md
+    values:
+      layout: list
+  - scope:
+      path: poetry.md
+    values:
+      layout: list
+  - scope:
+      path: digital-orrery
+    values:
+      layout: post
+  - scope:
+      path: essays
+    values:
+      layout: post
+  - scope:
+      path: newsletters
+    values:
+      layout: post
+  - scope:
+      path: photography
+    values:
+      layout: post
+  - scope:
+      path: poetry
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+# Additional excludes.
+#
+exclude:
+  - package.json
+  - package-lock.json
