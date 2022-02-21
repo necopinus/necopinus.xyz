@@ -93,7 +93,7 @@ So yeah. The movement crystallizing around Donald Trump is starting to look like
 * [Geeks for Monarchy: The Rise of the Neoreactionaries](https://techcrunch.com/2013/11/22/geeks-for-monarchy/)
 * [Peter Thiel (Wikipedia)](https://en.wikipedia.org/wiki/Peter_Thiel)
 * [Peter Thiel's War On Gawker: A Timeline](http://www.forbes.com/sites/mattdrange/2016/06/21/peter-thiels-war-on-gawker-a-timeline/)
-* [Peter Thiel | Full Speech | 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk).
+* [Peter Thiel \| Full Speech \| 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk).
 
 ## Halting States
 

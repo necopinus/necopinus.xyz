@@ -206,7 +206,7 @@ This isn’t a long term strategy to contain political rivals. This is recklessn
 
 [VIDEO] I’m optimistic about the new season of Doctor Who.
 
-* [Trailer #2 | Doctor Who | Sunday, October 7 | BBC America](https://www.youtube.com/watch?v=lf_YE24KCKo)
+* [Trailer #2 \| Doctor Who \| Sunday, October 7 \| BBC America](https://www.youtube.com/watch?v=lf_YE24KCKo)
 
 ### 🏫 Many Ways to Be a Girl, But One Way to Be a Boy
 
@@ -295,4 +295,4 @@ The article is bearish on the technology’s prospects for significant deploymen
 
 [VIDEO] The theme from Star Wars, arranged for instruments that existed in ancient Greece.
 
-* [Star Wars in Ancient Greece | Ancient Greek lyre for modern soundtracks](https://www.youtube.com/watch?v=yLNztSg03fI)
+* [Star Wars in Ancient Greece \| Ancient Greek lyre for modern soundtracks](https://www.youtube.com/watch?v=yLNztSg03fI)

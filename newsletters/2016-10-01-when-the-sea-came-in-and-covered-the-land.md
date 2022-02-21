@@ -97,7 +97,7 @@ If Trump wins, then we will know that our time has already run out.
 * [Gerrymandering (Wikipedia)](https://en.wikipedia.org/wiki/Gerrymandering)
 * [Inside the GOP Implosion and the War to Stop Trump](http://talkingpointsmemo.com/edblog/gop-overwhelmed-by-debt)
 * [Geeks for Monarchy: The Rise of the Neoreactionaries](https://techcrunch.com/2013/11/22/geeks-for-monarchy/)
-* [Peter Thiel | Full Speech | 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk)
+* [Peter Thiel \| Full Speech \| 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk)
 * [Why a Silicon Valley Founder Is Funding a Factory for Trump Memes](http://www.theatlantic.com/technology/archive/2016/09/revenge-of-the-nerds/501344/)
 * [Black swan theory (Wikipedia)](https://en.wikipedia.org/wiki/Black_swan_theory)
 
