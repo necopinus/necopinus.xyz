@@ -11,13 +11,13 @@ plugins:
 name: necopinus.xyz
 description: Photography, thoughts on the future, and occasional poetry of questionable quality.
 url: https://necopinus.xyz
-icon: 57c94a5a8d772d3dfddc094a7de88939.webp
-cover: cdf0cd1465858b26d58cee511531a0f3.jpg
+icon: avatar.webp
+cover: cover.jpg
 author: Nathan Acks
 
 # Default image page (used in Twitter Cards and Open Graph image tags).
 #
-image: /b6afe6a83fc275ddf0c138983f368a2e.webp
+image: /banner.webp
 
 # Optional front-matter defaults.
 #
