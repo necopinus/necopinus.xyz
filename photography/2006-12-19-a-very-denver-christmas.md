@@ -1,6 +1,6 @@
 # A Very Denver Christmas
 
-![Christmas lights on Denver’s City and County building](assets/c5a433023c41e1f0fdf709d5b994fc46.webp)
+![Christmas lights on Denver’s City and County building](assets/2006-12-19-a-very-denver-christmas.webp)
 
 The Denver City and County Building, Christmas 2006.
 

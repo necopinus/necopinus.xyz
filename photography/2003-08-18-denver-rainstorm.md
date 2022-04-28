@@ -1,6 +1,6 @@
 # Denver Rainstorm
 
-![A rainstorm pounds a city street](assets/5568a3cd8309ed89c6b7c1ff77c4bced.webp)
+![A rainstorm pounds a city street](assets/2003-08-18-denver-rainstorm.webp)
 
 The intersection of Colfax and Tremont in Denver during a heavy afternoon rainstorm.
 

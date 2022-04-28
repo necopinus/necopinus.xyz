@@ -1,6 +1,6 @@
 # LoDo Honey Bee
 
-![A cluster of purple flowers with a honey bee hanging on one side](assets/07c5f9abc924594d82abaa83e5e8ca95.webp)
+![A cluster of purple flowers with a honey bee hanging on one side](assets/2015-10-07-lodo-honey-bee.webp)
 
 LoDo honey bee.
 

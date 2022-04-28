@@ -1,6 +1,6 @@
 # A Very Denver Christmas
 
-![Christmas lights on Denver’s City and County building](assets/c110fbbfa499bc20bebb6b12153c564e.webp)
+![Christmas lights on Denver’s City and County building](assets/2005-12-22-a-very-denver-christmas.webp)
 
 Denver City Hall, Christmas 2005.
 

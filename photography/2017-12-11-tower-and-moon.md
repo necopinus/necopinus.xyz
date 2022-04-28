@@ -1,6 +1,6 @@
 # Tower and Moon
 
-![A black-and-white photo of a tall white building with the crescent Moon near its peak](assets/52368b791fd9c87670fdf0b93b6f8afd.webp)
+![A black-and-white photo of a tall white building with the crescent Moon near its peak](assets/2017-12-11-tower-and-moon.webp)
 
 Moon over Republic Plaza.
 

@@ -1,6 +1,6 @@
 # Blade Runner
 
-![Looking west across Jersey City at dusk](assets/30b7086afab9c012ea2817ed2523ef20.webp)
+![Looking west across Jersey City at dusk](assets/2018-07-19-blade-runner.webp)
 
 Jersey City from the air, just before landing in New York City for HOPE 12!
 

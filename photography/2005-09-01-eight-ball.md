@@ -1,6 +1,6 @@
 # Eight Ball
 
-![A pool table](assets/1e3a2dfa7165abf39d6f77898a72f6b1.webp)
+![A pool table](assets/2005-09-01-eight-ball.webp)
 
 Pool game in progress at Cafe@Netherworld.
 

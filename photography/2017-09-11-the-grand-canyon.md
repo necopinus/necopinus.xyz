@@ -1,6 +1,6 @@
 # The Grand Canyon
 
-![A view into the Grand Canyon from the South Rim](assets/e623f36de90b778f44831e7b4411f39a.webp)
+![A view into the Grand Canyon from the South Rim](assets/2017-09-11-the-grand-canyon.webp)
 
 Looking east along the Grand Canyon from near Hopi Point. The Colorado River is visible near center.
 

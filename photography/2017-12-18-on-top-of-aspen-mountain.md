@@ -1,6 +1,6 @@
 # On Top of Aspen Mountain
 
-![Inside of a dense pine forest during the winter](assets/b0dcee6f99183babb7d4c1489703dc35.webp)
+![Inside of a dense pine forest during the winter](assets/2017-12-18-on-top-of-aspen-mountain.webp)
 
 Looking south-ish through part of the forest on top of Aspen Mountain.
 

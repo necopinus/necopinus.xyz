@@ -1,6 +1,6 @@
 # Somewhere Near Vail, CO
 
-![Cold, snow-covered peaks rise out of a pine forest](assets/512b7e6333138785723be6e5807a9767.webp)
+![Cold, snow-covered peaks rise out of a pine forest](assets/2017-12-21-somewhere-near-vail-co.webp)
 
 The view from the road back to Denver from Aspen.
 

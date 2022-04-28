@@ -1,6 +1,6 @@
 # Highland Bowl
 
-![A snowy mountain range seen through the tops of a pine forest](assets/487227e11f7d2a67dfb7b27d3a37b2ab.webp)
+![A snowy mountain range seen through the tops of a pine forest](assets/2018-12-18-highland-bowl.webp)
 
 The Highland Bowl as seen from the top of Aspen Mountain.
 

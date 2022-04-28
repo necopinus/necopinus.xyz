@@ -1,6 +1,6 @@
 # Cherry Creek Sandbar
 
-![Water flows around a clump of grass growing on a sandbar in Cherry Creek](assets/ddad604f68d3f31cfdb98cb554e762ae.webp)
+![Water flows around a clump of grass growing on a sandbar in Cherry Creek](assets/2003-07-08-cherry-creek-sandbar.webp)
 
 Cherry Creek sandbar.
 

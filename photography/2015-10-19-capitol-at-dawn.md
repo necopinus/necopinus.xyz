@@ -1,6 +1,6 @@
 # Capitol at Dawn
 
-![The Colorado state capitol at dawn](assets/1cc5add968e0c22df4f19991a61cc4be.webp)
+![The Colorado state capitol at dawn](assets/2015-10-19-capitol-at-dawn.webp)
 
 Capitol at dawn.
 

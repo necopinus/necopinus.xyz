@@ -1,6 +1,6 @@
 # Union Station
 
-![A black-and-white image of the train tracks behind Union Station, taken slightly after a rain storm](assets/b33ef71c84f7dce5cb24712fb22e6251.webp)
+![A black-and-white image of the train tracks behind Union Station, taken slightly after a rain storm](assets/2005-07-24-union-station.webp)
 
 Union Station, looking particularly steampunk.
 

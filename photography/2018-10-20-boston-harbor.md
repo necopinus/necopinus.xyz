@@ -1,6 +1,6 @@
 # Boston Harbor
 
-![A tight cluster of buildings seen from across a small bay at dusk](assets/84c5ec20274176d24913361e249b726c.webp)
+![A tight cluster of buildings seen from across a small bay at dusk](assets/2018-10-20-boston-harbor.webp)
 
 The view from the Boston Aquarium.
 

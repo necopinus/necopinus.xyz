@@ -1,6 +1,6 @@
 # Market Street Station
 
-![The 16th Street Mall bus terminal at Market Street Station](assets/d83e9a902f94478a9cdc603fdd6cbf6f.webp)
+![The 16th Street Mall bus terminal at Market Street Station](assets/2002-01-23-market-street-station.webp)
 
 Market Street Station at night.
 

@@ -1,6 +1,6 @@
 # Auraria at Night
 
-![The Auraria Campus library and a nearby church at night](assets/4cbc09ddd3faf7da4f08090605bb7336.webp)
+![The Auraria Campus library and a nearby church at night](assets/2003-02-27-auraria-at-night.webp)
 
 Auraria Campus at night.
 

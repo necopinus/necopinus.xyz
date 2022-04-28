@@ -1,6 +1,6 @@
 # Rainbow Over Colfax
 
-![A double rainbow arches over a city street against receding dark gray rain clouds](assets/d49e3e7cccc45fffd94b56091f5ce529.webp)
+![A double rainbow arches over a city street against receding dark gray rain clouds](assets/2015-10-18-rainbow-over-colfax.webp)
 
 Rainbow over Colfax.
 

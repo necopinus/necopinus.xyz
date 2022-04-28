@@ -1,6 +1,6 @@
 # Bomb Squad
 
-![A large truck marked “Denver Police Bomb Squad” blocks a nighttime intersection](assets/564181d1e2f35df3c7ceab0b82546c38.webp)
+![A large truck marked “Denver Police Bomb Squad” blocks a nighttime intersection](assets/2017-12-12-bomb-squad.webp)
 
 Well, this isn’t something you see every day…
 

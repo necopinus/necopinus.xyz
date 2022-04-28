@@ -1,6 +1,6 @@
 # Redevelopment
 
-![A black-and-white photograph of an apartment building under construction in Washington, DC](assets/c8193707205cb81f2601362a5b331a57.webp)
+![A black-and-white photograph of an apartment building under construction in Washington, DC](assets/2017-03-24-redevelopment.webp)
 
 Chinese redevelopment (apartments) in Washington, DC.
 

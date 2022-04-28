@@ -1,6 +1,6 @@
 # Fall Colors
 
-![The view across a city lake](assets/51a2acfe23c69995aed0ccf6b41f8128.webp)
+![The view across a city lake](assets/2018-10-28-fall-colors.webp)
 
 Fall colors in Denver’s City Park.
 

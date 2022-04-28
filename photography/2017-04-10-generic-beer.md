@@ -1,6 +1,6 @@
 # Generic Beer
 
-![A sign advertising hot wings and beer, with a conspicuously generic beer bottle](assets/75677f3e1c6960b361ff021c42708331.webp)
+![A sign advertising hot wings and beer, with a conspicuously generic beer bottle](assets/2017-04-10-generic-beer.webp)
 
 Ad with generic beer next to the Wingstop at 20th & Washington, Denver, CO.
 

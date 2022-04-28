@@ -1,6 +1,6 @@
 # North Table Mountain
 
-![High voltage power lines curve around a tall rocky outcrop](assets/617699b3c2e94d94c35f782a6309beaf.webp)
+![High voltage power lines curve around a tall rocky outcrop](assets/2019-08-10-north-table-mountain.webp)
 
 Power lines on North Table Mountain.
 

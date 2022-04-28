@@ -1,6 +1,6 @@
 # Vandalism
 
-![A vandalized “Black Lives Matter” banner on the side of a church](assets/af025d5c4f5e7b2e10b65146238ca7fc.webp)
+![A vandalized “Black Lives Matter” banner on the side of a church](assets/2015-11-01-vandalism.webp)
 
 So, that happened last night… 🙁
 

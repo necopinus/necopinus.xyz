@@ -1,6 +1,6 @@
 # Evocative Clouds
 
-![Storm clouds catch the setting Sun](assets/4208fe42e73f089c5d80645d1144f95b.webp)
+![Storm clouds catch the setting Sun](assets/2019-07-04-evocative-clouds.webp)
 
 Evocative clouds.
 

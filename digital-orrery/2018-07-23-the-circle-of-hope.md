@@ -9,23 +9,23 @@ Attending HOPE is something I’ve wanted to do for a long time. While I didn’
 
 # Denver to New York
 
-![A view down the train tracks at the Denver Union Station light rail stop](assets/baa19722b3c841ba1bddb0d734903f23.webp)
+![A view down the train tracks at the Denver Union Station light rail stop](assets/2018-07-23-the-circle-of-hope-01.webp)
 
 Union Station, Track A, on the way to HOPE 12!
 
-![Green and brown farm fields and pastures in eastern Colorado](assets/c82cf46a9f35a4e3d76555887170b71c.webp)
+![Green and brown farm fields and pastures in eastern Colorado](assets/2018-07-23-the-circle-of-hope-02.webp)
 
 Eastern Colorado from the air, on the way to New York City and HOPE 12.
 
-![Green and brown farm fields and pastures in eastern Colorado](assets/46f6df9014b210aec3996099530390f8.webp)
+![Green and brown farm fields and pastures in eastern Colorado](assets/2018-07-23-the-circle-of-hope-03.webp)
 
 Eastern Colorado from the air, on the way to New York City and HOPE 12.
 
-![Green and brown farm fields and pastures in eastern Colorado](assets/9e8aaa210308ccacbac9788946ef7b55.webp)
+![Green and brown farm fields and pastures in eastern Colorado](assets/2018-07-23-the-circle-of-hope-04.webp)
 
 Eastern Colorado from the air, on the way to New York City and HOPE 12.
 
-![Looking west across Jersey City at dusk](assets/30b7086afab9c012ea2817ed2523ef20.webp)
+![Looking west across Jersey City at dusk](../photography/assets/2018-07-19-blade-runner.webp)
 
 Jersey City from the air, just before landing in New York City for HOPE 12!
 
@@ -33,15 +33,15 @@ Jersey City from the air, just before landing in New York City for HOPE 12!
 
 ## The Hotel Pennsylvania
 
-![A New York City skyline at night](assets/70ce6d168f11c0d5a5866f4c4714725a.webp)
+![A New York City skyline at night](assets/2018-07-23-the-circle-of-hope-06.webp)
 
 The view out the window of my room at the Hotel Pennsylvania, the night before HOPE 12.
 
-![A New York City skyline at night](assets/7d8d05bf92d1190b6859cab600b63c56.webp)
+![A New York City skyline at night](../photography/assets/2018-07-22-cyberpunk-nights.webp)
 
 The view out the window of my room at the Hotel Pennsylvania on the second night of HOPE 12.
 
-![A New York City skyline at night](assets/9d101625583ce0c7cc4dacbc9da24484.webp)
+![A New York City skyline at night](assets/2018-07-23-the-circle-of-hope-08.webp)
 
 The view out the window of my room at the Hotel Pennsylvania on the second night of HOPE 12.
 
@@ -49,15 +49,15 @@ The view out the window of my room at the Hotel Pennsylvania on the second night
 
 ## The Metropolitan Museum of Art
 
-![The arches and domes over The Great Hall of the Metropolitan Museum of Art](assets/b94b0ad902c2adeee87ae28602ee67bc.webp)
+![The arches and domes over The Great Hall of the Metropolitan Museum of Art](assets/2018-07-23-the-circle-of-hope-09.webp)
 
 The ceiling of The Great Hall at the Metropolitan Museum of Art in New York City.
 
-![The arches and domes over The Great Hall of the Metropolitan Museum of Art](assets/7e829bf72f17dfa6f84a83e97e5aaa77.webp)
+![The arches and domes over The Great Hall of the Metropolitan Museum of Art](../photography/assets/2018-07-23-the-great-hall-of-the-met.webp)
 
 The ceiling of The Great Hall at the Metropolitan Museum of Art in New York City.
 
-![The arches and domes over The Great Hall of the Metropolitan Museum of Art](assets/50c2926daa15962283f08da961b8ae47.webp)
+![The arches and domes over The Great Hall of the Metropolitan Museum of Art](assets/2018-07-23-the-circle-of-hope-11.webp)
 
 The ceiling of The Great Hall at the Metropolitan Museum of Art in New York City.
 

@@ -1,6 +1,6 @@
 # Library of Congress
 
-![A black-and-white photograph of the Library of Congress annex at night](assets/0766be16b14893f8fac2b8e67ac1403f.webp)
+![A black-and-white photograph of the Library of Congress annex at night](assets/2017-10-21-library-of-congress.webp)
 
 The entrance to the Library of Congress’ James Madison Memorial Building at night.
 

@@ -1,6 +1,6 @@
 # Epiphyte in Silhouette
 
-![The silhouette of a small epiphyte](assets/3291f043087af483581ae08f2dd5d90b.webp)
+![The silhouette of a small epiphyte](assets/2019-02-20-epiphyte-in-silhouette.webp)
 
 Someone left a small epiphyte on top of a window at my work.
 

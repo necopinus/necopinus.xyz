@@ -1,6 +1,6 @@
 # The Last Honey Bee
 
-![A honey bee rests on a cluster of striking orange flowers](assets/511060aa4dbb2a126b84db1aade35f1a.webp)
+![A honey bee rests on a cluster of striking orange flowers](assets/2015-11-15-the-last-honey-bee.webp)
 
 Near the lily pond lies a small clump of red and orange flowers, dying from the frost but still fragrant.
 

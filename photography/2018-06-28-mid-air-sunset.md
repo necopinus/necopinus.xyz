@@ -1,6 +1,6 @@
 # Mid-Air Sunset
 
-![Sunset over the midwest](assets/a1c494f8ffcab77730e6aed0b038dbc3.webp)
+![Sunset over the midwest](assets/2018-06-28-mid-air-sunset.webp)
 
 Sunset over the midwest, somewhere between Denver, CO and Louisville, KY.
 

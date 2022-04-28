@@ -1,6 +1,6 @@
 # Sea Anemones
 
-![Bright orange sea anemones nestled in a cluster of bright purple rocks](assets/03fedf40ae25d07612b053701776f514.webp)
+![Bright orange sea anemones nestled in a cluster of bright purple rocks](assets/2006-07-26-sea-anemones.webp)
 
 Anemones at the National Aquarium.
 

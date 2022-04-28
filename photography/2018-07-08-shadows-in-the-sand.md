@@ -1,6 +1,6 @@
 # Shadows in the Sand
 
-![An immense sand dune with the shadows of two people at its base](assets/4fcbc2f2f225c9b4e31e453db14b6dc2.webp)
+![An immense sand dune with the shadows of two people at its base](assets/2018-07-08-shadows-in-the-sand.webp)
 
 Len Montgomery and Nathan Acks’ shadows on the Great Sand Dunes.
 

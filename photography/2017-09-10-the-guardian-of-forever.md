@@ -1,6 +1,6 @@
 # The Guardian of Forever
 
-![Len approaches a large bow-shaped arch](assets/78d3f04a9869db7b035155f3d949c30a.webp)
+![Len approaches a large bow-shaped arch](assets/2017-09-10-the-guardian-of-forever.webp)
 
 Len Montgomery approaches the south side of Broken Arch, in Arches National Park.
 

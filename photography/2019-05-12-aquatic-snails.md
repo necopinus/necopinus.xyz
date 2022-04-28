@@ -1,6 +1,6 @@
 # Aquatic Snails
 
-![A snail clings to the glass of an aquarium](assets/f3bce6100404fb4724cfd4b54feca2d6.webp)
+![A snail clings to the glass of an aquarium](assets/2019-05-12-aquatic-snails.webp)
 
 Aquatic snails at the Denver Zoo.
 

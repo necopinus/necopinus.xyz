@@ -1,6 +1,6 @@
 # Denver International Airport
 
-![An empty airport tarmac](assets/c60981a867742a39aaf3b1c95d5a8038.webp)
+![An empty airport tarmac](assets/2018-06-21-denver-international-airport.webp)
 
 Looking south towards Concourse B from Concourse C at Denver International Airport.
 
