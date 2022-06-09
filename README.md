@@ -1,4 +1,4 @@
-# <span aria-hidden="true">🌱</span> necopinus.xyz <span aria-hidden="true">🌱</span>
+# <span aria-hidden="true">🌲</span> necopinus.xyz <span aria-hidden="true">🌲</span>
 
 ## Personal Log (Recent)
 
@@ -22,7 +22,7 @@
 
 ## Elsewhere
 
-* [<span aria-hidden="true">🦎</span> Cardboard Iguana Security](https://www.cardboard-iguana.com/)
+* [<span aria-hidden="true">🛡</span> Cardboard Iguana Security](https://www.cardboard-iguana.com/)
 * [<span aria-hidden="true">🏡</span> Château MaxMin()](https://www.chateaumaxmin.info/)
 * [<span aria-hidden="true">📧</span> Email](mailto:nathan.acks@necopinus.xyz)
 
