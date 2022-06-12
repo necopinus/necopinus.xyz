@@ -1,6 +1,6 @@
-# <span aria-hidden="true">🎐</span> Poetry <span aria-hidden="true">🎐</span>
+# Poetry
 
-* [2012-08-06 Colfax](poetry/2012-08-06-colfax.md)
+* [2012-08-06 - Colfax](poetry/2012-08-06-colfax.md)
 
 - - - -
 

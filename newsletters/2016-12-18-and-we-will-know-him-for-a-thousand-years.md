@@ -62,7 +62,7 @@ When I talk about one of our central cultural challenges being how to conceptual
 
 * [Native Americans Domesticated Turkeys Hundreds of Years Before Thanksgiving](https://www.vice.com/en/article/53dq4k/native-americans-domesticated-turkeys-hundreds-of-years-before-thanksgiving)
 * [6,88: Rooviande](https://tinyletter.com/vruba/letters/6-88-rooviande)
-* [2016-10-01 When the Sea Came in and Covered the Land](2016-10-01-when-the-sea-came-in-and-covered-the-land.md)
+* [2016-10-01 - When the Sea Came in and Covered the Land](2016-10-01-when-the-sea-came-in-and-covered-the-land.md)
 
 ## The Subtle Knife
 

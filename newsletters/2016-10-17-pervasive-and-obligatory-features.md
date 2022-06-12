@@ -55,7 +55,7 @@ For the cultural left, the road to hell is paved with good intentions. The same 
 In a world with no shared cultural narratives, “facts” are replace with group identification and allegiance. What we call “fascism” may just have been the most primitive manifestation of this loss of cultural cohesion.
 
 * [Yes, Donald Trump is a fascist.](https://newrepublic.com/minutes/124205/yes-donald-trump-fascist)
-* [2016-09-05 A Matter of Intense But Mostly Theoretical Debate](2016-09-05-a-matter-of-intense-but-mostly-theoretical-debate.md)
+* [2016-09-05 - A Matter of Intense But Mostly Theoretical Debate](2016-09-05-a-matter-of-intense-but-mostly-theoretical-debate.md)
 * [What Happens to \#Ferguson Affects Ferguson: Net Neutrality, Algorithmic Filtering and Ferguson](https://medium.com/message/ferguson-is-also-a-net-neutrality-issue-6d2f3db51eb0)
 * [Safe space or free speech? The crisis around debate at UK universities](https://www.theguardian.com/education/2015/feb/06/safe-space-or-free-speech-crisis-debate-uk-universities)
 * [Donald Trump is leading an increasingly fact-free 2016 campaign](https://www.washingtonpost.com/news/the-fix/wp/2015/11/23/the-2016-campaign-is-largely-fact-free-thats-a-terrible-thing-for-american-democracy/)

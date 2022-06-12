@@ -18,8 +18,8 @@ Three weeks ago I began “The Radical Futures of Growth” by talking about why
 
 While the concept of long growth solves the resource problems of unlimited growth and the rigidity and allocation issues inherent in the idea of zero growth, it does not (directly) provide a solution for the more human-scale problems zero growth brings with it — what I’ve been calling “anti-leveling”.
 
-* [2018-01-28 The Last Remaining Hominin](2018-01-28-the-last-remaining-hominin.md)
-* [2018-02-11 Surprise Must Hide in Secret Worlds](2018-02-11-surprise-must-hide-in-secret-worlds.md)
+* [2018-01-28 - The Last Remaining Hominin](2018-01-28-the-last-remaining-hominin.md)
+* [2018-02-11 - Surprise Must Hide in Secret Worlds](2018-02-11-surprise-must-hide-in-secret-worlds.md)
 * [Deep time (Wikipedia)](https://en.wikipedia.org/wiki/Deep_time)
 * [Deep history (Wikipedia)](https://en.wikipedia.org/wiki/Deep_history)
 

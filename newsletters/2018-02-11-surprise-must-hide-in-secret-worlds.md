@@ -14,7 +14,7 @@ Last time I talked about why growth as we know it must one day end and why that 
 
 But what is the alternative?
 
-* [2018-01-28 The Last Remaining Hominin](2018-01-28-the-last-remaining-hominin.md)
+* [2018-01-28 - The Last Remaining Hominin](2018-01-28-the-last-remaining-hominin.md)
 
 ## The Radical Futures of Growth, Part 2
 
