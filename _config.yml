@@ -12,13 +12,7 @@ name: necopinus.xyz
 description: Photography, thoughts on the future, and occasional poetry of questionable quality.
 url: https://necopinus.xyz
 logo: 🌲
-icon: avatar.webp
-cover: cover.jpg
 author: Nathan Acks
-
-# Default image page (used in Twitter Cards and Open Graph image tags).
-#
-image: /banner.webp
 
 # Optional front-matter defaults.
 #
