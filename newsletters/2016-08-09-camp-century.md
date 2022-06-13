@@ -1,11 +1,11 @@
 # Camp Century
 
-author:: Nathan Acks
-date:: 2016-08-09
-newsletter:: Five Futures
-volume:: 1
-issue:: 1
-conditions:: Clear skies and 26° C
+author:: Nathan Acks  
+date:: 2016-08-09  
+newsletter:: Five Futures  
+volume:: 1  
+issue:: 1  
+conditions:: Clear skies and 26° C  
 location:: Overlooking the Iapetus
 
 ## The Story So Far

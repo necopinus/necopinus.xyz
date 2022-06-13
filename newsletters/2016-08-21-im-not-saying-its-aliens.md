@@ -1,11 +1,11 @@
 # I’m Not Saying It’s Aliens…
 
-author:: Nathan Acks
-date:: 2016-08-21
-newsletter:: Five Futures
-volume:: 1
-issue:: 3
-conditions:: Clear skies and 32° C
+author:: Nathan Acks  
+date:: 2016-08-21  
+newsletter:: Five Futures  
+volume:: 1  
+issue:: 3  
+conditions:: Clear skies and 32° C  
 location:: The ancient shore of Laurentia
 
 ## The Story So Far
