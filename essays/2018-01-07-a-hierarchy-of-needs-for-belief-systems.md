@@ -1,5 +1,8 @@
 # A Hierarchy of Needs for Belief Systems
 
+author:: Nathan Acks  
+date:: 2018-01-07
+
 A quick sketch of a Maslow-ish “hierarchy of needs” for belief systems.
 
 IS IT FUNCTIONAL? Does this way of thinking help or hinder us in our interactions with the world? Belief systems that provide better “results” (creation of technology, feelings of well-being, etc.) can be thought of as “better” than belief systems that are not as functional. There is not necessarily a strict ordering here; functionality is contextual, and what may be more functional in one setting may be less so in another. In general, we can expect belief systems that provide more functionality on net to gradually become dominant within the noosphere.
@@ -17,8 +20,3 @@ Note that what is “interesting” and “meaningful” may very well change wi
 * [Maslow’s hierarchy of needs (Wikipedia)](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 * [Noosphere (Wikipedia)](https://en.wikipedia.org/wiki/Noosphere)
 * [Gödel’s incompleteness theorems (Wikipedia)](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> January 7, 2018

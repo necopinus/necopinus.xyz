@@ -1,5 +1,8 @@
 # Te Urewera
 
+author:: Nathan Acks  
+date:: 2016-09-05
+
 > This short “essay” was written in response to a video a friend posted on my Facebook timeline about New Zealand granting the Te Urewera national park legal personhood — an idea that another (lawyer) friend took some exception to in the comments.
 
 So… Color me cautiously optimistic? But the devil’s always in the details, and I’d need to understand the situation a lot better than the information in the video allows to really come down on this one way or another.
@@ -55,8 +58,3 @@ So while on the one hand I’m skeptical that granting legal personhood to Te Ur
 * [Can a national park be a person? New Zealand says yes](https://www.facebook.com/theguardian/videos/557279487793152/)
 * [Our Children’s Trust: Youth v. Gov](http://www.ourchildrenstrust.org/us/federal-lawsuit)
 * [Rights of Nature (Wikipedia)](https://en.m.wikipedia.org/wiki/Rights_of_Nature)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> September 5, 2016

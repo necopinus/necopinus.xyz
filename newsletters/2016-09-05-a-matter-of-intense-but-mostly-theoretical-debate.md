@@ -1,10 +1,12 @@
 # A Matter of Intense But Mostly Theoretical Debate
-Five Futures: Volume 1, Issue 4  
-September 5, 2016
 
-CONDITIONS: Clear and 32° C.
-
-COORDINATES: hotels.harsh.villa
+author:: Nathan Acks
+date:: 2016-09-05
+newsletter:: Five Futures
+volume:: 1
+issue:: 4
+conditions:: Clear and 32° C
+location:: hotels.harsh.villa
 
 ## The Story So Far
 

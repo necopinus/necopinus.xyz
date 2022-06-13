@@ -25,8 +25,3 @@
 * [Cardboard Iguana Security](https://www.cardboard-iguana.com/)
 * [Château MaxMin()](https://www.chateaumaxmin.info/)
 * [Email](mailto:nathan.acks@necopinus.xyz)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">🏷️</span> #MOC

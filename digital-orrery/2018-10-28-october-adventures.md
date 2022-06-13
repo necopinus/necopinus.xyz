@@ -1,5 +1,8 @@
 # October Adventures
 
+photographer:: Nathan Acks  
+date:: 2018-10-28
+
 Photos from October 2018: Hiking with friends, a work trip to Boston, and a mid-Fall meander around Denver.
 
 ## 16th Street Mall
@@ -73,8 +76,3 @@ Fall colors in Denver’s City Park.
 ![A row of apartment buildings at sunset](assets/2018-10-28-october-adventures-16.webp)
 
 Sunset near 18th & Logan in Denver.
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> October 28, 2018

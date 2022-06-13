@@ -1,5 +1,8 @@
 # Rocky Mountain National Park
 
+photographer:: Nathan Acks  
+date:: 2018-06-16
+
 A short excursion to Bear Lake and the Alpine Visitor Center in Rocky Mountain National Park.
 
 ![A sheer, angular peak rises above the valley walls surrounding a mountain lake](assets/2018-06-16-rocky-mountain-national-park-01.webp)
@@ -87,8 +90,3 @@ Looking north from above the Rocky Mountain National Park Alpine Visitor Center.
 Looking northwest from above the Rocky Mountain National Park Alpine Visitor Center. Specimen Mountain is almost dead center in the frame.
 
 * [Rocky Mountain National Park](https://www.nps.gov/romo/index.htm)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> June 16, 2018

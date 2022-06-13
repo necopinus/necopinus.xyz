@@ -1,10 +1,12 @@
 # Everything Was Stripped Away
-Five Futures: Volume 2, Issue 2  
-January 20, 2018
 
-CONDITIONS: Partly cloudy and 8° C.
-
-COORDINATES: unless.gain.books
+author:: Nathan Acks
+date:: 2018-01-20
+newsletter:: Five Futures
+volume:: 2
+issue:: 2
+conditions:: Partly cloudy and 8° C
+location:: unless.gain.books
 
 ## The Story So Far
 

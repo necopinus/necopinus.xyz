@@ -1,5 +1,8 @@
 # Unknown Knowns
 
+author:: Nathan Acks  
+date:: 2013-10-20
+
 A lot of folks have made fun of Donald Rumsfeld’s remarks in the lead up to the Iraq War.
 
 > There are known knowns; there are things we know that we know.
@@ -30,8 +33,3 @@ The identification of “unknown knowns” with knowledge that exists but whose 
 * [Žižek the Authoritarian](https://kohenari.net/post/22658005949/zizek-authoritarian)
 * [The Hammer and The Cross (Wikipedia)](https://en.wikipedia.org/wiki/The_Hammer_and_the_Cross)
 * [Jumping the shark (Wikipedia)](https://en.wikipedia.org/wiki/Jumping_the_shark)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> October 20, 2013

@@ -1,6 +1,10 @@
 # Where Homo Sapiens is Headed
-Five Futures: Volume 2, Issue 6  
-September 23, 2018
+
+author:: Nathan Acks
+date:: 2018-09-23
+newsletter:: Five Futures
+volume:: 2
+issue:: 6
 
 ## Prologue
 

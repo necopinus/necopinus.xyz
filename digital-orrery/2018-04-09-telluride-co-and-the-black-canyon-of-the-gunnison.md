@@ -1,5 +1,8 @@
 # Telluride, CO and the Black Canyon of the Gunnison
 
+photographer:: Nathan Acks  
+date:: 2018-04-09
+
 Every year Len Montgomery and I take a short vacation around her birthday. For 2018 we decided to spend a couple of days in Telluride, CO. On the way back we stopped by one of my favorite (and I think, under-rated) national parks, the Black Canyon of the Gunnison.
 
 * [Telluride, Colorado](http://www.visittelluride.com)
@@ -184,8 +187,3 @@ The Gunnison flows west through the Black Canyon. The Painted Wall is at right.
 ![Looking straight across the Black Canyon of the Gunnison to the north rim’s high plateau](assets/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison-44.webp)
 
 Looking north to Serpent Point from the south rim of the Black Canyon of the Gunnison.
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> April 9, 2018

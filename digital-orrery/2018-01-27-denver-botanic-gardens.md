@@ -1,5 +1,8 @@
 # Denver Botanic Gardens
 
+photographer:: Nathan Acks  
+date:: 2018-01-27
+
 Photos from the Denver Botanic Gardens’ annual orchid show, many of which I tagged for the usual photo contest (though none won).
 
 ![A large cluster of bright orange and pink tropical flowers](assets/2018-01-27-denver-botanic-gardens-01.webp)
@@ -75,8 +78,3 @@ Flowers nearing bloom on a tree in the Denver Botanic Gardens conservatory.
 A flower in the Denver Botanic Gardens conservatory.
 
 * [Denver Botanic Gardens](https://www.botanicgardens.org)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> January 27, 2018

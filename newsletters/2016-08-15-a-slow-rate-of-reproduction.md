@@ -1,12 +1,12 @@
 # A Slow Rate of Reproduction
-Five Futures: Volume 1, Issue 2  
-August 15, 2016
 
-CONDITIONS: Overcast and 27° C.
-
-LOCATION: Back home on the ancient shore of Laurentia.
-
-* [Laurentia (Wikipedia)](https://en.wikipedia.org/wiki/Laurentia)
+author:: Nathan Acks
+date:: 2016-08-15
+newsletter:: Five Futures
+volume:: 1
+issue:: 2
+conditions:: Overcast and 27° C
+location:: Back home on the ancient shore of Laurentia
 
 ## The Story So Far
 

@@ -1,6 +1,10 @@
 # Surprise Must Hide in Secret Worlds
-Five Futures: Volume 2, Issue 4  
-February 11, 2018
+
+author:: Nathan Acks
+date:: 2018-02-11
+newsletter:: Five Futures
+volume:: 2
+issue:: 4
 
 ## The Story So Far
 

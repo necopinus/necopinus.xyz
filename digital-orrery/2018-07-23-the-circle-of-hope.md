@@ -1,5 +1,8 @@
 # The Circle of HOPE
 
+photographer:: Nathan Acks  
+date:: 2018-07-23
+
 This year I attended HOPE 12, The Circle of HOPE. “HOPE” stands for “Hackers on Planet Earth”, and is one of the older hacker conferences in the US. It’s put on every other year by the crew from 2600 Magazine.
 
 Attending HOPE is something I’ve wanted to do for a long time. While I didn’t take any photos in the conference itself, these are a few photos I took around the event.
@@ -60,8 +63,3 @@ The ceiling of The Great Hall at the Metropolitan Museum of Art in New York City
 ![The arches and domes over The Great Hall of the Metropolitan Museum of Art](assets/2018-07-23-the-circle-of-hope-11.webp)
 
 The ceiling of The Great Hall at the Metropolitan Museum of Art in New York City.
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> July 23, 2018

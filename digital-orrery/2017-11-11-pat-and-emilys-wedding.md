@@ -1,5 +1,8 @@
 # Pat & Emily’s Wedding
 
+photographer:: Nathan Acks  
+date:: 2017-11-11
+
 Photos from my friends’ Pat Kelly-Fischer and Emily Kelly-Fischer’s wedding near Winter Park, Colorado. This set of photos sold me on the power of the combination of the Pixelbook’s pen and Adobe Photoshop Lightroom CC.
 
 ![The top of a wedding cake](assets/2017-11-11-pat-and-emilys-wedding-01.webp)
@@ -55,8 +58,3 @@ Pat Kelly-Fischer & Emily Kelly-Fischer dance at their wedding reception.
 Pat Kelly-Fischer & Emily Kelly-Fischer dance during their wedding reception.
 
 * [Adobe Lightroom: Photo Editor](https://play.google.com/store/apps/details?id=com.adobe.lrmobile)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> November 11, 2017

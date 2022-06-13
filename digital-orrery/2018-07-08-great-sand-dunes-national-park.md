@@ -1,5 +1,8 @@
 # Great Sand Dunes National Park
 
+photographer:: Nathan Acks  
+date:: 2018-07-08
+
 A weekend at Great Sand Dunes National Park. Technically a work trip, but I managed to fit in one short hike on the dunes.
 
 ![High desert scrubland ends abruptly in a field of high sand dunes](assets/2018-07-08-great-sand-dunes-national-park-01.webp)
@@ -115,8 +118,3 @@ Looking southwest across the Great Sand Dunes. The Sangre de Cristo Mountains ar
 Len Montgomery at the Great Sand Dunes. The Sangre de Cristo Mountains lie in the distance.
 
 * [Great Sand Dunes National Park](https://www.nps.gov/grsa/index.htm)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> July 8, 2018

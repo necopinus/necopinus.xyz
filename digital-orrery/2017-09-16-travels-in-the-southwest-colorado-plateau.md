@@ -1,5 +1,8 @@
 # Travels in the Southwest Colorado Plateau
 
+photographer:: Nathan Acks  
+date:: 2017-09-16
+
 A week spent road-tripping to Arches, Grand Canyon, and Bryce Canyon National Parks, and a few more spots in between.
 
 * [Arches National Park](https://www.nps.gov/arch/index.htm)
@@ -359,8 +362,3 @@ The hotel that Len Montgomery and I stayed at on the way back to Denver from Bry
 ![A selfie in green](../photography/assets/2017-09-16-so-green-that-len-couldnt-stop-laughing.webp)
 
 So green that Len Montgomery couldn’t stop laughing.
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> September 16, 2017

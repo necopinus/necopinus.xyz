@@ -1,5 +1,8 @@
 # Denver Botanic Gardens
 
+photographer:: Nathan Acks  
+date:: 2018-06-02
+
 Photos from the Denver Botanic Gardens.
 
 ![A bright pink rose](assets/2018-06-02-denver-botanic-gardens-01.webp)
@@ -51,8 +54,3 @@ A detail of some flowers growing on the central sculpture/water feature of the S
 A detail of some flowers growing on the central sculpture/water feature of the Steppe Garden at the Denver Botanic Gardens.
 
 * [Denver Botanic Gardens](https://www.botanicgardens.org/)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> June 2, 2018

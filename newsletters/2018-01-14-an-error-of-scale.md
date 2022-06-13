@@ -1,10 +1,12 @@
 # An Error of Scale
-Five Futures: Volume 2, Issue 1  
-January 14, 2018
 
-CONDITIONS: Partly cloudy and 14° C.
-
-COORDINATES: volunteered.cities.owners
+author:: Nathan Acks
+date:: 2018-01-14
+newsletter:: Five Futures
+volume:: 2
+issue:: 1
+conditions:: Partly cloudy and 14° C
+location:: volunteered.cities.owners
 
 ## The Story So Far
 

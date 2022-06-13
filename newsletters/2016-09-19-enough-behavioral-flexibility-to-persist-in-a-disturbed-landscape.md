@@ -1,10 +1,12 @@
 # Enough Behavioral Flexibility to Persist in a Disturbed Landscape
-Five Futures: Volume 1, Issue 5  
-September 19, 2016
 
-CONDITIONS: Clear and 17° C.
-
-COORDINATES: snail.hunter.member
+author:: Nathan Acks
+date:: 2016-09-19
+newsletter:: Five Futures
+volume:: 1
+issue:: 5
+conditions:: Clear and 17° C
+location:: snail.hunter.member
 
 ## The Story So Far
 

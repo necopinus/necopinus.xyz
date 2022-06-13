@@ -1,12 +1,12 @@
 # Camp Century
-Five Futures: Volume 1, Issue 1  
-August 9, 2016
 
-CONDITIONS: Clear skies and 26° C.
-
-CURRENT LOCATION: Overlooking the Iapetus.
-
-* [Iapetus Ocean (Wikipedia)](https://en.wikipedia.org/wiki/Iapetus_Ocean)
+author:: Nathan Acks
+date:: 2016-08-09
+newsletter:: Five Futures
+volume:: 1
+issue:: 1
+conditions:: Clear skies and 26° C
+location:: Overlooking the Iapetus
 
 ## The Story So Far
 

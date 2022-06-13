@@ -12,8 +12,3 @@
 * [2017-11-11 - Pat & Emily’s Wedding](digital-orrery/2017-11-11-pat-and-emilys-wedding.md)
 * [2017-10-23 - Coast to Coast](digital-orrery/2017-10-23-coast-to-coast.md)
 * [2017-09-16 - Travels in the Southwest Colorado Plateau](digital-orrery/2017-09-16-travels-in-the-southwest-colorado-plateau.md)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">🏷️</span> #MOC

@@ -1,10 +1,12 @@
 # Pervasive and Obligatory Features
-Five Futures: Volume 1, Issue 7  
-October 17, 2016
 
-CONDITIONS: Clear and 11° C.
-
-COORDINATES: rock.afford.lots
+author:: Nathan Acks
+date:: 2016-10-17
+newsletter:: Five Futures
+volume:: 1
+issue:: 7
+conditions:: Clear and 11° C
+location:: rock.afford.lots
 
 ## The Story So Far
 

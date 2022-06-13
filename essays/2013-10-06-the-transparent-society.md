@@ -1,5 +1,8 @@
 # The Transparent Society
 
+author:: Nathan Acks  
+date:: 2013-10-06
+
 While I agree with the advocates off the “Transparent Society”, I don’t think they appreciate for the most part how radical that transparency is going to have to be, or how fundamentally our society is going to have to change because of it.
 
 The problem here is not just that you can’t put the surveillance genie back in the bottle, but that both the things that enable surveillance only get cheaper and more widely available with time. and that intentionally weak cryptographic systems can be exploited by everyone. If the surveillance state grows — even if we are able to extract equivalent levels of transparency and accountability — then eventually we’re going to run into a situation where it’s trivially east to spy on everyone, both because the technology is cheap and ubiquitous, and also because the systems that would act as a counterbalance will have been effectively neutered.
@@ -11,8 +14,3 @@ You might try to prevent that with massive, totalitarian-style surveillance, but
 That’s a far weirder, more disturbing, and more perilous world than Dr. Brin & co. seem willing to consider.
 
 * [David Brin's transparency page](http://www.davidbrin.com/transparency.html)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> October 6, 2013

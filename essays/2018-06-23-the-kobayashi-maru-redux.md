@@ -1,5 +1,8 @@
 # The Kobayashi Maru (Redux)
 
+author:: Nathan Acks  
+date:: 2018-06-23
+
 Two years ago I wrote that:
 
 > 2016 is the Kobayashi Maru scenario of Western democracy.
@@ -16,8 +19,3 @@ The most important part of the Kobayashi Maru scenario is *not* that it is impos
 
 * [2016-06-21 - The Kobayashi Maru](2016-06-21-the-kobayashi-maru.md)
 * [Kobayashi Maru (Wikipedia)](https://en.m.wikipedia.org/wiki/Kobayashi_Maru)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> June 23, 2018

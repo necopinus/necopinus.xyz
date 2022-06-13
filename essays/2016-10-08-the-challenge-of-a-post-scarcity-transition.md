@@ -1,5 +1,8 @@
 # The Challenge of a Post-Scarcity Transition
 
+author:: Nathan Acks  
+date:: 2016-10-08
+
 A few years ago I had a part-time gig as a subcontractor at a major bank. Who I worked for was far more impressive than the large, sterile room I sat in. Most of the room was taken up by an enormous wooden crate that sat between my desk and the only door in. The sides of the crate and walls of the room were lined with low tables holding dozens of tape drives that the bank used to back up its computers every night.
 
 Every day at 9am I would come in and spend about half an hour swapping out the full backup tapes. Then I’d wait around for another four hours or so while my boss (who was based in Boulder and I hardly ever saw) remotely verified that everything was working. And then I would leave. I almost never saw another person.
@@ -43,8 +46,3 @@ It’s less clear how to address this second barrier, but it does appear that cu
 * [The rise of the far right in Europe](http://www.economist.com/blogs/graphicdetail/2016/05/daily-chart-18)
 * [Trump: Tribune Of Poor White People](http://www.theamericanconservative.com/dreher/trump-us-politics-poor-whites/)
 * [We Aren't the World](https://psmag.com/we-aren-t-the-world-535ec03f2d45)
-
-- - - -
-
-<span aria-hidden="true">👤</span> Nathan Acks  
-<span aria-hidden="true">📅</span> October 8, 2016

@@ -1,6 +1,10 @@
 # The Last Remaining Hominin
-Five Futures: Volume 2, Issue 3  
-January 28, 2018
+
+author:: Nathan Acks
+date:: 2018-01-28
+newsletter:: Five Futures
+volume:: 2
+issue:: 3
 
 ## The Story So Far
 
