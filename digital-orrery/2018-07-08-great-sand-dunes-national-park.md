@@ -55,7 +55,7 @@ A spider eats a moth inside Len Montgomery and my tent.
 
 ![High desert scrubland ends abruptly in a field of high sand dunes](assets/2018-07-08-great-sand-dunes-national-park-13.webp)
 
-The eastern edge of the Great Sand Dunes at sunrise. Mount Herard can be seen in the background at right; Len Montgomery and Nathan Acks’ shadows are visible at left.
+The eastern edge of the Great Sand Dunes at sunrise. Mount Herard can be seen in the background at right; Len Montgomery and Nathan Acks' shadows are visible at left.
 
 ![High desert scrubland ends abruptly in a field of high sand dunes](assets/2018-07-08-great-sand-dunes-national-park-14.webp)
 

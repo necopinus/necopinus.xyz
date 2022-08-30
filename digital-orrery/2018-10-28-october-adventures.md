@@ -7,7 +7,7 @@ Photos from October 2018: Hiking with friends, a work trip to Boston, and a mid-
 
 ## 16th Street Mall
 
-![An outdoor “smart” advertisement, displaying an error that makes it obvious that it’s running the ads through Google Chrome](../photography/assets/2018-10-09-restore-pages.webp)
+![An outdoor "smart" advertisement, displaying an error that makes it obvious that it's running the ads through Google Chrome](../photography/assets/2018-10-09-restore-pages.webp)
 
 Oops.
 
@@ -49,7 +49,7 @@ The view from the Boston Aquarium.
 
 ![The Moon over Boston Harbor at dusk](assets/2018-10-28-october-adventures-10.webp)
 
-The Moon over Boston’s harbor, as seen from near the Boston Aquarium.
+The Moon over Boston's harbor, as seen from near the Boston Aquarium.
 
 ![Boston as seen from the air at dusk](../photography/assets/2018-10-25-departing-boston.webp)
 
@@ -67,11 +67,11 @@ Fall colors in Denver.
 
 ![A panorama across a city lake](assets/2018-10-28-october-adventures-14.webp)
 
-Fall colors in Denver’s City Park.
+Fall colors in Denver's City Park.
 
 ![The view across a city lake](../photography/assets/2018-10-28-fall-colors.webp)
 
-Fall colors in Denver’s City Park.
+Fall colors in Denver's City Park.
 
 ![A row of apartment buildings at sunset](assets/2018-10-28-october-adventures-16.webp)
 

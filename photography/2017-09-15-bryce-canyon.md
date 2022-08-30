@@ -5,4 +5,4 @@
 photographer:: Nathan Acks  
 date:: 2017-09-15
 
-Looking across Bryce Canyon from between the upper and lower Inspiration Points; the main “amphitheater” of Bryce Canyon can be seen to the left.
+Looking across Bryce Canyon from between the upper and lower Inspiration Points; the main "amphitheater" of Bryce Canyon can be seen to the left.

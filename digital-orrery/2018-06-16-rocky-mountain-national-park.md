@@ -33,17 +33,17 @@ Looking southeast from the northwest corner of Bear Lake towards Longs Peak in R
 
 A chipmunk gazes out over Bear Lake in Rocky Mountain National Park.
 
-This critter just sat on the bench, looking out over the lake for probably something close to five minutes. When we got close, the chipmunk turned around to look at us… But then went back to looking out over the lake.
+This critter just sat on the bench, looking out over the lake for probably something close to five minutes. When we got close, the chipmunk turned around to look at us... But then went back to looking out over the lake.
 
 ![A chipmunk sits on a simple wooden bench next to a mountain lake](assets/2018-06-16-rocky-mountain-national-park-08.webp)
 
-The chipmunk had been sitting the bench, looking out over Bear Lake for a couple of minutes. When we got close, the critter turned around to look at us… But then went back to looking out over the lake.
+The chipmunk had been sitting the bench, looking out over Bear Lake for a couple of minutes. When we got close, the critter turned around to look at us... But then went back to looking out over the lake.
 
 ![A chipmunk sits on a simple wooden bench, seemingly gazing out over a mountain lake](assets/2018-06-16-rocky-mountain-national-park-09.webp)
 
 A chipmunk gazes out over Bear Lake in Rocky Mountain National Park.
 
-This critter just sat on the bench, looking out over the lake for probably something close to five minutes. When we got close, the chipmunk turned around to look at us… But then went back to looking out over the lake.
+This critter just sat on the bench, looking out over the lake for probably something close to five minutes. When we got close, the chipmunk turned around to look at us... But then went back to looking out over the lake.
 
 ![An animation of a chipmunk sits on a simple wooden bench, seemingly gazing out over a mountain lake](assets/2018-06-16-rocky-mountain-national-park-10.webp)
 

@@ -5,4 +5,4 @@
 photographer:: Nathan Acks  
 date:: 2003-08-08
 
-Construction (repair work?) on the Field Museum in Chicago’s eastern foundation.
+Construction (repair work?) on the Field Museum in Chicago's eastern foundation.

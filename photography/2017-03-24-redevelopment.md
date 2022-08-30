@@ -7,4 +7,4 @@ date:: 2017-03-24
 
 Chinese redevelopment (apartments) in Washington, DC.
 
-What I find interesting here is that there’s not even an attempt here to recast in a local cultural context. This is a Chinese sign first and foremost.
+What I find interesting here is that there's not even an attempt here to recast in a local cultural context. This is a Chinese sign first and foremost.

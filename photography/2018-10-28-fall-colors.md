@@ -5,4 +5,4 @@
 photographer:: Nathan Acks  
 date:: 2018-10-28
 
-Fall colors in Denver’s City Park.
+Fall colors in Denver's City Park.

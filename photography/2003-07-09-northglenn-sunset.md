@@ -5,4 +5,4 @@
 photographer:: Nathan Acks  
 date:: 2003-07-09
 
-The sunset seen from the back patio of my folks’ house.
+The sunset seen from the back patio of my folks' house.

@@ -16,11 +16,11 @@ Looking southeast across Telluride, CO towards Trico Peak.
 
 ![A black-and-white photo of a mountain road winding along a valley next to a tree-lined creek](assets/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison-02.webp)
 
-Looking southeast towards Trico Peak from near Telluride’s cemetery.
+Looking southeast towards Trico Peak from near Telluride's cemetery.
 
 ![A mountain cemetery](../photography/assets/2018-04-07-cemetery.webp)
 
-Telluride’s cemetery.
+Telluride's cemetery.
 
 ![Three tall fins of red rock on top of a low mountain ridge, silhouetted by a gray winter sky](assets/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison-04.webp)
 
@@ -32,7 +32,7 @@ Looking southeast across Telluride, CO towards Trico Peak from the Airbnb Len Mo
 
 ![A snowy mountain range frames a wide, shallow valley full of aspen trees](assets/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison-06.webp)
 
-Looking southeast across Mountain Village. The large white building near the center is “The Peaks” resort.
+Looking southeast across Mountain Village. The large white building near the center is "The Peaks" resort.
 
 ![A bright red British-style phone booth against a rusting corrugated metal wall](assets/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison-07.webp)
 
@@ -184,6 +184,6 @@ Moss at the base of a juniper at the Black Canyon of the Gunnison.
 
 The Gunnison flows west through the Black Canyon. The Painted Wall is at right.
 
-![Looking straight across the Black Canyon of the Gunnison to the north rim’s high plateau](assets/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison-44.webp)
+![Looking straight across the Black Canyon of the Gunnison to the north rim's high plateau](assets/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison-44.webp)
 
 Looking north to Serpent Point from the south rim of the Black Canyon of the Gunnison.

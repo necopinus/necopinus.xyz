@@ -9,6 +9,6 @@
 * [2018-04-09 - Telluride, CO and the Black Canyon of the Gunnison](digital-orrery/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison.md)
 * [2018-01-27 - Denver Botanic Gardens](digital-orrery/2018-01-27-denver-botanic-gardens.md)
 * [2017-12-21 - Aspen, CO](digital-orrery/2017-12-21-aspen-co.md)
-* [2017-11-11 - Pat & Emily’s Wedding](digital-orrery/2017-11-11-pat-and-emilys-wedding.md)
+* [2017-11-11 - Pat & Emily's Wedding](digital-orrery/2017-11-11-pat-and-emilys-wedding.md)
 * [2017-10-23 - Coast to Coast](digital-orrery/2017-10-23-coast-to-coast.md)
 * [2017-09-16 - Travels in the Southwest Colorado Plateau](digital-orrery/2017-09-16-travels-in-the-southwest-colorado-plateau.md)

@@ -55,7 +55,7 @@
 * [2017-10-17 - Wood](photography/2017-10-17-wood.md)
 * [2017-10-08 - The Orrery](photography/2017-10-08-the-orrery.md)
 * [2017-10-07 - The Moon Over San Francisco](photography/2017-10-07-the-moon-over-san-francisco.md)
-* [2017-09-16 - So Green That Len Couldn’t Stop Laughing](photography/2017-09-16-so-green-that-len-couldnt-stop-laughing.md)
+* [2017-09-16 - So Green That Len Couldn't Stop Laughing](photography/2017-09-16-so-green-that-len-couldnt-stop-laughing.md)
 * [2017-09-15 - Bryce Canyon](photography/2017-09-15-bryce-canyon.md)
 * [2017-09-14 - Horsehoe Bend](photography/2017-09-14-horsehoe-bend.md)
 * [2017-09-13 - The South Kaibab Trail](photography/2017-09-13-the-south-kaibab-trail.md)

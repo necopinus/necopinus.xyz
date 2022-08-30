@@ -15,9 +15,9 @@ A week spent road-tripping to Arches, Grand Canyon, and Bryce Canyon National Pa
 
 Looking north after ascending to the plateau that makes up the majority of Arches National Park. This is well before the first of the arches that are accessible from the main road.
 
-![Looking east across a series of “fossil” sand dunes](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-02.webp)
+![Looking east across a series of "fossil" sand dunes](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-02.webp)
 
-Looking east after ascending into Arches National Park. The first arches are in the far distance; in the mid-distance is a field of “fossilized” sand dunes.
+Looking east after ascending into Arches National Park. The first arches are in the far distance; in the mid-distance is a field of "fossilized" sand dunes.
 
 ![Looking south back along the main road into Arches National Park](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-03.webp)
 
@@ -75,7 +75,7 @@ Looking east from near the Garden of Eden, a series of eroded rock ridges and to
 
 Looking north from the aptly named Panorama Point, about halfway into Arches National Park.
 
-![The Arches National Park visitors’ center and the main road into Moab just after dawn](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-17.webp)
+![The Arches National Park visitors' center and the main road into Moab just after dawn](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-17.webp)
 
 Looking southeast from near the entrance of Arches National Park. The visitor center is just off the right side of the frame, with the main body of the park to the left.
 
@@ -89,35 +89,35 @@ Looking east towards the sunrise, about halfway into Arches National Park (just 
 
 ![Tunnel Arch](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-20.webp)
 
-Tunnel Arch, the first major arch on the Devil’s Garden Trail in Arches National Park. A smaller “sinkhole” arch (formed in a similar process as Double Arch) is left-of-center.
+Tunnel Arch, the first major arch on the Devil's Garden Trail in Arches National Park. A smaller "sinkhole" arch (formed in a similar process as Double Arch) is left-of-center.
 
 ![Looking through Pine Tree Arch](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-21.webp)
 
-Looking north through Pine Tree Arch, the second major arch on the Devil’s Garden Trail at the end of the main road in Arches National Park.
+Looking north through Pine Tree Arch, the second major arch on the Devil's Garden Trail at the end of the main road in Arches National Park.
 
 ![An oblique view through Pine Tree Arch](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-22.webp)
 
-Looking northwest through Pine Tree Arch, the second major arch on the Devil’s Garden Trail at the end of the main road in Arches National Park.
+Looking northwest through Pine Tree Arch, the second major arch on the Devil's Garden Trail at the end of the main road in Arches National Park.
 
 ![An oblique view through Pine Tree Arch](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-23.webp)
 
-Looking east from the “other side” (i.e., opposite the trail) of Pine Tree Arch, the second major arch on the Devil’s Garden Trail at the end of the main road in Arches National Park.
+Looking east from the "other side" (i.e., opposite the trail) of Pine Tree Arch, the second major arch on the Devil's Garden Trail at the end of the main road in Arches National Park.
 
 ![An oblique view along Pine Tree Arch](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-24.webp)
 
-Looking back towards the trail through Pine Tree Arch. If you look closely, you’ll see Len Montgomery standing in the bushes towards the lower right.
+Looking back towards the trail through Pine Tree Arch. If you look closely, you'll see Len Montgomery standing in the bushes towards the lower right.
 
 ![Looking through Pine Tree Arch](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-25.webp)
 
-Nathan Acks, photographing Len Montgomery, photographing me at the Pine Tree Arch, the second major arch on the Devil’s Garden Trail at the end of the main road in Arches National Park.
+Nathan Acks, photographing Len Montgomery, photographing me at the Pine Tree Arch, the second major arch on the Devil's Garden Trail at the end of the main road in Arches National Park.
 
 ![An incredibly thin red sandstone arch](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-26.webp)
 
-Landscape Arch, just west of the Devil’s Garden Trail in Arches National Park.
+Landscape Arch, just west of the Devil's Garden Trail in Arches National Park.
 
 ![An incredibly thin red sandstone arch](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-27.webp)
 
-Landscape Arch, just west of the Devil’s Garden Trail in Arches National Park.
+Landscape Arch, just west of the Devil's Garden Trail in Arches National Park.
 
 ![A small tree grows in the sand in the narrow space between two high sandstone fins](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-28.webp)
 
@@ -143,27 +143,27 @@ Delicate Arch as seen from the Upper Viewpoint in Arches National Park. If you l
 
 ![A view into the Grand Canyon from the South Rim](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-33.webp)
 
-Looking west along the Grand Canyon from near Hermit’s Rest. The Colorado River is visible near center.
+Looking west along the Grand Canyon from near Hermit's Rest. The Colorado River is visible near center.
 
 ![A view into the Grand Canyon from the South Rim](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-34.webp)
 
-Looking east along the Grand Canyon from near Hermit’s Rest. A sliver of the Colorado River is visible in the lower left.
+Looking east along the Grand Canyon from near Hermit's Rest. A sliver of the Colorado River is visible in the lower left.
 
 ![A large black wasp sits on a small cluster of flowers](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-35.webp)
 
-A tarantula hawk feeds on flower on the South Rim of the Grand Canyon near Hermit’s Rest.
+A tarantula hawk feeds on flower on the South Rim of the Grand Canyon near Hermit's Rest.
 
 ![A large black wasp sits on a small cluster of flowers](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-36.webp)
 
-A tarantula hawk feeds on flower on the South Rim of the Grand Canyon near Hermit’s Rest.
+A tarantula hawk feeds on flower on the South Rim of the Grand Canyon near Hermit's Rest.
 
 ![Black and yellow beetles on a moss-like plant](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-37.webp)
 
-Goldenrod Soldier Beetles, taken about half way between Hermit’s Rest and Hopi Point along the South Rim Trail.
+Goldenrod Soldier Beetles, taken about half way between Hermit's Rest and Hopi Point along the South Rim Trail.
 
 ![Two black and yellow beetles on a moss-like plant](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-38.webp)
 
-Goldenrod Soldier Beetles, taken about half way between Hermit’s Rest and Hopi Point along the South Rim Trail.
+Goldenrod Soldier Beetles, taken about half way between Hermit's Rest and Hopi Point along the South Rim Trail.
 
 ![A view into the Grand Canyon from the South Rim](../photography/assets/2017-09-11-the-grand-canyon.webp)
 
@@ -179,7 +179,7 @@ Trees growing just below the South Rim of the Grand Canyon, taken near Yavapai P
 
 ![A narrow red and white sandstone ridge descends towards the floor of the Grand Canyon](../photography/assets/2017-09-12-yaki-point.webp)
 
-Looking towards Yaki Point from the Grand Canyon visitor center. Len Montgomery and I hiked later to the Cedar Ridge overlook on the South Kaibab Trail, just above the “temple” in this photo.
+Looking towards Yaki Point from the Grand Canyon visitor center. Len Montgomery and I hiked later to the Cedar Ridge overlook on the South Kaibab Trail, just above the "temple" in this photo.
 
 ![A concave portion of the South Rim of the Grand Canyon](../photography/assets/2017-09-13-the-south-kaibab-trail.webp)
 
@@ -189,7 +189,7 @@ Looking back towards a point between the South Kaibab Trail Head and Mather Poin
 
 Len Montgomery, ahead of me on the South Kaibab Trail.
 
-![A mesa-like “temple” near the end of a long ridge](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-45.webp)
+![A mesa-like "temple" near the end of a long ridge](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-45.webp)
 
 Looking down towards the Cedar Ridge overlook and across the Grand Canyon from the South Kaibab Trail near Ooh Aah Point.
 
@@ -221,11 +221,11 @@ Looking east across the Grand Canyon from the Desert View Watchtower. The Colora
 
 ![A low cinder cone with a distinctive red rim](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-52.webp)
 
-Sunset Crater, a volcanic cone less than a thousand years old, just south of the Grand Canyon. It’s the youngest volcano in the San Francisco Volcanic Field.
+Sunset Crater, a volcanic cone less than a thousand years old, just south of the Grand Canyon. It's the youngest volcano in the San Francisco Volcanic Field.
 
 ![The remains of an incredibly large volcano](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-53.webp)
 
-The San Francisco Peaks, the remains of a massive stratovolcano that exploded in a northeasterly direction (towards where I’m standing) about 200,000 years ago.
+The San Francisco Peaks, the remains of a massive stratovolcano that exploded in a northeasterly direction (towards where I'm standing) about 200,000 years ago.
 
 ![A rocky lava flow](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-54.webp)
 
@@ -257,11 +257,11 @@ The Glen Canyon Dam, with the artificial Lake Powell extending behind it.
 
 ![A wide-angle shot of the iconic Horseshoe Bend in the Colorado River](../photography/assets/2017-09-14-horsehoe-bend.webp)
 
-Horseshoe Bend is in Grand Canyon National Park (the park begins at the top of the rim walls and extends to the Glen Canyon Dam), but the overlook I’m on is BLM land.
+Horseshoe Bend is in Grand Canyon National Park (the park begins at the top of the rim walls and extends to the Glen Canyon Dam), but the overlook I'm on is BLM land.
 
 ![A wide-angle shot of the iconic Horseshoe Bend in the Colorado River](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-61.webp)
 
-Horseshoe Bend is in Grand Canyon National Park (the park begins at the top of the rim walls and extends to the Glen Canyon Dam), but the overlook I’m on is BLM land.
+Horseshoe Bend is in Grand Canyon National Park (the park begins at the top of the rim walls and extends to the Glen Canyon Dam), but the overlook I'm on is BLM land.
 
 ![A tight cluster of yellow flowers](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-62.webp)
 
@@ -323,11 +323,11 @@ Looking east through Swamp Canyon from the rim wall of Bryce Canyon.
 
 ![A semi-circular amphitheater filled with hundreds of densely packed red and white stone pillars](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-76.webp)
 
-Looking southeast from Sunrise Point from the rim wall of Bryce Canyon; the Queen’s Garden Trail Head is just off frame to the left.
+Looking southeast from Sunrise Point from the rim wall of Bryce Canyon; the Queen's Garden Trail Head is just off frame to the left.
 
 ![Sculpted red and white rock](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-77.webp)
 
-Looking northeast from Sunrise Point from the rim wall of Bryce Canyon; the Queen’s Garden Trail Head is just off frame to the right.
+Looking northeast from Sunrise Point from the rim wall of Bryce Canyon; the Queen's Garden Trail Head is just off frame to the right.
 
 ![A semi-circular amphitheater filled with hundreds of densely packed red and white stone pillars](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-78.webp)
 
@@ -351,7 +351,7 @@ Looking southeast into Bryce Canyon from the lower Inspiration Point.
 
 ![A semi-circular amphitheater filled with hundreds of densely packed red and white stone pillars](../photography/assets/2017-09-15-bryce-canyon.webp)
 
-Looking across Bryce Canyon from between the upper and lower Inspiration Points; the main “amphitheater” of Bryce Canyon can be seen to the left.
+Looking across Bryce Canyon from between the upper and lower Inspiration Points; the main "amphitheater" of Bryce Canyon can be seen to the left.
 
 ## The Road Home
 
@@ -361,4 +361,4 @@ The hotel that Len Montgomery and I stayed at on the way back to Denver from Bry
 
 ![A selfie in green](../photography/assets/2017-09-16-so-green-that-len-couldnt-stop-laughing.webp)
 
-So green that Len Montgomery couldn’t stop laughing.
+So green that Len Montgomery couldn't stop laughing.

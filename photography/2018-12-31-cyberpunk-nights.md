@@ -1,6 +1,6 @@
 # Cyberpunk Nights
 
-![Denver at dusk on a cold winter’s day](assets/2018-12-31-cyberpunk-nights.webp)
+![Denver at dusk on a cold winter's day](assets/2018-12-31-cyberpunk-nights.webp)
 
 photographer:: Nathan Acks  
 date:: 2018-12-31

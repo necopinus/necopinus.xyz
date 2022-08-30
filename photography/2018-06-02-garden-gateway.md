@@ -5,4 +5,4 @@
 photographer:: Nathan Acks  
 date:: 2018-06-02
 
-The northwestern gate to June’s PlantAsia at the Denver Botanic Gardens.
+The northwestern gate to June's PlantAsia at the Denver Botanic Gardens.

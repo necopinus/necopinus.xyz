@@ -11,15 +11,15 @@ A combination of astute planning and sheer luck/misfortune saw me traveling from
 
 A spider in Redwood Regional Park.
 
-There were a surprising number of spiders in the park… And surprisingly few birds.
+There were a surprising number of spiders in the park... And surprisingly few birds.
 
 ![A redwood forest, seen through the narrow gap between two foreground trees](assets/2017-10-23-coast-to-coast-02.webp)
 
-Taken in Redwood Regional Park during a hike with Len Montgomery, Nathaniel Manista, Stephen Ulrich, Mike, and Daniel (Mike and Daniel are two of Stephen Ulrich’s friends).
+Taken in Redwood Regional Park during a hike with Len Montgomery, Nathaniel Manista, Stephen Ulrich, Mike, and Daniel (Mike and Daniel are two of Stephen Ulrich's friends).
 
 ![Looking east across San Francisco at night](../photography/assets/2017-10-07-the-moon-over-san-francisco.webp)
 
-The Moon rises over San Francisco Bay. Looking inland from Krista Stone-Manista and Nathaniel Manista’s condo. The San Francisco city core is just off-frame to the left.
+The Moon rises over San Francisco Bay. Looking inland from Krista Stone-Manista and Nathaniel Manista's condo. The San Francisco city core is just off-frame to the left.
 
 ![A photograph, processed to look like a pastel painting, of five friends sitting on a couch, laughing and drinking wine](assets/2017-10-23-coast-to-coast-04.webp)
 
@@ -49,15 +49,15 @@ Clouds at sunset over the midwest.
 
 ![A prominent domed building on the campus of the University of Louisville](assets/2017-10-23-coast-to-coast-09.webp)
 
-The University of Louisville. Ryen Schimerman & Jasmine Chiang’s apartment, where I stayed while in Kentucky, was just a couple of blocks from the University.
+The University of Louisville. Ryen Schimerman & Jasmine Chiang's apartment, where I stayed while in Kentucky, was just a couple of blocks from the University.
 
 ![A black-and-white photo of an old steel water tower](assets/2017-10-23-coast-to-coast-10.webp)
 
-The old water tower on top of Ryen Schimerman & Jasmine Chiang’s apartment building, where I stayed while in Louisville.
+The old water tower on top of Ryen Schimerman & Jasmine Chiang's apartment building, where I stayed while in Louisville.
 
 ![A black-and-white photo of a weathered wooden deck](../photography/assets/2017-10-17-wood.webp)
 
-The deck on top of Ryen Schimerman & Jasmine Chiang’s apartment building, where I stayed while in Louisville. This particular photo makes for a rather nice phone wallpaper if you’re into textured photos.
+The deck on top of Ryen Schimerman & Jasmine Chiang's apartment building, where I stayed while in Louisville. This particular photo makes for a rather nice phone wallpaper if you're into textured photos.
 
 ![An animated GIF of a black and yellow train approaching the camera obliquely](assets/2017-10-23-coast-to-coast-12.webp)
 
@@ -71,7 +71,7 @@ A train pulls through the east side of the University of Louisville.
 
 Detail of a train pulling through the east side of the University of Louisville.
 
-![A sign declaring “this car excess height” next to a ladder on the side of a train car](../photography/assets/2017-10-18-this-car-excess-height.webp)
+![A sign declaring "this car excess height" next to a ladder on the side of a train car](../photography/assets/2017-10-18-this-car-excess-height.webp)
 
 Detail of a train pulling through the east side of the University of Louisville.
 
@@ -143,7 +143,7 @@ Beneath the Abraham Lincoln Bridge over the Ohio River, looking towards Indiana.
 
 ![A black-and-white photograph of the Library of Congress annex at night](../photography/assets/2017-10-21-library-of-congress.webp)
 
-The entrance to the Library of Congress’ James Madison Memorial Building at night.
+The entrance to the Library of Congress' James Madison Memorial Building at night.
 
 ![An animated GIF of people walking towards the viewer at night with the US Capitol in the background](assets/2017-10-23-coast-to-coast-33.webp)
 
@@ -157,6 +157,6 @@ Morning on the east side of the US Capitol.
 
 The entrance to the Supreme Court of the United States.
 
-![The fountain in front of the Library of Congress’ original building](../photography/assets/2017-10-23-fountain.webp)
+![The fountain in front of the Library of Congress' original building](../photography/assets/2017-10-23-fountain.webp)
 
 The fountain in front of the Library of Congress.

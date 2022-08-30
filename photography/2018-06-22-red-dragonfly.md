@@ -5,4 +5,4 @@
 photographer:: Nathan Acks  
 date:: 2018-06-22
 
-A red dragonfly in my folks’ front yard in Boise, Idaho.
+A red dragonfly in my folks' front yard in Boise, Idaho.

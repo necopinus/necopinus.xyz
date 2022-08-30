@@ -5,4 +5,4 @@
 photographer:: Nathan Acks  
 date:: 2017-09-14
 
-Horseshoe Bend is in Grand Canyon National Park (the park begins at the top of the rim walls and extends to the Glen Canyon Dam), but the overlook I’m on is BLM land.
+Horseshoe Bend is in Grand Canyon National Park (the park begins at the top of the rim walls and extends to the Glen Canyon Dam), but the overlook I'm on is BLM land.

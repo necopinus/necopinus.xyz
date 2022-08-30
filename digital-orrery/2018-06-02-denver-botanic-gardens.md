@@ -19,15 +19,15 @@ The Denver Botanic Gardens is full of rabbits this year.
 
 ![A round, Chinese-style garden entrance](../photography/assets/2018-06-02-garden-gateway.webp)
 
-The northwestern gate to June’s PlantAsia at the Denver Botanic Gardens.
+The northwestern gate to June's PlantAsia at the Denver Botanic Gardens.
 
 ![A close-up of a bamboo trunk](assets/2018-06-02-denver-botanic-gardens-05.webp)
 
-Bamboo in June’s PlantAsia at the Denver Botanic Gardens.
+Bamboo in June's PlantAsia at the Denver Botanic Gardens.
 
 ![A close-up of a bamboo trunk](assets/2018-06-02-denver-botanic-gardens-06.webp)
 
-Bamboo in June’s PlantAsia at the Denver Botanic Gardens.
+Bamboo in June's PlantAsia at the Denver Botanic Gardens.
 
 ![A prickly pear cactus flower](assets/2018-06-02-denver-botanic-gardens-07.webp)
 

@@ -5,4 +5,4 @@
 photographer:: Nathan Acks  
 date:: 2018-07-08
 
-Len Montgomery and Nathan Acks’ shadows on the Great Sand Dunes.
+Len Montgomery and Nathan Acks' shadows on the Great Sand Dunes.

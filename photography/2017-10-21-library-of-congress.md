@@ -5,4 +5,4 @@
 photographer:: Nathan Acks  
 date:: 2017-10-21
 
-The entrance to the Library of Congress’ James Madison Memorial Building at night.
+The entrance to the Library of Congress' James Madison Memorial Building at night.
