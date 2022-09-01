@@ -83,7 +83,7 @@ Meanwhile, terms like "fake news" have now been weaponized to such an extent tha
 As our ability to automate common tasks increases, one option we could take as a society is to work less. Several Swedish towns have been experimenting with this, but unfortunately (and unsurprisingly) it turns out to not be a cost-saving move. There are still significant, albeit more personal, benefits though.
 
 * [Swedish Six-Hour Workday Runs Into Trouble: It's Too Costly](https://www.bloomberg.com/news/articles/2017-01-03/swedish-six-hour-workday-trial-runs-into-trouble-too-expensive)
-* [Swedish Six-Hour Workday Runs Into Trouble: It's Too Costly](http://www.bbc.co.uk/news/business-38843341)
+* [What really happened when Swedes tried six-hour days?](http://www.bbc.co.uk/news/business-38843341)
 
 The New York Times ponders, "Can You Have a Good Life if You Don't Have a Good Job?" It's a good overview of the current state of thinking about how to make sure people have access to the "benefits" we typically associate with work, and why it's so difficult in the U.S. to move things like healthcare from being provided by employers to being provided by the government. But by focusing on our biological needs (food, shelter, healthcare), the piece misses the larger question of what it means to have a good life - feeling needed. How can we construct a society that lets people feel engaged and needed if they can't find a steady job?
 
