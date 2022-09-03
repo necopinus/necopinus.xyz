@@ -13,9 +13,9 @@ Fewer links but more context. Five futures, if you will.
 * [Exponential View](https://www.exponentialview.co/)
 * [Sentiers](https://sentiers.media/)
 
-## Part 1
+# Part 1
 
-### 🍼 The Problem With All the Plastic That's Leaching Into Your Food
+## 🍼 The Problem With All the Plastic That's Leaching Into Your Food
 
 I strongly suspect that in a thousand years people are going to look back on how we use plastic with the same sense of bemused horror with which we consider the Roman's wide-spread use of lead.
 
@@ -27,7 +27,7 @@ I strongly suspect that in a thousand years people are going to look back on how
 
 * [The Problem With All the Plastic That's Leaching Into Your Food](https://www.vox.com/science-and-health/2018/9/11/17614540/plastic-food-containers-contamination-health-risks)
 
-### 🐝 Popular Weed Killer May Be Responsible for Global Bee Deaths
+## 🐝 Popular Weed Killer May Be Responsible for Global Bee Deaths
 
 As if we needed another reason to be concerned about the widespread use of Roundup, it turns out that the popular herbicide may be contributing to bee colony collapse.
 
@@ -41,7 +41,7 @@ As if we needed another reason to be concerned about the widespread use of Round
 
 * [Popular Weed Killer May Be Responsible for Global Bee Deaths](https://www.vice.com/en/article/zm53ky/popular-weed-killer-glyphosate-roundup-may-be-responsible-for-global-bee-deaths)
 
-### 🗽 Climate Deniers Are More Likely to Hate Democracy
+## 🗽 Climate Deniers Are More Likely to Hate Democracy
 
 In the West acceptance of climate change is closely tied to the liberal/conservative political divide. But in the world at large that turns out to be an aberration.
 
@@ -53,7 +53,7 @@ In the West acceptance of climate change is closely tied to the liberal/conserva
 
 * [Climate Deniers Are More Likely to Hate Democracy](https://www.vice.com/en/article/bja7mm/climate-deniers-are-more-likely-to-hate-democracy)
 
-### 🏭 Trump Administration Sees a 7-Degree Rise in Global Temperatures by 2100
+## 🏭 Trump Administration Sees a 7-Degree Rise in Global Temperatures by 2100
 
 Internally, the Trump administration seems to have accepted worst-case global warming projections, and is in fact using them as an argument for *not* cutting US carbon emissions.
 
@@ -79,9 +79,9 @@ I think what we're seeing in the Trump administration is an all-but-explicit com
 * [William Gibson On the Apocalypse, America, and The Peripheral's Ending](https://io9.gizmodo.com/william-gibson-on-the-apocalypse-america-and-the-peri-1656659382)
 * [Lazarus (comics) (Wikipedia)](https://en.wikipedia.org/wiki/Lazarus_%28comics%29)
 
-## Part 2
+# Part 2
 
-### 💀 Why Facebook is Losing the War on Hate Speech in Myanmar
+## 💀 Why Facebook is Losing the War on Hate Speech in Myanmar
 
 Facebook's panglossian incompetence in managing its community has made it all but complicit in the ethnic cleansing of the Rohingya in Myanmar.
 
@@ -93,7 +93,7 @@ Facebook's panglossian incompetence in managing its community has made it all bu
 
 * [Why Facebook is Losing the War on Hate Speech in Myanmar](https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/)
 
-### 👤 Facebook Is Giving Advertisers Access to Your Shadow Contact Information
+## 👤 Facebook Is Giving Advertisers Access to Your Shadow Contact Information
 
 If you keep tabs on the world of surveillance capitalism, then it will come as no surprise that Facebook holds a lot of data on you that it gathers from other sources, and you can't see or delete. Facebook has periodically dodged and denied the existence of these "shadow profiles", but has now been caught in the act by a team of clever researchers.
 
@@ -105,7 +105,7 @@ I'm not a privacy hawk, but harvesting information folks' provide to enhance the
 
 * [Facebook Is Giving Advertisers Access to Your Shadow Contact Information](https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051)
 
-### 👥 The Facebook Security Meltdown Exposes Way More Sites Than Facebook
+## 👥 The Facebook Security Meltdown Exposes Way More Sites Than Facebook
 
 Facebook also dumped on Friday that attackers had gained access to approximately 50 million user accounts using a chain of bugs that eventually allowed them to "log in" as affected users. An additional 40 million accounts could also be impacted. While this is only 2% - 4% of Facebook's user base, the attackers were basically able to gain *complete* access to affected accounts, potentially including any applications and websites that those users logged in to with Facebook.
 
@@ -117,7 +117,7 @@ Facebook also dumped on Friday that attackers had gained access to approximately
 
 * [The Facebook Security Meltdown Exposes Way More Sites Than Facebook](https://www.wired.com/story/facebook-security-breach-third-party-sites/)
 
-### 💣 Facebook is Weaponizing Security to Erode Privacy
+## 💣 Facebook is Weaponizing Security to Erode Privacy
 
 A long, and good, analysis of the way Facebook uses and abuses security concerns to justify its data collection.
 
@@ -136,7 +136,7 @@ Facebook is setting up privacy and security as opposing values, when really they
 * [Facebook is Weaponizing Security to Erode Privacy](https://techcrunch.com/2018/09/29/facebook-is-weaponizing-security-to-erode-privacy/)
 * [Web scraping (Wikipedia)](https://en.wikipedia.org/wiki/Web_scraping)
 
-### 💪 A Life Insurance Company Wants to Track Your Fitness Data
+## 💪 A Life Insurance Company Wants to Track Your Fitness Data
 
 At some point Fitbits and other personal health devices were going to become too tempting of a data source for insurance companies to ignore. It looks like that time is now.
 
@@ -148,9 +148,9 @@ What could possibly go wrong?
 
 * [A Life Insurance Company Wants to Track Your Fitness Data](https://www.vox.com/the-goods/2018/9/20/17883720/fitbit-john-hancock-interactive-life-insurance)
 
-## Part 3
+# Part 3
 
-### 🔮 Democrats Should Worry About All Their Close Special Election Losses
+## 🔮 Democrats Should Worry About All Their Close Special Election Losses
 
 The expected "blue wave" of Democrat-supporting voters in the 2018 US mid-term elections may not be enough to push many candidates over the top.
 
@@ -166,7 +166,7 @@ The expected "blue wave" of Democrat-supporting voters in the 2018 US mid-term e
 
 * [Democrats Should Worry About All Their Close Special Election Losses](https://www.vox.com/policy-and-politics/2018/9/19/17854966/2018-midterm-elections-predictions-special-elections)
 
-### 📺 The Rise of YouTube's Reactionary Right
+## 📺 The Rise of YouTube's Reactionary Right
 
 Ezra Klein's discussion of the emergence of the "reactionary right" online seems more-or-less spot-on to me.
 
@@ -182,7 +182,7 @@ Ezra Klein's discussion of the emergence of the "reactionary right" online seems
 
 * [The Rise of YouTube's Reactionary Right](https://www.vox.com/policy-and-politics/2018/9/24/17883330/dave-rubin-ben-shapiro-youtube-reactionary-right-peterson)
 
-### 💉 Russian Trolls "Spreading Discord" Over Vaccine Safety Online
+## 💉 Russian Trolls "Spreading Discord" Over Vaccine Safety Online
 
 It turns out that Russian trolls have been working to weaponize unfounded concerns over vaccine safety as part of their broader effort create a tribal, chaotic information space.
 
@@ -198,21 +198,21 @@ This isn't a long term strategy to contain political rivals. This is recklessnes
 
 * [Russian Trolls "Spreading Discord" Over Vaccine Safety Online](https://www.theguardian.com/society/2018/aug/23/russian-trolls-spread-vaccine-misinformation-on-twitter)
 
-### 💡 Why Our Minds Weren't Built for Truth, and How We Can Change That
+## 💡 Why Our Minds Weren't Built for Truth, and How We Can Change That
 
 [VIDEO] This talk by Julia Galef is a great discussion about how we reason and what we can do to make ourselves more open to better evidence. In particular, I think that Galef's focus on creating better incentive structures, rather than the common refrain that what we need is more "education", is really important.
 
 * [Why Our Minds Weren't Built for Truth, and How We Can Change That](http://longnow.org/seminars/02018/sep/12/soldiers-and-scouts-why-our-minds-werent-built-truth-and-how-we-can-change/)
 
-## Part 4
+# Part 4
 
-### 🚀 Doctor Who Official Trailer
+## 🚀 Doctor Who Official Trailer
 
 [VIDEO] I'm optimistic about the new season of Doctor Who.
 
 * [Trailer #2 \| Doctor Who \| Sunday, October 7 \| BBC America](https://www.youtube.com/watch?v=lf_YE24KCKo)
 
-### 🏫 Many Ways to Be a Girl, But One Way to Be a Boy
+## 🏫 Many Ways to Be a Girl, But One Way to Be a Boy
 
 These days, young women perceive a wide range of behaviors and futures open to them; for young men, the options seem much narrower. These different self-conceptions collide in exactly the way you would expect.
 
@@ -226,7 +226,7 @@ The survey results, and the stories in the article, align well with my own obser
 
 * [Many Ways to Be a Girl, But One Way to Be a Boy](https://www.nytimes.com/2018/09/14/upshot/gender-stereotypes-survey-girls-boys.html)
 
-### 👩 A Feminist Makes the Case Against Feminism
+## 👩 A Feminist Makes the Case Against Feminism
 
 I think Jessa Crispin's torturing the definition of "patriarchy" a bit here, but I agree with the thrust of her argument.
 
@@ -240,9 +240,9 @@ I think Jessa Crispin's torturing the definition of "patriarchy" a bit here, but
 
 * [A Feminist Makes the Case Against Feminism](https://www.vox.com/conversations/2017/3/6/14761392/feminism-capitalism-socialism-patriarchy-jessa-crispin)
 
-## Part 5
+# Part 5
 
-### 📱 Lasts Longer
+## 📱 Lasts Longer
 
 Apple's September iPhone release event included a hidden bombshell: Moving forward, the company will be pushing to keep their products in circulation longer, in direct opposition to the upgrade treadmill that hardware companies (like Apple!) have relied on to remain profitable.
 
@@ -255,7 +255,7 @@ Ars Technica's tests of iOS 12 suggest that Apple is already working to fulfill 
 * [Lasts Longer](http://www.asymco.com/2018/09/13/lasts-longer/)
 * [iOS 12 on the iPhone 5S, iPhone 6 Plus, and iPad Mini 2: It's actually faster!](https://arstechnica.com/gadgets/2018/09/ios-12-on-the-iphone-5s-iphone-6-plus-and-ipad-mini-2-its-actually-faster/)
 
-### 💻 Mmm... Pi-hole...
+## 💻 Mmm... Pi-hole...
 
 Troy Hunt describes how he uses a Raspberry Pi to block ads on his home network.
 
@@ -263,7 +263,7 @@ Troy Hunt describes how he uses a Raspberry Pi to block ads on his home network.
 
 * [Mmm... Pi-hole...](https://www.troyhunt.com/mmm-pi-hole/)
 
-### ⛅ How to Build a Low-tech Website
+## ⛅ How to Build a Low-tech Website
 
 If you ever wanted to read about the intersection of modern website design and energy de-intensification, this is the article for you.
 
@@ -277,7 +277,7 @@ Now I want to redesign my websites...
 
 * [How to Build a Low-tech Website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)
 
-### 🔋 Stacking Concrete Blocks Is a Surprisingly Efficient Way to Store Energy
+## 🔋 Stacking Concrete Blocks Is a Surprisingly Efficient Way to Store Energy
 
 When I tell people that the future will be weirder than they think, this is the kind of thing I mean.
 
@@ -295,7 +295,7 @@ The article is bearish on the technology's prospects for significant deployment,
 
 * [Stacking Concrete Blocks Is a Surprisingly Efficient Way to Store Energy](https://qz.com/1355672/stacking-concrete-blocks-is-a-surprisingly-efficient-way-to-store-energy/)
 
-### 🎶 Star Wars in Ancient Greece
+## 🎶 Star Wars in Ancient Greece
 
 [VIDEO] The theme from Star Wars, arranged for instruments that existed in ancient Greece.
 

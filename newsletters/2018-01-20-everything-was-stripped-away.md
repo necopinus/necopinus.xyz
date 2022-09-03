@@ -8,7 +8,7 @@ issue:: 2
 conditions:: Partly cloudy and 8° C  
 location:: unless.gain.books
 
-## The Story So Far
+# The Story So Far
 
 I was originally going to use the week's edition of Five Futures to begin considering some of the trickier aspects of the notion of "growth", and why I think that proponents of a "zero growth" world are proposing something significantly more radical than most of them actually realize.
 
@@ -35,7 +35,7 @@ Even if the current shutdown doesn't last very long, it strikes me as an importa
 * [Congressional leaders refuse to budge on shutdown's first day, but negotiations continue](https://www.washingtonpost.com/powerpost/government-shuts-down-after-senate-bill-collapses-negotiations-fail/2018/01/20/dca0d7e0-fda6-11e7-8f66-2df0b94bb98a_story.html)
 * [The government is shutting down because Donald Trump doesn't know what he's doing](https://www.vox.com/policy-and-politics/2018/1/19/16910296/government-shutdown-donald-trump-daca-immigration-2018-deal)
 
-## The Deep Past
+# The Deep Past
 
 Iridescent dinosaurs!
 
@@ -49,7 +49,7 @@ Some Australian birds of prey may use fire as a tool when hunting.
 
 * [Arsonist falcons suggest birds discovered fire before humans did (NewScientist / Archive.org)](https://www.newscientist.com/article/mg23731604-200-arsonist-falcons-suggest-birds-discovered-fire-before-humans-did/)
 
-## The Near Past
+# The Near Past
 
 20% of trees in the modern Amazon rain forest appear to be the result of human domestication.
 
@@ -63,7 +63,7 @@ The New Yorker reviews a suite of new books that suggests that question the bene
 
 * [The Great Affluence Fallacy](https://www.nytimes.com/2016/08/09/opinion/the-great-affluence-fallacy.html)
 
-## The Present
+# The Present
 
 Two barn-burner pieces on social media and the attention economy this week. The Globe and Mail begins by exploring recent research and revelations around the extent that social media companies manipulate our behavior and some of the consequences of the decisions on our behavior. It's a good piece, albeit one that indulges in the strain of alarmist neo-luddism that is increasingly (and, I think, counter-productively) linked to critical perspectives towards technology. Fortunately, Zeynep Tufekci is having none of it, pointing out that the social failings of smart phones and social media are the result of choices we have made to exploit aspects of human behavior, not intrinsic features of these technologies. It is possible, as a society, to choose differently.
 
@@ -78,7 +78,7 @@ Meanwhile, terms like "fake news" have now been weaponized to such an extent tha
 
 * [Study: 42 percent of Republicans believe accurate - but negative - stories qualify as 'fake news'](https://www.washingtonpost.com/blogs/erik-wemple/wp/2018/01/16/study-42-percent-of-republicans-believe-accurate-but-negative-stories-qualify-as-fake-news/)
 
-## The Near Future
+# The Near Future
 
 As our ability to automate common tasks increases, one option we could take as a society is to work less. Several Swedish towns have been experimenting with this, but unfortunately (and unsurprisingly) it turns out to not be a cost-saving move. There are still significant, albeit more personal, benefits though.
 
@@ -99,7 +99,7 @@ This profile of Rod Dreher and his new book, "The Benedict Option", is fascinati
 
 * [Rod Dreher's Monastic Vision](https://www.newyorker.com/magazine/2017/05/01/rod-drehers-monastic-vision)
 
-## The Deep Future
+# The Deep Future
 
 Iceland is working to restore its lost forests.
 
@@ -117,6 +117,6 @@ A throwback to the second issue ever of Five Futures: A deep sea Greenland shark
 
 * [512-year-old Greenland shark may be the oldest living vertebrate on Earth](https://inhabitat.com/512-year-old-greenland-shark-may-be-the-oldest-living-vertebrate-on-earth/)
 
-## Outro
+# Outro
 
 [A city becomes poetry.](http://everythingeverytime.net/)

@@ -8,7 +8,7 @@ issue:: 7
 conditions:: Clear and 11° C  
 location:: rock.afford.lots
 
-## The Story So Far
+# The Story So Far
 
 And now we are ten! And this despite the fact that I can't actually seem to reliably swing a weekly schedule yet.
 
@@ -20,7 +20,7 @@ Politics also happens to be my day job (in a somewhat askew way). So I'm busy tr
 
 But as much as I may be preoccupied with the current electoral cycle, it just doesn't give me enough material to write a whole issue of Five Futures. But I've finally amassed enough stories to do a new issue, though. There's not as much narrative cohesion here as I'd like, and it's a bit heavy on US politics, but it will have to do.
 
-## Empire-Building First, Sex Later
+# Empire-Building First, Sex Later
 
 DNA studies are upending yet another established narrative, this time about the colonization of the Pacific by the Polynesians. We've known for a while that modern Polynesians have a pretty diverse ancestry. The standard story has been that the relevant ethnic mixing occurred before they began expanding into the wider Pacific.
 
@@ -36,7 +36,7 @@ Now it appears that story is exactly backwards. The ancient Polynesians spread o
 
 * [Ancient Polynesian DNA gives evidence of widespread population exchanges](http://arstechnica.com/science/2016/10/ancient-polynesian-dna-gives-evidence-of-widespread-population-exchanges/)
 
-## A Rupture of Cultural Narrative
+# A Rupture of Cultural Narrative
 
 And now, a few pieces of light reading presented with minimal commentary. Take some time to read through these (a few appeared in previous editions of Five Futures), and then come back for my (brief) thoughts.
 
@@ -68,7 +68,7 @@ In a world with no shared cultural narratives, "facts" are replace with group id
 * [The question of what Donald Trump "really believes" has no answer](http://www.vox.com/2016/9/29/13086236/trump-beliefs-category-error)
 * [Taking Trump Seriously, Not Literally](http://www.theatlantic.com/politics/archive/2016/09/trump-makes-his-case-in-pittsburgh/501335/)
 
-## The Banality of Information Warfare
+# The Banality of Information Warfare
 
 Jezebel may have just broken one of the most important stories of the year, but damn did they bury the lead. It seems that a number of sites (including Jezebel) have fallen victim to an elaborate SEO scam involving wholly fictitious writers and stories. The case they cover in-depth concerns the fake author "Rachel Brewson."
 
@@ -102,7 +102,7 @@ That the media is not to be trusted has long been the refrain of the paranoid an
 * [How Russia Dominates Your Twitter Feed to Promote Lies (And, Trump, Too)](http://www.thedailybeast.com/articles/2016/08/06/how-russia-dominates-your-twitter-feed-to-promote-lies-and-trump-too.html)
 * [Researchers find fake data in Olympic anti-doping, Guccifer 2.0 Clinton dumps](http://arstechnica.com/security/2016/10/researchers-find-fake-data-in-olympic-anti-doping-guccifer-2-0-clinton-dumps/)
 
-## Demographic Trends Won't Save You
+# Demographic Trends Won't Save You
 
 One thing you frequently hear in more liberal circles is that demographics are on "our" side. While the trends are powerful, I think this belief makes people more sanguine than they should be about Democratic prospects. It's unclear that an increasingly nativist GOP will be content to either temper its policies or accept political oblivion. And I think there's a high likelihood that the GOP will seize both the federal Legislative and Executive branches in 2024 - *even if its current rightwards slide continues*.
 
@@ -118,7 +118,7 @@ Demographic changes can't be held off indefinitely under the current system... B
 * [The Election That Mattered](http://thebaffler.com/blog/election-that-mattered-denison)
 * [Obama, Holder to lead post-Trump redistricting campaign](http://www.politico.com/story/2016/10/obama-holder-redistricting-gerrymandering-229868)
 
-## Kim Stanley Robinson on the Future
+# Kim Stanley Robinson on the Future
 
 Well, that's all been awfully dark, and unfortunately I don't have any thoughts about more distant horizons to offer as a chaser. Instead I'll let noted science fiction author Kim Stanley Robinson have (more-or-less) the last word.
 
@@ -131,6 +131,6 @@ You can read the entire interview over at BLDBLOG.
 * [Kim Stanley Robinson](http://kimstanleyrobinson.info/)
 * [Comparative Planetology: An Interview with Kim Stanley Robinson](https://www.bldgblog.com/2007/12/comparative-planetology-an-interview-with-kim-stanley-robinson/)
 
-## Outro
+# Outro
 
 [Weird Sun Twitter.](http://www.everything2.com/title/Weird+Sun+Twitter?author_id=7392)

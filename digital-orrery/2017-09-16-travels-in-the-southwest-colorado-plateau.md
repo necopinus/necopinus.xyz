@@ -9,7 +9,7 @@ A week spent road-tripping to Arches, Grand Canyon, and Bryce Canyon National Pa
 * [Grand Canyon National Park](https://www.nps.gov/grca/index.htm)
 * [Bryce Canyon National Park](https://www.nps.gov/brca/index.htm)
 
-## Arches National Park
+# Arches National Park
 
 ![Looking north across Arches National Park](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-01.webp)
 
@@ -139,7 +139,7 @@ The north side of Broken Arch (looking south), in Arches National Park.
 
 Delicate Arch as seen from the Upper Viewpoint in Arches National Park. If you look closely, you can see all of the hikers that hiked the trail to Delicate Arch itself.
 
-## The Grand Canyon
+# The Grand Canyon
 
 ![A view into the Grand Canyon from the South Rim](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-33.webp)
 
@@ -217,7 +217,7 @@ Looking north across the Grand Canyon.
 
 Looking east across the Grand Canyon from the Desert View Watchtower. The Colorado River can be seen entering the Grand Canyon at the far left.
 
-## Sunset Crater
+# Sunset Crater
 
 ![A low cinder cone with a distinctive red rim](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-52.webp)
 
@@ -239,7 +239,7 @@ The east side of Sunset Crater.
 
 A small plant grows in the lava flow east of Sunset Crater.
 
-## Glen Canyon Dam
+# Glen Canyon Dam
 
 ![The Glen Canyon Dam](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-57.webp)
 
@@ -271,7 +271,7 @@ A small flowering bush clings to the cliff just above Horseshoe Bend.
 
 The Colorado River snakes southeast from Horseshoe Bend.
 
-## Bryce Canyon
+# Bryce Canyon
 
 ![Solar panels in a forest clearing](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-64.webp)
 
@@ -353,7 +353,7 @@ Looking southeast into Bryce Canyon from the lower Inspiration Point.
 
 Looking across Bryce Canyon from between the upper and lower Inspiration Points; the main "amphitheater" of Bryce Canyon can be seen to the left.
 
-## The Road Home
+# The Road Home
 
 ![A rubber ducky perched on the rim of a hotel bathtub](assets/2017-09-16-travels-in-the-southwest-colorado-plateau-84.webp)
 

@@ -8,7 +8,7 @@ issue:: 1
 conditions:: Partly cloudy and 14° C  
 location:: volunteered.cities.owners
 
-## The Story So Far
+# The Story So Far
 
 It's been a while, hasn't it? Almost exactly 13 months since the last of these newsletters. I bet you thought you were rid of me.
 
@@ -30,19 +30,19 @@ And now, on to the links!
 * [Feedly](https://feedly.com/)
 * [Utah Phillips > Quotes (Goodreads)](https://www.goodreads.com/author/quotes/768960.Utah_Phillips)
 
-## The Deep Past
+# The Deep Past
 
 Nautilus asks "Which Comes First, Big Cities or Big Gods?", and comes down tentatively on the side of big cities. In fact, there's hints here that "big gods" may only be one way in which the beliefs necessary for large scale social cohesion manifest - really what we need is a way to make the fact that our actions have consequences far beyond ourselves *personal*. The idea of divine punishment in monotheistic religions is one way to do this, but it's not the only way. I've always found the placement of monotheism at the "top" of the "pyramid" of social complexity a bit self-serving; the work described here seems like the beginning of a necessary corrective.
 
 * [Which Comes First, Big Cities or Big Gods?](http://nautil.us/blog/-which-comes-first-big-cities-or-big-gods)
 
-## The Near Past
+# The Near Past
 
 The incredible rock churches of Ethiopia.
 
 * [The architectural mastery of Ethiopia's ancient churches](https://qz.com/1165240/photos-the-architectural-mastery-of-ethiopias-ancient-lalibela-and-st-mary-of-zion-churches/)
 
-## The Present
+# The Present
 
 Everyone's talking about Michael Wolff's new book about the chaos of the Trump White House. James Fallows makes the connection between the "open secret" of the Trump administration's dysfunction and Harvey Weinstein's sexual predation - both require that the people surrounding Trump/Weinstein be deeply complicit in their benefactor's pathologies.
 
@@ -53,7 +53,7 @@ A persuasive case that the tail is wagging the dog when it comes to the media an
 
 * [I've Studied the Trump-Fox Feedback Loop for Months. It's Crazier Than You Think.](https://www.politico.com/magazine/story/2018/01/05/trump-media-feedback-loop-216248)
 
-## The Near Future
+# The Near Future
 
 NiemanLab wonders if people care enough about news to actively seek it out and concludes that most people just don't care. A well-informed citizenry may have been a historic accident, a consequence of the momentary dominance of mass print media.
 
@@ -74,7 +74,7 @@ The weird behavior of Tabby's Star gets a decidedly prosaic explanation. But... 
 
 * [New Results Quash 'Alien Megastructure' Theory of Mysterious Dimming Star](https://gizmodo.com/new-results-quash-alien-megastructure-theory-of-myste-1821734317)
 
-## The Deep Future
+# The Deep Future
 
 Mounting evidence of an insect apocalypse. If this doesn't scare the bejeezus out of you, I don't know what will.
 
@@ -92,6 +92,6 @@ John Quiggin points out that "extremely unlikely" climate risks actually have th
 
 * [Why "extremely unlikely" climate events matter](https://crookedtimber.org/2018/01/05/why-extremely-unlikely-climate-events-matter/)
 
-## Outro
+# Outro
 
 [Pre-colonization native territories in North America and Australia.](https://native-land.ca/)

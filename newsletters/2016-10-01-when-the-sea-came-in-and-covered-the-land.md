@@ -8,7 +8,7 @@ issue:: 6
 conditions:: Clear and 25° C  
 location:: yoga.skin.shovels
 
-## The Story So Far
+# The Story So Far
 
 Perhaps Five Futures is a bi-weekly newsletter? I'm not quite willing to give up on weekly installments just yet, but I think I have to admit that the last few weeks have not been auspicious in this regard.
 
@@ -21,7 +21,7 @@ The main purpose of the trip was to catch the kick-off of Alex Steffen's new pro
 * [Beyond the Beyond](https://www.wired.com/category/beyond_the_beyond/)
 * [Design fiction (Wikipedia)](https://en.wikipedia.org/wiki/Design_fiction)
 
-## Place as Memory
+# Place as Memory
 
 Native Americans from the Pacific Northwest chronicle earthquakes and tsunamis from at least 300 years ago. Aboriginal stories recount over 7,000 years of changes to Australia's coastline. Oral traditions, it turns out, are not only remarkably accurate, but often extraordinarily long-lived.
 
@@ -35,7 +35,7 @@ If this hypothesis is born out, then the widespread nature of this technique may
 * [How oral cultures memorise so much information](http://phys.org/news/2016-09-oral-cultures-memorise.html)
 * [Almost all living people outside of Africa trace back to a single migration more than 50,000 years ago (Science / Archive.org)](https://web.archive.org/web/20160926062532/http://www.sciencemag.org/news/2016/09/almost-all-living-people-outside-africa-trace-back-single-migration-over-50000-years)
 
-## The Far Travelers of Ancient Times
+# The Far Travelers of Ancient Times
 
 Ethnically homogenous fantasies are often defended as "historically accurate", but as sites like Medieval People of Color (now People of Color in European Art History) have documented so well, Medieval Europe (which so much high fantasy uses as its jumping-off point) was actually a pretty diverse place.
 
@@ -49,7 +49,7 @@ Modern technology may have made it easier to travel, but wanderlust, it would se
 * [Skeleton find could rewrite Roman history](http://www.bbc.com/news/science-environment-37452287)
 * [Restless Genes](https://www.nationalgeographic.com/magazine/article/restless-genes)
 
-## US Electoral Prognostications
+# US Electoral Prognostications
 
 Normally I have a specific story or two I want to highlight in each of the main sections of Five Futures. I don't have one story I want to highlight about the upcoming US election for this issue though. Rather, I've been having a lot of conversations recently about where the US political landscape is going, and I want to write up my thoughts a bit more formally. Think of the following as an exercise in accountability: I'm going to lay out some predictions about the Trump/Clinton contest and what may happen next so that interested parties (including my future self) can reality-check circa 2016 me. Assuming we don't all die in nuclear hellfire or annihilate the internet in the meantime.
 
@@ -103,7 +103,7 @@ If Trump wins, then we will know that our time has already run out.
 * [Why a Silicon Valley Founder Is Funding a Factory for Trump Memes](http://www.theatlantic.com/technology/archive/2016/09/revenge-of-the-nerds/501344/)
 * [Black swan theory (Wikipedia)](https://en.wikipedia.org/wiki/Black_swan_theory)
 
-## People Who Are Not People
+# People Who Are Not People
 
 What political system comes after democracy? I've spent a lot of time thinking about that over the last few years. While I don't have an answer yet, I do think I know what the central question is that motivates the creation of a successor to democracy. To whit, "how do we incorporate the interests of people who are not people into our decision-making processes?"
 
@@ -133,7 +133,7 @@ While I have concerns about how well the interests of an ecosystem can be repres
 * [Tūhoe-Crown settlement - Te Urewera Act 2014](http://maorilawreview.co.nz/2014/10/tuhoe-crown-settlement-te-urewera-act-2014/)
 * [Ngāi Tūhoe (Wikipedia)](https://en.wikipedia.org/wiki/Ng%C4%81i_T%C5%ABhoe)
 
-## This Garden Earth
+# This Garden Earth
 
 The spread of humanity across the globe has been a pretty raw deal for most ecosystems. Human settlements impact the surrounding ecosystems more than significant nuclear disasters, and it now looks like global warming may cause a similar level of disruption all by itself. While it's tempting to see this as a modern problem, it turns out that our ancestors didn't tread lightly on the land either.
 
@@ -158,6 +158,6 @@ Both rewilding and assisted migration are not without their problems, but both w
 * [This is What The Future of National Parks Looks Like In the Face of Climate Change](http://reports.climatecentral.org/nps/future/)
 * [Documenting Glaciers in the Dying Days of Ice](http://reports.climatecentral.org/nps/glacier/)
 
-## Outro
+# Outro
 
 [Fish sing at dawn off the Australian coast.](https://www.newscientist.com/article/2106331-fish-recorded-singing-dawn-chorus-on-reefs-just-like-birds/)

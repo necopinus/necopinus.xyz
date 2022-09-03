@@ -6,11 +6,11 @@ newsletter:: Five Futures
 volume:: 2  
 issue:: 3
 
-## The Story So Far
+# The Story So Far
 
 I've decided to play around with format a bit this week. Headings are a little more prominent to sign-post sections folks may find interesting. You'll also notice that I'm not using this leading section to house random thoughts, like I promised last week. That's because I've decided to break that off as its own section, Some Observations, which you'll find immediately below. If you're just interested in the normal link dump, check out Elsewhen.
 
-## Some Observations
+# Some Observations
 
 I want to kick off Some Observations by using it to (slowly) write down a constellation of ideas I've been circling around for the last couple of years. I currently have notes dividing my thoughts into five loosely-connected essays that build towards what (I think) may be a new way of conceptualizing politics and our ethical obligations within society. I say "may" here because my own thinking has certainly been influenced by a variety of sources, and I suspect that it's entirely possible that what I have is less "new" than a re-packaging of something that already exists.
 
@@ -18,7 +18,7 @@ In which case I hope someone clues me in, because I'd definitely be interested i
 
 I want to start off this journey by talking about the concept of economic "growth", why neither the traditional notion of unbounded growth nor the increasingly popular notion of a "zero" growth society are likely to improve (or even sustain) human welfare and happiness, how we might be able to resolve this dilemma, and finally what challenges present themselves to realizing this resolution.
 
-## The Radical Futures of Growth, Part 1
+# The Radical Futures of Growth, Part 1
 
 The concept of "growth" - the business of sustained material improvement in the human condition, primarily via the production of new physical things and services, and the provision of these things and services to ever greater portions of the population - is something that modern societies are positively obsessed with. Technocratic politics is obsessed with measuring growth, typically in the form of GDP. Our personal lives are driven by the desire to reliably secure our access to ever increasing quantities and complexities of these goods and services (a desire rooted in simple survival for the poorest among us, and base status signaling for the more well-to-do).
 
@@ -30,7 +30,7 @@ It's hard to argue with that.
 
 * [Gross domestic product (Wikipedia)](https://en.wikipedia.org/wiki/Gross_domestic_product)
 
-### The Trouble With Growth
+## The Trouble With Growth
 
 Reality has a way of ruining the best parties.
 
@@ -58,7 +58,7 @@ The most generous possible future is one in which blind luck allows us to outrun
 * [Global Warming's Worst-Case Projections Look Increasingly Likely](https://www.technologyreview.com/s/609620/global-warmings-worst-case-projections-look-increasingly-likely/)
 * [The Fallacy of Endless Economic Growth](https://psmag.com/magazine/fallacy-of-endless-growth)
 
-### The Zero Growth Dystopia
+## The Zero Growth Dystopia
 
 The alternative to a would of unbounded growth is typically conceptualized of as a world of "zero" (net) growth. Resource flows will become closed-loop, either directly by way of recycling or indirectly by designing goods that are easily broken down and reincorporated into the Earth's biosphere once they are discarded. Global population growth would need to cease in order to maintain a basic standard of living.
 
@@ -78,17 +78,17 @@ A second troubling aspect of a zero growth world is it's "anti-leveling" tendenc
 * [Thomas Piketty's "Capital", summarised in four paragraphs](https://www.economist.com/blogs/economist-explains/2014/05/economist-explains)
 * [Feudalism (Wikipedia)](https://en.wikipedia.org/wiki/Feudalism)
 
-### Next Week
+## Next Week
 
 Next week I'll outline an alternative to a "zero growth" world that, I think, largely mitigates the (first) challenge of system rigidity. That should be a lot shorter than what I just wrote, and will set us up for a discussion of how we might deal with the anti-leveling tendencies that have been up until now masked by growth.
 
-## Elsewhen
+# Elsewhen
 
-### Deep Pasts
+## Deep Pasts
 
 Nothing this week.
 
-### Near Pasts
+## Near Pasts
 
 Evidence that agriculture emerged 30,000 years earlier than we've previously believed, and in equatorial regions to boot. The implications are that the societies that founded agriculture were organized very differently - and had a very different conception of agriculture - than the societies in the Middle East and Central and South America that we typically think of as the drivers of the Neolithic Revolution. This is interesting to read alongside the articles from last week detailing the long-term cultivation of the Amazon and the rather disasterous consequences of agriculture in more "traditional" authoritarian societies (which is actually a link I forgot to include last week, so just read that now).
 
@@ -109,7 +109,7 @@ The physical maps of the Inuit.
 
 * [Inuit Cartography](https://decolonialatlas.wordpress.com/2016/04/12/inuit-cartography/)
 
-### Presents
+## Presents
 
 Apparently I have the hottest of hot takes. Here's the New York Times offering up essentially the same analysis of last weekend's shutdown of the US federal government as I did the day before. Also, did I call how long that would last or what?
 
@@ -125,7 +125,7 @@ Rolling Stone has a good overview of gerrymandering and voter disenfranchisement
 
 * [How the GOP Rigs Elections](https://www.rollingstone.com/politics/news/gop-rigs-elections-gerrymandering-voter-id-laws-dark-money-w515664)
 
-### Near Futures
+## Near Futures
 
 Over at Vox, David Roberts criticizes environmentalists for not putting decarbonization above all else, ultimately concluding that "[s]ome people, landscapes, and legitimately worthwhile priorities [will need to] suffer..." What I find interesting about Roberts' argument is that it never considers that the trade-offs he sees as necessary *would not be necessary with proper planning*. Of course, proper planning is just what we haven't been doing, so this critique is less about Roberts being wrong, and more about his lack of political imagination. That said, as environmental stressors grow, expect a lot more environmentalists to start migrating towards Roberts' position... Or something even more extreme.
 
@@ -144,7 +144,7 @@ A short survey of the literature regarding the economic effects of shrinking pop
 * [Aging and the Economy: The Japanese Experience](https://www.stlouisfed.org/publications/regional-economist/october-2015/aging-and-the-economy-the-japanese-experience)
 * [What's so scary about falling population, growth and prices?](http://www.stltoday.com/business/local/what-s-so-scary-about-falling-population-growth-and-prices/article_6d56b58c-56f1-5959-958e-ebab3c9cf9fd.html)
 
-### Deep Futures
+## Deep Futures
 
 This editorial in The Guardian raises a good set of questions about how we might find meaning in a world without work... And then proceeds to answer them in what might be the darkest possible way.
 
@@ -162,6 +162,6 @@ What we get wrong about the 1972 book, "The Limits of Growth".
 
 * [The Fallacy of Endless Economic Growth](https://psmag.com/magazine/fallacy-of-endless-growth)
 
-## Outro
+# Outro
 
 [Classic, beautifully proofed ebooks that are free for you to download in a variety of formats.](https://standardebooks.org/)

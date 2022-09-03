@@ -6,7 +6,7 @@ newsletter:: Five Futures
 volume:: 2  
 issue:: 5
 
-## The Story So Far
+# The Story So Far
 
 The day job continues to intervene.
 
@@ -16,7 +16,7 @@ But there is always the final installment of "The Radical Futures of Growth". ðŸ
 
 I know there are people who manage to work 60 hours a week, keep up with world events, and put together interesting side projects. As much as I like to imagine otherwise, it's pretty obvious at this point that I am not one of those people.
 
-## Some Observations
+# Some Observations
 
 Three weeks ago I began "The Radical Futures of Growth" by talking about why both the modern notion of unlimited growth and the idea that a zero growth economy is a desirable alternative are problematic. Last week I followed this up by outlining an alternative I called "long growth" which attempts to replace a human-centric conception of growth with one that's grounded in both deep time/history and a larger ecological awareness.
 
@@ -27,7 +27,7 @@ While the concept of long growth solves the resource problems of unlimited growt
 * [Deep time (Wikipedia)](https://en.wikipedia.org/wiki/Deep_time)
 * [Deep history (Wikipedia)](https://en.wikipedia.org/wiki/Deep_history)
 
-## The Radical Futures of Growth, Part 3
+# The Radical Futures of Growth, Part 3
 
 There is a long pattern in history of the powerful hoarding resources to the detriment of masses of humanity. So long as the resource pie is always expanding (well, expanding as fast or faster than new resources can be hoarded, then it's possible for the rising tide of riches to raise all boats. Sure, maybe the rich get richer, but so too can you and your family and your community. Take away the expanding pie, however, and the zero growth world that remains is easily seen to also be zero sum - a world in which efforts to improve my security or standard of living must invariably lead to declines in your security or standard of living.
 
@@ -38,7 +38,7 @@ While long growth does not imagine a world where resource constraints are (funct
 * [r > g](http://crookedtimber.org/2014/10/13/r-g/)
 * [Zero-sum game (Wikipedia)](https://en.wikipedia.org/wiki/Zero-sum_game)
 
-### A Manifesto for Modern Levelers
+## A Manifesto for Modern Levelers
 
 It's important to remember here that resource hoarding isn't just some personality defect of the rich and powerful - rather, it's a very human behavior that often comes from the best of places. Much, in fact, springs from our desire to do what's best for our children; we make sure they go to the best schools we can afford, we help support them well into adulthood, we give them what wealth we have accumulated when we pass on, and we support laws and policies that encourage and enable these behaviors. We do this not out of greed, but out of love... And yet it drives us to attempt to accumulate wealth beyond what we'd otherwise require, and plays a central role in perpetuating inequalities of power.
 
@@ -81,7 +81,7 @@ These questions highlight how issues of good governance, transparency, and accou
 * [Soaking the rich](http://crookedtimber.org/2011/08/22/soaking-the-rich/)
 * [Basic income (Wikipedia)](https://en.wikipedia.org/wiki/Basic_income)
 
-### Time Scales Matter (A Brief Aside)
+## Time Scales Matter (A Brief Aside)
 
 Dealing with the problem of resource hoarding is at least theoretically possible in a long growth future, as such a future avoids the hard resource limits implied by a zero growth world. But even if you're a firm believer in the desirability of unlimited, unrestrained growth, the systems of taxation and programs outlined above would still be desirable.
 
@@ -97,7 +97,7 @@ Far from being an "extreme" program, the approach outlined above may very well b
 * [How FDR Saved Capitalism](https://www.hoover.org/research/how-fdr-saved-capitalism)
 * [Donald Trump Is the First Demagogue of the Antropocene](https://www.theatlantic.com/science/archive/2016/10/trump-the-first-demagogue-of-the-anthropocene/504134/)
 
-### Study Life Always
+## Study Life Always
 
 It's worth being honest here... Unless you think that a program of unlimited growth is sustainable, then there are only a limited number of possible futures:
 
@@ -115,32 +115,32 @@ It is time we study life.
 * [Path dependence (Wikipedia)](https://en.wikipedia.org/wiki/Path_dependence)
 * ["Study Death Always"](https://www.laphamsquarterly.org/roundtable/study-death-always)
 
-## Elsewhen
+# Elsewhen
 
-### Deep Pasts
+## Deep Pasts
 
 Nothing this edition.
 
-### Near Pasts
+## Near Pasts
 
 Story-telling may be one of the oldest, and most important, human behaviors.
 
 * [The Desirability of Storytellers](https://www.theatlantic.com/science/archive/2017/12/the-origins-of-storytelling/547502/)
 
-### Presents
+## Presents
 
 Nothing this edition.
 
-### Near Futures
+## Near Futures
 
 Environmental degradation and worsening cultural conflict in Nigeria.
 
 * [A widening conflict between herdsmen and farmers is redefining Nigeria's geopolitics](https://qz.com/1204744/nigeria-fulani-herdsmen-clashes-are-redefining-its-geopolitics/)
 
-### Deep Futures
+## Deep Futures
 
 Nothing this edition.
 
-## Outro
+# Outro
 
 [Finding dark skies around the world.](http://darksitefinder.com/maps/world.html)

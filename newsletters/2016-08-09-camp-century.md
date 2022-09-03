@@ -8,7 +8,7 @@ issue:: 1
 conditions:: Clear skies and 26° C  
 location:: Overlooking the Iapetus
 
-## The Story So Far
+# The Story So Far
 
 Ten years ago, it felt like everyone had their own blog. Some of these were pretty shallow affairs, while others offered a such a steady stream of mostly long form work that you wondered how their authors had time to hold down an actual job. Of course, for some of them their blog became their job, which I suspect managed to be simultaneously awesome and anxiety-inducing for the lucky few who found themselves in that space.
 
@@ -24,7 +24,7 @@ So, with that introduction, let's consider some futures from the past week.
 
 * [The Blissfully Slow World of Internet Newsletters](http://www.wired.com/2016/05/rise-of-the-newsletter/)
 
-## Whale Tales
+# Whale Tales
 
 The Earth is full of complex societies, each with its own language and culture. Some of these are human, but many (most?) are not. Every now and then we get a glimpse of this complexity, and it's often at once both beautiful...
 
@@ -49,7 +49,7 @@ Explanations like this feel lacking though, especially given the world-wide natu
 * [A Gathering of Giants](http://www.biographic.com/posts/sto/a-gathering-of-giants)
 * [Humpback Whales Around the Globe Are Mysteriously Rescuing Animals From Orcas](https://www.treehugger.com/humpback-whales-around-globe-are-mysteriously-rescuing-animals-orcas-4862397)
 
-## One War, Two Bows
+# One War, Two Bows
 
 Six months ago, Bruce Schneier highlighted a paper exploring the adoption of longbows vs. crossbows at the end of the European Middle Ages.
 
@@ -62,7 +62,7 @@ The paper itself is short (the PDF's 33 pages, but the formatting places remarka
 * [Institutionally Constrained Technology Adoption: Resolving the Longbow Puzzle](http://www.peterleeson.com/Longbow.pdf)
 * [Path dependence (Wikipedia)](https://en.wikipedia.org/wiki/Path_dependence)
 
-## Politics is Petty
+# Politics is Petty
 
 Its easy to let the concept of path dependence lull one into an unthinking acceptance of historical determinism. The antidote to this is to remember that history is made of people, and people often make important decisions for the pettiest of reasons.
 
@@ -84,7 +84,7 @@ Out of such animal passions is history made.
 * [What Julian Assange's War on Hillary Clinton Says About WikiLeaks](https://theintercept.com/2016/08/06/accusing-wikileaks-bias-beside-point/)
 * [Julian Assange (Wikipedia)](https://en.wikipedia.org/wiki/Julian_Assange)
 
-## Breaking Norms
+# Breaking Norms
 
 If you live in the US, then your media diet is probably dominated right now by the upcoming presidential election. Which is kind of odd, actually, given how lopsided the entire affair is. Now, I'm no fan of Clinton, but there is absolutely, positively, no conceivable world in which she doesn't win. So this entire election season *should* be pretty uninteresting, except that the Republican party's strategy over the last fifty years has been to carefully cultivate ethnic animosity, and their presidential candidate seems to be just fine with moving that animosity from theory into practice.
 
@@ -110,7 +110,7 @@ Rather than being America's Mussolini, Trump may simply be *That Which Comes Bef
 * [Donald Trump and his followers could destroy America even if he loses](http://qz.com/751320/donald-trump-and-his-followers-could-destroy-america-even-if-he-loses/)
 * [Benito Mussolini (Wikipedia)](https://en.wikipedia.org/wiki/Benito_Mussolini)
 
-## The Future Hates Us Already
+# The Future Hates Us Already
 
 Speaking of horrible things, the globe is warming, the Arctic is thawing, and that means we're starting to find out just how much the ice and permafrost were protecting us from. If you thought that zombie anthrax was bad, just wait until old military bases start to thaw out of the ice and slide into the ocean.
 
@@ -128,7 +128,7 @@ It seems darkly appropriate that Camp Century's name so appropriately matches th
 * [Greenland Melt Could Expose Hazardous Cold War Waste](http://www.climatecentral.org/news/greenland-melt-hazardous-cold-war-waste-20586)
 * [Learn about Polychlorinated Biphenyls (PCBs) (United States Environmental Protection Agency)](https://www.epa.gov/pcbs/learn-about-polychlorinated-biphenyls-pcbs)
 
-## Outro
+# Outro
 
 And with that we've reached the end of Five Futures' freshman outing.
 

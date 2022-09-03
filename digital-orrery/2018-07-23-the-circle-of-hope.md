@@ -34,7 +34,7 @@ Jersey City from the air, just before landing in New York City for HOPE 12!
 
 * [The Circle of HOPE](https://xii.hope.net/)
 
-## The Hotel Pennsylvania
+# The Hotel Pennsylvania
 
 ![A New York City skyline at night](assets/2018-07-23-the-circle-of-hope-06.webp)
 
@@ -50,7 +50,7 @@ The view out the window of my room at the Hotel Pennsylvania on the second night
 
 * [The Circle of HOPE](https://xii.hope.net/)
 
-## The Metropolitan Museum of Art
+# The Metropolitan Museum of Art
 
 ![The arches and domes over The Great Hall of the Metropolitan Museum of Art](assets/2018-07-23-the-circle-of-hope-09.webp)
 

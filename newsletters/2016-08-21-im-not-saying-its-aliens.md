@@ -8,7 +8,7 @@ issue:: 3
 conditions:: Clear skies and 32° C  
 location:: The ancient shore of Laurentia
 
-## The Story So Far
+# The Story So Far
 
 And now we are eight. Welcome, subscribers new and old, to this week's edition of Five Futures.
 
@@ -18,7 +18,7 @@ It's probably a good thing that I'm in read-only mode (heh) right now, as I've g
 
 * [NIST Special Publication 800-53 (Wikipedia)](https://en.wikipedia.org/wiki/NIST_Special_Publication_800-53)
 
-## Crossing Beringia
+# Crossing Beringia
 
 The conventional narrative concerning human arrival in the Americas posits that ancient peoples entered North America 13,500 year ago, give-or-take, by walking across Beringia, a low, flat grassland between Siberia and Alaska that was exposed at the end of the last glacial maximum (and would subsequently be re-submerged as all of that ice melted). This tidy narrative has been slowly falling apart over the last few years though, and now a detailed reconstruction of Beringia's environment has revealed that the area was inhospitable until 12,600 years ago.
 
@@ -31,14 +31,14 @@ People were living in the Americas before that date though, so how did they get 
 * [Could These Be the Oldest Human Footprints in North America?](http://www.scientificamerican.com/article/could-these-be-the-oldest-human-footprints-in-north-america/)
 * [Bone DNA reveals humanity's trek into South America](http://www.nature.com/news/bone-dna-reveals-humanity-s-trek-into-south-america-1.17424)
 
-## 15th Century Armor
+# 15th Century Armor
 
 Armored knights from the Late Middle Ages were surprisingly agile.
 
 * [Late Middle Ages (Wikipedia)](https://en.wikipedia.org/wiki/Late_Middle_Ages)
 * [The surprising spryness of fighters in 15th C armor](https://boingboing.net/2016/08/17/the-surprising-spryness-of-fig.html).
 
-## The Dark Enlightenment
+# The Dark Enlightenment
 
 Last week I spent a good chunk of the newsletter considering the ramifications of the Journal of American Greatness and its impact on modern (US) conservative thought. In particular, I was struck by a number of similarities between the writing in the Journal and that found within Dark Enlightenment circles.
 
@@ -56,7 +56,7 @@ I honestly don't know what to make of this.
 * [Notice to Our Readers (Journal of American Greatness)](https://journalofamericangreatness.blogspot.co.uk/2016/06/notice-to-our-readers.html)
 * [The dark history of Donald Trump's rightwing revolt](https://www.theguardian.com/news/2016/aug/16/secret-history-trumpism-donald-trump)
 
-## Gawker and Peter Thiel
+# Gawker and Peter Thiel
 
 The fight between Gawker and Peter Thiel by way of Hulk Hogan has been one of those situations where you're really not sure who to root for... Do I want to line up behind the salacious pseudo-tabloid? Or would I rather ally myself with a multi-billionaire with delusions of vampirism? Oh, the choices!
 
@@ -74,7 +74,7 @@ Of course, this is less of a new development than a re-development, as similar d
 * [Jeff Bezos (Wikipedia)](https://en.wikipedia.org/wiki/Jeff_Bezos)
 * [Pierre Omidyar (Wikipedia)](https://en.wikipedia.org/wiki/Pierre_Omidyar)
 
-## Tabby's Star
+# Tabby's Star
 
 Tabby's Star continues to get weirder, and at this point the only explanations we seem to be left with are
 
@@ -92,6 +92,6 @@ I kind of hope that the more prosaic explanations win out, however. Tabby's Star
 * [Singularity Sky (Wikipedia)](https://en.wikipedia.org/wiki/Singularity_Sky)
 * [The Killing Star (Wikipedia)](https://en.wikipedia.org/wiki/The_Killing_Star)
 
-## Outro
+# Outro
 
 That's all for this week. Obviously still experimenting with formatting and approach.

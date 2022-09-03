@@ -5,7 +5,7 @@ date:: 2017-10-23
 
 A combination of astute planning and sheer luck/misfortune saw me traveling from San Francisco, to Louisville, Kentucky, to Washington, DC over the course of two and a half weeks.
 
-## San Francisco
+# San Francisco
 
 ![An orange spider sits in the middle of an orb web in the forest](assets/2017-10-23-coast-to-coast-01.webp)
 
@@ -41,7 +41,7 @@ A view of part of SFO from the air, taken shortly after takeoff.
 * [The Long Now Foundation](https://longnow.org/)
 
 
-## Louisville
+# Louisville
 
 ![Sunset over the American Midwest as seen from a plane](assets/2017-10-23-coast-to-coast-08.webp)
 
@@ -139,7 +139,7 @@ Beneath the Abraham Lincoln Bridge over the Ohio River, looking towards Indiana.
 
 Beneath the Abraham Lincoln Bridge over the Ohio River, looking towards Indiana. The John F. Kennedy Memorial Bridge can be seen at left.
 
-## Washington, DC
+# Washington, DC
 
 ![A black-and-white photograph of the Library of Congress annex at night](../photography/assets/2017-10-21-library-of-congress.webp)
 
