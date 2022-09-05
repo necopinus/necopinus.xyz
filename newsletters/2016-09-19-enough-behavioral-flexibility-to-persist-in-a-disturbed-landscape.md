@@ -51,19 +51,17 @@ Over the past month, Native American tribes and their allies have been working t
 
 Within the federal government, the \#NoDAPL fight pitted the EPA against the Army Corps of Engineers. The key point of contention between the two agencies was the question of how to best determine DAPL's environmental impact. The Corps used county-by-county and state-by-state data, while the EPA believed that finer-grained data from "census block groups or census tracts" was more appropriate. By assessing DAPL's impact over larger areas, the Army Corps of Engineers obscured its effects on the Standing Rock Sioux tribe.
 
-> 1) You need to read @mckennapr's piece on the Dakota Access pipeline. And there's one spot in particular to notice. https://insideclimatenews.org/news/30082016/dakota-access-pipeline-standing-rock-sioux-army-corps-engineers-approval-environment/
-> 
-> 2) Army Corps says Dakota Access has no environmental justice probs. EPA disagrees. Why? Because they're using different measures @mckennapr
-> 
-> 3) @mckennapr points out that Army Corps enviro justice analysis was county-by-county or state-by-state. EPA looks for "census block groups"
-> 
-> 4) Basically, Army Corps says no enviro justice problem on Dakota Access bc they looked at demographics in way that diluted Native presence
-> 
-> 5) This is what I mean by "numbers aren't objective". Numbers come from a story. If you don't know the story, you don't really know numbers.
-> 
-> 6) Army Corps numbers say Dakota Access doesn't disproportionately impact Native Americans. But that's only bc of way they measure.
-> 
-> - Maggie Koerth-Baker, September 7 2016 at 08:57
+[1) You need to read @mckennapr's piece on the Dakota Access pipeline. And there's one spot in particular to notice. (Maggie Koerth-Baker) (Twitter)](https://twitter.com/maggiekb1/status/773535571302047744)
+
+[2) Army Corps says Dakota Access has no environmental justice probs. EPA disagrees. Why? Because they're using different measures (Maggie Koerth-Baker) (Twitter)](https://twitter.com/maggiekb1/status/773536251978846208)
+
+[3) @mckennapr points out that Army Corps enviro justice analysis was county-by-county or state-by-state. EPA looks for "census block groups" (Maggie Koerth-Baker) (Twitter)](https://twitter.com/maggiekb1/status/773536467729678336)
+
+[4) Basically, Army Corps says no enviro justice problem on Dakota Access bc they looked at demographics in way that diluted Native presence (Maggie Koerth-Baker) (Twitter)](https://twitter.com/maggiekb1/status/773536721552154624)
+
+[5) This is what I mean by "numbers aren't objective". Numbers come from a story. If you don't know the story, you don't really know numbers. (Maggie Koerth-Baker) (Twitter)](https://twitter.com/maggiekb1/status/773537324395327488)
+
+[6) Army Corps numbers say Dakota Access doesn't disproportionately impact Native Americans. But that's only bc of way they measure. (Maggie Koerth-Baker) (Twitter)](https://twitter.com/maggiekb1/status/773537644416557056)
 
 Subtle changes in how data is gathered and aggregated can lead to huge differences in the story that data tells. Unfortunately, there remain significant gaps between those telling our stories and those writing them.
 
@@ -72,7 +70,6 @@ Subtle changes in how data is gathered and aggregated can lead to huge differenc
 * [The Obama Administration Temporarily Blocks the Dakota Access Pipeline](http://www.theatlantic.com/science/archive/2016/09/the-obama-administration-temporarily-blocks-the-dakota-access-pipeline/499454/)
 * [\#NoDAPL hashtag on Twitter](https://twitter.com/hashtag/NoDAPL)
 * [Dakota Pipeline Was Approved by Army Corps Over Objections of Three Federal Agencies](https://insideclimatenews.org/news/30082016/dakota-access-pipeline-standing-rock-sioux-army-corps-engineers-approval-environment)
-* [Maggie Koerth-Baker on Twitter](https://twitter.com/maggiekb1/status/773535571302047744)
 * [From Arizona to Montana, Native Voters Struggle for Democracy](https://www.thenation.com/article/arizona-montana-native-voters-struggle-democracy/)
 
 # Algorithmic Propaganda

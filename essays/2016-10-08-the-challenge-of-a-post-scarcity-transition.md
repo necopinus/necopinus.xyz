@@ -17,6 +17,10 @@ That was the day I learned that the wooden crate that filled up most of the room
 
 - - - -
 
+[Hackers Movie Clip Zero Cool (Dade) hacks into TV Station (YouTube)](https://www.youtube.com/watch?v=2efhrCxI4J0)
+
+- - - -
+
 It's easy to classify my time at the bank as one of David Graeber's "bullshit jobs." At one level it certainly was. But I think it also highlights the fact that a post-scarcity world is only here right now for *some* people. For the rest of us, the uneven distribution of post-scarcity leads it to play somewhat contradictory roles in our lives.
 
 On the one hand, why the hell was I wasting my time swapping out backup tapes when I sat next to a machine designed to do just that? There were so many things that I'd rather have done with my life than sit alone, in a cold room filled with the annoying grinding of tape backups, for four hours every day.
@@ -35,7 +39,6 @@ The most cost-effective way to mitigate the first potential barrier is to focus 
 
 It's less clear how to address this second barrier, but it does appear that culture significantly modifies the expression of similarly "fundamental" behaviors. Changing our cultural narratives around wealth and power may thus be critical if we are to successfully navigate the transition to a true post-scarcity society.
 
-* [Hackers Movie Clip Zero Cool (Dade) hacks into TV Station](https://www.youtube.com/watch?v=2efhrCxI4J0)
 * [William Gibson (Wikiquote)](https://en.wikiquote.org/wiki/William_Gibson)
 * [On the Phenomenon of Bullshit Jobs: A Work Rant](http://strikemag.org/bullshit-jobs/)
 * [William Gibson On the Apocalypse, America, and The Peripheral's Ending](http://io9.gizmodo.com/william-gibson-on-the-apocalypse-america-and-the-peri-1656659382)

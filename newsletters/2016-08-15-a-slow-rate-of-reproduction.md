@@ -86,6 +86,8 @@ The classical pseudonyms... The not-all-that-hidden contempt for democracy... Th
 
 These guys sound sad and mostly harmless, right? Except, you know, that one of their more prominent backers is Peter Thiel. Peter Thiel, the multi-billionaire whose fingerprints are all over some of the most prominent companies to emerge from Silicon Valley. Peter Thiel, who secretly funded Hulk Hogan's lawsuit against Gawker with the express purpose of destroying them for reporting on his personal life. Peter Thiel, who Donald Trump prominently invited to address the RNC.
 
+[Peter Thiel | Full Speech | 2016 Republican National Convention (YouTube)](https://www.youtube.com/watch?v=UTJB8AkT1dk).
+
 So yeah. The movement crystallizing around Donald Trump is starting to look like it may have a longer shelf life, and be a lot more dangerous, than I'd previously believed.
 
 * [Why Are Some Conservative Thinkers Falling for Trump?](http://www.theatlantic.com/magazine/archive/2016/09/trumps-intellectuals/492752/)
@@ -93,7 +95,6 @@ So yeah. The movement crystallizing around Donald Trump is starting to look like
 * [Geeks for Monarchy: The Rise of the Neoreactionaries](https://techcrunch.com/2013/11/22/geeks-for-monarchy/)
 * [Peter Thiel (Wikipedia)](https://en.wikipedia.org/wiki/Peter_Thiel)
 * [Peter Thiel's War On Gawker: A Timeline](http://www.forbes.com/sites/mattdrange/2016/06/21/peter-thiels-war-on-gawker-a-timeline/)
-* [Peter Thiel \| Full Speech \| 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk).
 
 # Halting States
 

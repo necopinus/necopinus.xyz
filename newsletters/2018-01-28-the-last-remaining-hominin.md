@@ -99,7 +99,7 @@ Evidence that agriculture emerged 30,000 years earlier than we've previously bel
 
 The music of the Ancient Greeks.
 
-* [Rediscovering Ancient Greek Music (2017)](https://www.youtube.com/watch?v=4hOK7bU0S1Y)
+[Rediscovering Ancient Greek Music (2017) (YouTube)](https://www.youtube.com/watch?v=4hOK7bU0S1Y)
 
 The surprising consequences of attempting to reconstruct the acoustics of Byzantine churches.
 

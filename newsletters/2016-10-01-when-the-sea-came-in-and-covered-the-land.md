@@ -72,6 +72,8 @@ In the short term, I think Clinton will be constrained by Congressional obstruct
 
 There's no sign that Republican control over the states is weakening, and I expect the GOP will refocus their resources there during a Clinton administration. With another census coming up in 2020, state elections in 2018 and 2020 will be critical to determining the 2024 electoral map. I have no idea what will happen in the 2020 presidential race, but a combination of gerrymandering and increasingly subtle voter suppression laws at the state level will make it virtually impossible for a Democrat to win the presidency in 2024. The GOP is likely to be increasingly drawn towards its fascistic fringe, which will be increasingly augmented by Neo-Reactionary forces emerging from Silicon Valley. The 2024 Republican presidential candidate is thus not only a shoe-in, but also probably more reactionary than Trump. So we basically wind up with the "Trump wins" scenarios above, but with a much more powerful executive.
 
+[Peter Thiel | Full Speech | 2016 Republican National Convention (YouTube)](https://www.youtube.com/watch?v=UTJB8AkT1dk)
+
 That's a pretty depressing analysis, but it assumes that everything continues more-or-less as it has been. There are many points of potential departure... Perhaps Clinton is more effective in the hostile legislative environment she's likely to face than I expect. Perhaps there's a black swan event that significantly changes the cultural or political landscape (such as a major, undeniable climate catastrophe). Perhaps the broader "left" in the US finally gets serious about state-level politics.
 
 Of these, I think the last is most important. Even if Clinton is a radically effective president and utterly committed to her campaign promises, there's only so much she can do. The US electoral system needs reform, and ultimately that reform must begin at the state level. That, in turn, will require the Democratic party and the rest of the US "left" to get serious about committing money and time to state-level races. I don't get a sense that the left is seriously having that conversation right now. But a Clinton victory gives us time to build the necessary consensus.
@@ -99,7 +101,6 @@ If Trump wins, then we will know that our time has already run out.
 * [Gerrymandering (Wikipedia)](https://en.wikipedia.org/wiki/Gerrymandering)
 * [Inside the GOP Implosion and the War to Stop Trump](http://talkingpointsmemo.com/edblog/gop-overwhelmed-by-debt)
 * [Geeks for Monarchy: The Rise of the Neoreactionaries](https://techcrunch.com/2013/11/22/geeks-for-monarchy/)
-* [Peter Thiel \| Full Speech \| 2016 Republican National Convention](https://www.youtube.com/watch?v=UTJB8AkT1dk)
 * [Why a Silicon Valley Founder Is Funding a Factory for Trump Memes](http://www.theatlantic.com/technology/archive/2016/09/revenge-of-the-nerds/501344/)
 * [Black swan theory (Wikipedia)](https://en.wikipedia.org/wiki/Black_swan_theory)
 
