@@ -24,4 +24,5 @@
 
 * [Cardboard Iguana Security](https://www.cardboard-iguana.com/)
 * [Château MaxMin()](https://www.chateaumaxmin.info/)
+* [Farcaster](https://fcast.me/necopinus)
 * [Email](mailto:nathan.acks@necopinus.xyz)
