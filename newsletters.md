@@ -12,6 +12,6 @@
 * [2016-10-01 - When the Sea Came in and Covered the Land](newsletters/2016-10-01-when-the-sea-came-in-and-covered-the-land.md)
 * [2016-09-19 - Enough Behavioral Flexibility to Persist in a Disturbed Landscape](newsletters/2016-09-19-enough-behavioral-flexibility-to-persist-in-a-disturbed-landscape.md)
 * [2016-09-05 - A Matter of Intense But Mostly Theoretical Debate](newsletters/2016-09-05-a-matter-of-intense-but-mostly-theoretical-debate.md)
-* [2016-08-21 - I'm Not Saying It's Aliens...](newsletters/2016-08-21-im-not-saying-its-aliens.md)
+* [2016-08-21 - I'm Not Saying It's Aliens…](newsletters/2016-08-21-im-not-saying-its-aliens.md)
 * [2016-08-15 - A Slow Rate of Reproduction](newsletters/2016-08-15-a-slow-rate-of-reproduction.md)
 * [2016-08-09 - Camp Century](newsletters/2016-08-09-camp-century.md)

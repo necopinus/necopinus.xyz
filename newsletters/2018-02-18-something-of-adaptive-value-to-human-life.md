@@ -40,11 +40,11 @@ While long growth does not imagine a world where resource constraints are (funct
 
 ### A Manifesto for Modern Levelers
 
-It's important to remember here that resource hoarding isn't just some personality defect of the rich and powerful - rather, it's a very human behavior that often comes from the best of places. Much, in fact, springs from our desire to do what's best for our children; we make sure they go to the best schools we can afford, we help support them well into adulthood, we give them what wealth we have accumulated when we pass on, and we support laws and policies that encourage and enable these behaviors. We do this not out of greed, but out of love... And yet it drives us to attempt to accumulate wealth beyond what we'd otherwise require, and plays a central role in perpetuating inequalities of power.
+It's important to remember here that resource hoarding isn't just some personality defect of the rich and powerful - rather, it's a very human behavior that often comes from the best of places. Much, in fact, springs from our desire to do what's best for our children; we make sure they go to the best schools we can afford, we help support them well into adulthood, we give them what wealth we have accumulated when we pass on, and we support laws and policies that encourage and enable these behaviors. We do this not out of greed, but out of love… And yet it drives us to attempt to accumulate wealth beyond what we'd otherwise require, and plays a central role in perpetuating inequalities of power.
 
 In a world of unlimited growth, where the quantity of resources available to society is growing faster than any one person or family can hoard it, the negative externalities of our desire to provide the best possible lives for our children are perhaps forgivable. In a world in which the resources available are highly constrained, even behaviors guided by love can become the social equivalent of the tragedy of the commons.
 
-Whether it's the insatiable desire for power and control, or simply the desire to do what's best for those we care about, there are strong human behavioral attractors that lead us to hoard resources. In a low-or-zero growth world, such tendencies will lead to worsening inequalities in security, standards of living, and power. Without growth, to say the future looks medieval is perhaps too kind... At least under feudalism there was some sense of obligation between the lord and his vassals. There is little reason to think that in a world of ever increasing automation even this rarefied sense of social responsibility would re-emerge.
+Whether it's the insatiable desire for power and control, or simply the desire to do what's best for those we care about, there are strong human behavioral attractors that lead us to hoard resources. In a low-or-zero growth world, such tendencies will lead to worsening inequalities in security, standards of living, and power. Without growth, to say the future looks medieval is perhaps too kind… At least under feudalism there was some sense of obligation between the lord and his vassals. There is little reason to think that in a world of ever increasing automation even this rarefied sense of social responsibility would re-emerge.
 
 There's no obvious way to short-circuit the behaviors that lead to resource hoarding and concentration, though there are some intriguing hints in the egalitarian societies of the few remaining hunter-gatherers. Absent a clear understanding of how, or even if, these behaviors could be generalized to a settled, more technologically integrated/dependent society like our own, the best we can do right now is to think about the issue from a policy perspective.
 
@@ -99,13 +99,13 @@ Far from being an "extreme" program, the approach outlined above may very well b
 
 ### Study Life Always
 
-It's worth being honest here... Unless you think that a program of unlimited growth is sustainable, then there are only a limited number of possible futures:
+It's worth being honest here… Unless you think that a program of unlimited growth is sustainable, then there are only a limited number of possible futures:
 
 * Technological collapse, bloody resource wars, or rapid depopulation driven by environmental degradation and resource depletion.
 * A transition to a zero growth world that is almost certain to eventually become increasingly authoritarian.
 * A transition to a long growth world that attempts to re-integrate our technological society with our broader ecological context.
 
-The first two paths wind end, at best, in a depopulated world that looks a lot like William Gibson's "Jackpot", and at worst in a sort of neo-feudal state (which may or may not retain a relatively high level of technology). The third path, the one I have described here, seems to me the least likely... But also the most promising. It's the future worth fighting for, the future where humanity, where life itself, can continue to grow and evolve in ways we have yet to imagine.
+The first two paths wind end, at best, in a depopulated world that looks a lot like William Gibson's "Jackpot", and at worst in a sort of neo-feudal state (which may or may not retain a relatively high level of technology). The third path, the one I have described here, seems to me the least likely… But also the most promising. It's the future worth fighting for, the future where humanity, where life itself, can continue to grow and evolve in ways we have yet to imagine.
 
 "Study death always," Seneca once advised his friend. Humanity has followed this maxim, one way or another, and often without fully understanding it, for at least six thousand years. We have tried to understand death, to escape it, to accept it. Our society's relationship with growth - our concepts of unlimited growth, of collapse, of zero growth - parallel our understanding of our own ends. We have learned much, but all journeys end.
 

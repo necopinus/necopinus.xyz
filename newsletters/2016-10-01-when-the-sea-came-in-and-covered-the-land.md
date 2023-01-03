@@ -74,7 +74,7 @@ There's no sign that Republican control over the states is weakening, and I expe
 
 [Peter Thiel | Full Speech | 2016 Republican National Convention (YouTube)](https://www.youtube.com/watch?v=UTJB8AkT1dk)
 
-That's a pretty depressing analysis, but it assumes that everything continues more-or-less as it has been. There are many points of potential departure... Perhaps Clinton is more effective in the hostile legislative environment she's likely to face than I expect. Perhaps there's a black swan event that significantly changes the cultural or political landscape (such as a major, undeniable climate catastrophe). Perhaps the broader "left" in the US finally gets serious about state-level politics.
+That's a pretty depressing analysis, but it assumes that everything continues more-or-less as it has been. There are many points of potential departure… Perhaps Clinton is more effective in the hostile legislative environment she's likely to face than I expect. Perhaps there's a black swan event that significantly changes the cultural or political landscape (such as a major, undeniable climate catastrophe). Perhaps the broader "left" in the US finally gets serious about state-level politics.
 
 Of these, I think the last is most important. Even if Clinton is a radically effective president and utterly committed to her campaign promises, there's only so much she can do. The US electoral system needs reform, and ultimately that reform must begin at the state level. That, in turn, will require the Democratic party and the rest of the US "left" to get serious about committing money and time to state-level races. I don't get a sense that the left is seriously having that conversation right now. But a Clinton victory gives us time to build the necessary consensus.
 
@@ -92,7 +92,7 @@ If Trump wins, then we will know that our time has already run out.
 * [Grand Old Primary](http://www.politico.com/blogs/2016-gop-primary-live-updates-and-results/2016/03/william-cohen-donald-trump-2016-220206)
 * [95,000 Words, Many of Them Ominous, From Donald Trump's Tongue](http://www.nytimes.com/2015/12/06/us/politics/95000-words-many-of-them-ominous-from-donald-trumps-tongue.html)
 * [Elections in Germany (Wikipedia)](https://en.wikipedia.org/wiki/Elections_in_Germany)
-* [On Your Way to the Camps, I Just Want You to Know...](https://medium.com/@aaronloeb/on-your-way-to-the-camps-i-just-want-you-to-know-92a6dbf7c0ac)
+* [On Your Way to the Camps, I Just Want You to Know…](https://medium.com/@aaronloeb/on-your-way-to-the-camps-i-just-want-you-to-know-92a6dbf7c0ac)
 * [Women of America, this is how much leading Republicans hate you](https://www.washingtonpost.com/news/act-four/wp/2016/09/27/women-of-america-this-is-how-much-leading-republicans-hate-you/)
 * [Donald Trump May Not Be a Fascist, But He is Leading Us Merrily Down That Path](http://dneiwert.blogspot.com/2015/11/donald-trump-may-not-be-fascist-but-he.html)
 * [Filibuster in the United States Senate (Wikipedia)](https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate)

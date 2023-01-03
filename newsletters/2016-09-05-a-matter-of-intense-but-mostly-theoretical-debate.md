@@ -38,7 +38,7 @@ The apparent rapidity of LUCA's advancement from deep-sea chemical process to mo
 
 ## Lichens Get Weird(er)
 
-Lichens are already fairly unusual... Things. They're not "species", at least as we generally think about "species", as they're composed of a fungus and one or more algae or cyanobacteria, each of which can successfully grow and reproduce outside of its "lichenized" form. The same fungi can produce wildly different lichen if combined with a different partner species. They may, in fact, represent almost entirely self-contained miniature ecosystems. And no one's quite sure when lichen first evolved - the best range we have is somewhere between 400 million (the earliest undisputed fossils) and 2.2 billion (the earliest evidence of lichen component species) years ago.
+Lichens are already fairly unusual… Things. They're not "species", at least as we generally think about "species", as they're composed of a fungus and one or more algae or cyanobacteria, each of which can successfully grow and reproduce outside of its "lichenized" form. The same fungi can produce wildly different lichen if combined with a different partner species. They may, in fact, represent almost entirely self-contained miniature ecosystems. And no one's quite sure when lichen first evolved - the best range we have is somewhere between 400 million (the earliest undisputed fossils) and 2.2 billion (the earliest evidence of lichen component species) years ago.
 
 It wouldn't be unreasonable to postulate that lichen represent a completely different approach to multicellular life than is found in more familiar organisms.
 
@@ -66,7 +66,7 @@ And that gives me a significant degree of hope for the future.
 
 Scattered across Asia are giant artifacts known as "desert kites", low structures composed of piled rock that form geometric patterns that can stretch for up to a kilometer. These structures appear to have been massive "nets" designed to capture migrating animal herds, funneling them into shallow pits where they were easily slaughtered. If the discarded antelope bones near these kill pits are any indication, these massive traps probably decimated the great ungulate herds that had previously roamed from the Middle East to Uzbekistan.
 
-But the kites were not some sudden innovation: Rather "the sites appear to have been built over a span of more than a thousand years" by "pastoral tribes related to the Scythians who roamed the steppes in the fifth century B.C." How these tribes managed to continue the project for so long is particularly interesting to me, as the projects our civilization has begun to contend with - from repairing the Earth's ecosystems to traveling beyond the solar system - are likely to require similar timescales to complete. That the kites provided their builders and maintainers with a concrete benefit, in the form of a regular food source, was probably a significant factor here... But one doesn't have to look far to find examples of humans squandering similar opportunities. What allowed the kite builders to continue their work for a thousand years, while so many other societies failed to coordinate over much shorter time scales?
+But the kites were not some sudden innovation: Rather "the sites appear to have been built over a span of more than a thousand years" by "pastoral tribes related to the Scythians who roamed the steppes in the fifth century B.C." How these tribes managed to continue the project for so long is particularly interesting to me, as the projects our civilization has begun to contend with - from repairing the Earth's ecosystems to traveling beyond the solar system - are likely to require similar timescales to complete. That the kites provided their builders and maintainers with a concrete benefit, in the form of a regular food source, was probably a significant factor here… But one doesn't have to look far to find examples of humans squandering similar opportunities. What allowed the kite builders to continue their work for a thousand years, while so many other societies failed to coordinate over much shorter time scales?
 
 * [Giant 'Arrows' Seen From Space Point to a Vanished World](http://news.nationalgeographic.com/2016/08/desert-kites-out-of-eden-walk-uzbekistan-iron-age-saiga/)
 * [Massagetae / Massagetes](http://www.historyfiles.co.uk/KingListsFarEast/AsiaMassagetae.htm)
@@ -111,13 +111,13 @@ Certainly we do seem to be having a global moment here, one that Putin, Trump, a
 
 ## Capitalism and the Hollowing of Politics
 
-I finally got around to reading Emmett Rensin's massive essay on the smug style in American liberalism, and... I didn't find it as compelling as many of the folks on my Twitter feed seemed to find it. But Rensin's description of the performative character of American liberalism put me in mind of another essay that i recently read, "The Authoritarian Personality Revisited: Reading Adorno in the Age of Trump".
+I finally got around to reading Emmett Rensin's massive essay on the smug style in American liberalism, and… I didn't find it as compelling as many of the folks on my Twitter feed seemed to find it. But Rensin's description of the performative character of American liberalism put me in mind of another essay that i recently read, "The Authoritarian Personality Revisited: Reading Adorno in the Age of Trump".
 
 It's hard to sum up Peter Gordon's argument in "The Authoritarian Personality Revisited", so I'm just going to suggest that you go read it now. And then go read Rensin's piece, because, oh boy, do they go together. The performative, hollowed out of politics that Adorno places at the root of fascist society (I won't call it a "movement" or "personality", for reasons that reading Gordon's essay should make clear) are spookily similar to the social impulses Rensin decries in American liberalism.
 
 This is "liberal fascism", but not of the ahistorical Jonah Goldberg variety. Rather, it seems to me that the adherents of both American liberalism and conservatism may have been politically "hollowed out" by the same social process; that one movement has come to more closely parallel historic fascism is less an issue, then, than the process by which both have come to represent a reflexive acting of identity. That Adorno saw this as a natural outgrowth of late capitalism is, I think, telling.
 
-I'm not sure where it goes from here. Adorno himself seems to have been pretty pessimistic about the entire situation... But then again capitalism now seems intent on committing suicide by automation, so I don't know. Perhaps this historic moment too shall pass, and with it the fascist dissolution of politics and identity.
+I'm not sure where it goes from here. Adorno himself seems to have been pretty pessimistic about the entire situation… But then again capitalism now seems intent on committing suicide by automation, so I don't know. Perhaps this historic moment too shall pass, and with it the fascist dissolution of politics and identity.
 
 * [Emmett Rensin](http://twitter.com/emmettrensin)
 * [the smug style in American liberalism](http://www.vox.com/2016/4/21/11451378/smug-american-liberalism)
@@ -147,7 +147,7 @@ This past month, a working group tasked with studying the geologic relevancy of 
 
 I have to admit to being somewhat ambivalent about this recommendation myself. The concept of the Anthropocene has significant utility, but I worry about the hubris of elevating our current crises to the level of geologic event. The human world is changing rapidly right now, and it's unclear to me that there will not be even "better" indicators of humanity's global impact in the future.
 
-To define the Anthropocene now seems to imply a belief that humanity is on track to resolve the crises that ushered it in... A belief for which there seems, at the present moment, little evidence.
+To define the Anthropocene now seems to imply a belief that humanity is on track to resolve the crises that ushered it in… A belief for which there seems, at the present moment, little evidence.
 
 * [Anthropocene (Wikipedia)](https://en.wikipedia.org/wiki/Anthropocene)
 * [WIPP Exhibit: Message to 12,000 A.D.](https://wipp.info/)
@@ -157,7 +157,7 @@ To define the Anthropocene now seems to imply a belief that humanity is on track
 
 Astronomers have announced the discovery of an Earth-sized planet orbiting within the "habitable zone" of Poxima Centauri. It's pretty unclear how "habitable" this new planet actually is: While only slightly larger than our own world and orbiting within the region that liquid water would exist, the world is also almost certainly tidally locked towards Poxima Centauri and is frequently buffeted by intense X-ray flares.
 
-Still... There is no star closer to Earth than Proxima Centauri, and so far no extra-solar planet yet discovered that more closely resembles our own than this one. This is as "good" as it gets.
+Still… There is no star closer to Earth than Proxima Centauri, and so far no extra-solar planet yet discovered that more closely resembles our own than this one. This is as "good" as it gets.
 
 What we don't yet know, and we likely won't know for at least another forty years, is how "good" that actually is.
 

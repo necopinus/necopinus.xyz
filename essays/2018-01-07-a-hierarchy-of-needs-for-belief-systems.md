@@ -13,9 +13,9 @@ IS IT EXTENSIBLE? Can the belief system be extended to "think more interesting t
 
 DOES IT ALLOW US TO THINK INTERESTING THINGS? This is more subjective, but belief systems that allow for more complex, *interesting* ideas will be more pleasurable/fun than belief systems that restrict our ideas. Belief systems that tie together more realms of experience ("larger infinities") will be more interesting/pleasurable to think in than more limited belief systems. Formal mathematics has only tenuous direct connection to human experience, which is why most people don't find it very interesting.
 
-DOES IT ALLOW US TO THINK MEANINGFUL THINGS? This is the aesthetic level... Does the belief system appeal to our sense of truth, beauty, or ethics? I propose that meaningful thoughts are always interesting thoughts, but that not every interesting thought is meaningful.
+DOES IT ALLOW US TO THINK MEANINGFUL THINGS? This is the aesthetic level… Does the belief system appeal to our sense of truth, beauty, or ethics? I propose that meaningful thoughts are always interesting thoughts, but that not every interesting thought is meaningful.
 
-Note that what is "interesting" and "meaningful" may very well change with time... What seemed profound to our ancestors often will appear to be quaint to later generations. Belief systems that cannot continually allow for the borders of "interesting" and "meaningful" to be expanded will lose their value over time.
+Note that what is "interesting" and "meaningful" may very well change with time… What seemed profound to our ancestors often will appear to be quaint to later generations. Belief systems that cannot continually allow for the borders of "interesting" and "meaningful" to be expanded will lose their value over time.
 
 * [Maslow's hierarchy of needs (Wikipedia)](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 * [Noosphere (Wikipedia)](https://en.wikipedia.org/wiki/Noosphere)

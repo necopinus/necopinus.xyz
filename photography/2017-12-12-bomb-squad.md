@@ -5,7 +5,7 @@
 **photographer**:: Nathan Acks  
 **date**:: 2017-12-12
 
-Well, this isn't something you see every day...
+Well, this isn't something you see every day…
 
 (It turned out to have been a "suspicious device" on an RTD train.)
 

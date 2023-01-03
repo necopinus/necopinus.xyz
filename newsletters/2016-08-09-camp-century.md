@@ -26,13 +26,13 @@ So, with that introduction, let's consider some futures from the past week.
 
 ## Whale Tales
 
-The Earth is full of complex societies, each with its own language and culture. Some of these are human, but many (most?) are not. Every now and then we get a glimpse of this complexity, and it's often at once both beautiful...
+The Earth is full of complex societies, each with its own language and culture. Some of these are human, but many (most?) are not. Every now and then we get a glimpse of this complexity, and it's often at once both beautiful…
 
 > Hundreds of sperm whales (Physeter macrocephalus) swam to and fro, their huge bodies elegantly twirling and twisting through the water as they socialized. Bumping, jostling, and rubbing themselves against one another, they were exuberantly tactile, their behavior appeared almost euphoric. I felt like a gatecrasher at a wedding, so obvious was their delight in each other's company.
 > 
 > As my eyes took in this secret spectacle, my ears were assaulted by a cacophony of excited whale chatter. Creaking and crackling, clicks, buzzes, and pops permeated the water as the whales pinged one another with sound. Pulsating rhythms pregnant with meaning penetrated my body. I "felt" the connection between the congregated cetaceans as powerfully as I heard it.
 
-...and utterly alien...
+…and utterly alien…
 
 > Watching carefully, I noticed that two other activities added to the commotion: sloughing of skin and defecation. Like other whales, sperm whales shed skin on a regular basis. This may be a mechanism to reduce the risk of infection and to rid the animals of external parasites. As the whales rubbed against one another, the physical contact dislodged flakes, sometimes entire sheets, of skin, which floated in the water like a blizzard of translucent dandruff.
 > 
@@ -40,7 +40,7 @@ The Earth is full of complex societies, each with its own language and culture. 
 
 So that's what sperm whales do when they get together. This is all fascinating (and visually incredible), but it's easy to write this off as "weird things animals do".
 
-What's harder to write off is humpback whales undertaking a multi-decade, global campaign that appears to be designed to frustrate orca hunts. It's certainly *possible* to ascribe this sort of behavior to the sort of mindless rationality we like to project onto non-humans these days...
+What's harder to write off is humpback whales undertaking a multi-decade, global campaign that appears to be designed to frustrate orca hunts. It's certainly *possible* to ascribe this sort of behavior to the sort of mindless rationality we like to project onto non-humans these days…
 
 > Orcas have been witnessed hunting humpback whale calves in much the same way that they hunt gray whale calves. So, by proactively foiling orca hunts, perhaps the humpbacks are hoping to make them think twice about messing with their own calves.
 
@@ -74,7 +74,7 @@ Much has been written over the last two weeks about Wikileaks' release of intern
 > 
 > Very importantly, State worked closely with DOJ as it investigated Wikileaks. There is very good reason to believe that as part of that investigation, DOJ mapped out Wikileaks' supporters and, possibly, financial contributors - that is, precisely the kind of people, to the DNC, that Wikileaks just doxxed. That's arguably a violation of Section 215, which includes First Amendment protections.
 
-(The Intercept has a similar take on the situation. Assange appears to be increasingly motivated by (and vulnerable to) his hostility towards the US government. Living in a closet for four years will do that to someone. The more interesting story here though is how the current situation resembles nothing so much as a layer cake of irrational animosity: The US for Russia, Russia for the US, Obama for Wikileaks, Assange for Clinton, Sanders supporters for the Democratic Party machine... Any one of which was pretty justifiable when it started, but all of which appear to have spiraled beyond the control of any one participant.
+(The Intercept has a similar take on the situation. Assange appears to be increasingly motivated by (and vulnerable to) his hostility towards the US government. Living in a closet for four years will do that to someone. The more interesting story here though is how the current situation resembles nothing so much as a layer cake of irrational animosity: The US for Russia, Russia for the US, Obama for Wikileaks, Assange for Clinton, Sanders supporters for the Democratic Party machine… Any one of which was pretty justifiable when it started, but all of which appear to have spiraled beyond the control of any one participant.
 
 Out of such animal passions is history made.
 
@@ -100,7 +100,7 @@ Bouie goes on to note just how profound an erosion of democratic norms this repr
 
 Do I expect that Trump's prophecy will come to pass? No, if just because his followers are unorganized, and Trump himself appears to have little interest in providing them with the structure that would be necessary to make good on his threats. But Trump himself is at this point less worrying than who may come after him. As Sarah Kendzior notes, Trump's campaign is laying the groundwork for
 
-> ...a charismatic successor [who] will come along ... [and] ... maintain Trump's political positions but behave in a more emotionally controlled way. This successor would presumably run for office, as Trump did, but learn from Trump's mistakes and gain a broader base of support. Given that part of Trump's appeal rests on an "anti-establishment" persona, this individual will likely not come from within the GOP, but from the fringe movements that Trump has helped push closer to the mainstream. It could be Donald Trump Jr, who could ride the wave of the Trump brand. Or it could be a popular and polished white supremacist, someone like Matthew Heimbach, who has attracted a large following with more explicitly racist rhetoric than Trump's. Whoever it is will likely be younger than Trump and will tap into the youthful and bigoted "alt-right," which has supported Trump throughout his campaign.
+> …a charismatic successor [who] will come along … [and] … maintain Trump's political positions but behave in a more emotionally controlled way. This successor would presumably run for office, as Trump did, but learn from Trump's mistakes and gain a broader base of support. Given that part of Trump's appeal rests on an "anti-establishment" persona, this individual will likely not come from within the GOP, but from the fringe movements that Trump has helped push closer to the mainstream. It could be Donald Trump Jr, who could ride the wave of the Trump brand. Or it could be a popular and polished white supremacist, someone like Matthew Heimbach, who has attracted a large following with more explicitly racist rhetoric than Trump's. Whoever it is will likely be younger than Trump and will tap into the youthful and bigoted "alt-right," which has supported Trump throughout his campaign.
 
 Rather than being America's Mussolini, Trump may simply be *That Which Comes Before*.
 

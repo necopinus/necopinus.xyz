@@ -10,7 +10,7 @@
 
 Another huge gap in newsletters, another change in format. The last iteration of Five Futures was an ambitious attempt to push me to write something more original. I still like the idea of doing serialized essays, and will probably attempt it again at some point. But right now I just need to write, to get something out there. And that something needs to be relatively easy to put together, because the day job isn't helping in the time-management department right now.
 
-So here's a bit of an experiment... Shorter takes (occassionally paired with emoji, Azeem Azhar style), arranged into five broad narrative arcs. Each arc is less a story of the future, and more a sense, a feeling, of a current in the present. Less Pythia in the Temple of Apollo, and more Ozymandias and his wall of TVs.
+So here's a bit of an experiment… Shorter takes (occassionally paired with emoji, Azeem Azhar style), arranged into five broad narrative arcs. Each arc is less a story of the future, and more a sense, a feeling, of a current in the present. Less Pythia in the Temple of Apollo, and more Ozymandias and his wall of TVs.
 
 Anyway, that's the idea at least. Let's see how well it works.
 
@@ -44,7 +44,7 @@ More evidence that the Amazon basin was densely populated before European arriva
 
 * [After Decades of Losing Ice, Antarctica Is Now Hemorrhaging It](https://www.theatlantic.com/science/archive/2018/06/after-decades-of-ice-loss-antarctica-is-now-hemorrhaging-mass/562748/)
 
-The chances of the world keeping global warming below 1.5° C is, at this point, vanishingly small... But it's not yet zero.
+The chances of the world keeping global warming below 1.5° C is, at this point, vanishingly small… But it's not yet zero.
 
 * [What genuine, no-bullshit ambition on climate change would look like](https://www.vox.com/energy-and-environment/2018/5/7/17306008/global-warming-climate-change-scenarios-ambition)
 
@@ -98,13 +98,13 @@ The story of misinformation on social media isn't just about Russian trolls, how
 
 * [The YouTube Kids app has been suggesting a load of conspiracy videos to children](https://www.businessinsider.com/youtube-suggested-conspiracy-videos-to-children-using-its-kids-app-2018-3)
 
-📰 Revitalizing local news has been seen by some as a way of innoculating US society against weaponized misinformation. After all, the reasoning goes, Americans trust local news more than national news... Which is something the Russians realize too.
+📰 Revitalizing local news has been seen by some as a way of innoculating US society against weaponized misinformation. After all, the reasoning goes, Americans trust local news more than national news… Which is something the Russians realize too.
 
 * [Russian Influence Campaign Sought To Exploit Americans' Trust In Local News](https://www.npr.org/2018/07/12/628085238/russian-influence-campaign-sought-to-exploit-americans-trust-in-local-news)
 
 Another proposed solution to the spread of misinformation on social media is the promotion of "media literacy". But simply encouraging a critical approach to the media could actually make things worse.
 
-* [You Think You Want Media Literacy... Do You?](https://points.datasociety.net/you-think-you-want-media-literacy-do-you-7cad6af18ec2)
+* [You Think You Want Media Literacy… Do You?](https://points.datasociety.net/you-think-you-want-media-literacy-do-you-7cad6af18ec2)
 
 Tribalism has played a major role in 20th Century conflicts around the world. The economic dynamics of the US in the 21st Century are making tribal conflicts more likely here as well.
 
@@ -124,7 +124,7 @@ Italian politics has always looked weird to outsiders. Is the country's most rec
 
 ## Chapter 3
 
-Diversity increases conflict and makes people uncomfortable... And that's a good thing.
+Diversity increases conflict and makes people uncomfortable… And that's a good thing.
 
 * [Diverse Teams Feel Less Comfortable - and That's Why They Perform Better](https://hbr.org/2016/09/diverse-teams-feel-less-comfortable-and-thats-why-they-perform-better)
 
@@ -192,7 +192,7 @@ We implement automation to establish regular systems, avoid mistakes, and reduce
 
 🚦 How traffic lights subtly disadvantage pedestrians.
 
-* [Signalling Inequity -- How Traffice Signals Distribute Time to Favour the Car and Delay the Pedestrian.](https://transportist.org/2018/06/12/signalling-inequity-how-traffic-signals-distribute-time-to-favour-the-car-and-delay-the-pedestrian/)
+* [Signalling Inequity — How Traffice Signals Distribute Time to Favour the Car and Delay the Pedestrian.](https://transportist.org/2018/06/12/signalling-inequity-how-traffic-signals-distribute-time-to-favour-the-car-and-delay-the-pedestrian/)
 
 The age of pre-crime has arrived, courtesy of the LAPD and Palantir.
 
@@ -202,7 +202,7 @@ The age of pre-crime has arrived, courtesy of the LAPD and Palantir.
 
 * [This Predictive Policing Company Compares Its Software to 'Broken Windows' Policing](https://www.vice.com/en/article/d3k5pv/predpol-predictive-policing-broken-windows-theory-chicago-lucy-parsons)
 
-Believe in that gun ownership is important? Angry at government over-reach? Written an inflammatory Facebook post in the heat of the moment? Then the FBI might be getting ready to bust you as a domestic terrorist... But only if you're black.
+Believe in that gun ownership is important? Angry at government over-reach? Written an inflammatory Facebook post in the heat of the moment? Then the FBI might be getting ready to bust you as a domestic terrorist… But only if you're black.
 
 * [Black activist jailed for his Facebook posts speaks out about secret FBI surveillance](https://www.theguardian.com/world/2018/may/11/rakem-balogun-interview-black-identity-extremists-fbi-surveillance)
 
@@ -248,4 +248,4 @@ Mediocrity is evolutionary slack.
 
 Originally I was going to write something longer and more conteplative here, but it's been almost exactly a week since I started writing this and I'm basically out of steam right now. Mind you, I haven't added any new articles to this list during that time - it just took me that long to review, sort, and trim down the list of interesting links I accumulated over the last six months. I'm going to experiment on building up future newsletters slowly over the course of a week or two, a little bit each day, and see how that works.
 
-Until next time...
+Until next time…

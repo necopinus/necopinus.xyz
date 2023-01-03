@@ -67,12 +67,12 @@ The Washington Post goes on to make the case that "[t]he statement is the latest
 
 Here's the thing: Baring black swan technological break-throughs, there are four broad scenarios for addressing climate change (the scenarios for addressing other environmental crises are similar):
 
-* MODERATE EMISSION CUTS AND A CONCERTED EFFORT TO INCREASE EFFICIENCY WITHOUT ANY SIGNIFICANT GLOBAL ECONOMIC ADJUSTMENT. This is basically the "consensus" political choice. It's also obviously not what's happening, nor does it seem to be compatible with our current best understanding of climate dynamics. Attempting to more-or-less preserved the existing social/political/economic order would have been in the cards if we began seriously pursuing decarbonization in the 1970s or 1980s, instead of... The 2020s? Never?
+* MODERATE EMISSION CUTS AND A CONCERTED EFFORT TO INCREASE EFFICIENCY WITHOUT ANY SIGNIFICANT GLOBAL ECONOMIC ADJUSTMENT. This is basically the "consensus" political choice. It's also obviously not what's happening, nor does it seem to be compatible with our current best understanding of climate dynamics. Attempting to more-or-less preserved the existing social/political/economic order would have been in the cards if we began seriously pursuing decarbonization in the 1970s or 1980s, instead of… The 2020s? Never?
 * MAJOR EMISSION CUTS COUPLED WITH SIGNIFICANT ADJUSTMENTS IN THE GLOBAL ECONOMY. This is what many climate and environmental activists argue for, though I don't think the more moderate among them really grasp the magnitude of the social and economic changes required. Cutting emissions fast enough in an already warming world means globally reconfiguring how we generate power, how we handle the construction of cities and transportation networks, and how we approach farming and the management of natural resources. Again, had we started serious pursuing this approach in the 1990s or 2000s it's likely the existing order could have been largely preserved. But now the only way forward is for the western nations to begin taking the challenge seriously internally while at the same time transferring significant technology and wealth to developing countries to enable them to "leapfrog" current developmental patterns. Consequently, actually cutting emissions fast enough to avoid worst-case scenarios will likely also significantly narrow the global wealth gap.
-* DO NOTHING SIGNIFICANT. What we actually seem to be doing. Unlike many, I don't think that this is an existential choice, but I do think that while wealthy nations and individuals will use the resources at their disposal to adapt, everyone else will... Not be so lucky. And because global environmental crises compound with time, the cycle of delay followed by diversion of resources by the wealthy for their own adaptation needs will result in an ever worsening situation for ever greater numbers of people. This is William Gibson's "jackpot" by way of "Lazarus". A lot of people will die, but it will take a long time, and along the way those that make it will be able to preserve a certain level of plausible moral deniability.
+* DO NOTHING SIGNIFICANT. What we actually seem to be doing. Unlike many, I don't think that this is an existential choice, but I do think that while wealthy nations and individuals will use the resources at their disposal to adapt, everyone else will… Not be so lucky. And because global environmental crises compound with time, the cycle of delay followed by diversion of resources by the wealthy for their own adaptation needs will result in an ever worsening situation for ever greater numbers of people. This is William Gibson's "jackpot" by way of "Lazarus". A lot of people will die, but it will take a long time, and along the way those that make it will be able to preserve a certain level of plausible moral deniability.
 * GLOBAL GENOCIDE. The environmental crises we face are basically all due to saturated "waste sinks", and since we don't know how to increase the capacity of these sinks, the only other solution is to reduce our waste stream *significantly*. We can do this using social and technological levers (the first two scenarios), or we can do it by *reducing the number of humans* (this and the previous scenarios). The more quickly we reduce the waste flows, the better off the survivors will be. The dark counterpart of the second scenario, where we reduce the number of survivors slowly, is thus "solving" ecological crises by *purposefully killing billions of people*. Fortunately, even the most monstrous among us don't seem to have a commitment to this course of action, but I worry that it will become progressively easier for the previous scenario to slide into this one as global environmental stressors worsen.
 
-I think what we're seeing in the Trump administration is an all-but-explicit commitment by US elites to the third scenario (DO NOTHING SIGNIFICANT) and the preservation (if not enhancement) of the current elite's relative power... Even if that ultimately means a far more diminished world, in just about every sense, for us all.
+I think what we're seeing in the Trump administration is an all-but-explicit commitment by US elites to the third scenario (DO NOTHING SIGNIFICANT) and the preservation (if not enhancement) of the current elite's relative power… Even if that ultimately means a far more diminished world, in just about every sense, for us all.
 
 * [Trump Administration Sees a 7-Degree Rise in Global Temperatures by 2100](https://www.washingtonpost.com/national/health-science/trump-administration-sees-a-7-degree-rise-in-global-temperatures-by-2100/2018/09/27/b9c6fada-bb45-11e8-bdc0-90f81cc58c5d_story.html)
 * [EPA analysis of its own new climate proposal: thousands of people will die](https://www.vox.com/2018/8/21/17763916/epa-clean-power-plan-affordable-clean-energy)
@@ -232,7 +232,7 @@ I think Jessa Crispin's torturing the definition of "patriarchy" a bit here, but
 
 > This idea emerged that if we just put a lot more women in positions of power, somehow that would defeat the patriarchy, not understanding that the patriarchy has nothing to do with men. If women in power behave like men do, that is not a defeat of the patriarchy. That's just patriarchy with women in it. And patriarchy is one of those really dissatisfying words because everybody uses it and there's not a general understanding, a shared understanding of what the word means other than anything that is keeping you down.
 > 
-> [...]
+> […]
 > 
 > My working definition of patriarchy is a society that's structured by hierarchy. So unless that is reformed, unless we reform society so there are no hierarchies, because the hierarchy used to be white, property-owning men at the top of the hierarchy and everybody else in varying positions underneath that, and now it's just money and power. So women can easily attain a high position on the hierarchy, but that's not the end of patriarchy.
 > 
@@ -255,13 +255,13 @@ Ars Technica's tests of iOS 12 suggest that Apple is already working to fulfill 
 * [Lasts Longer](http://www.asymco.com/2018/09/13/lasts-longer/)
 * [iOS 12 on the iPhone 5S, iPhone 6 Plus, and iPad Mini 2: It's actually faster!](https://arstechnica.com/gadgets/2018/09/ios-12-on-the-iphone-5s-iphone-6-plus-and-ipad-mini-2-its-actually-faster/)
 
-### 💻 Mmm... Pi-hole...
+### 💻 Mmm… Pi-hole…
 
 Troy Hunt describes how he uses a Raspberry Pi to block ads on his home network.
 
 > Whoa! That's an 80% reduction in network requests and an 82% reduction in the number of bytes transferred. I'd talk about the reduction in load time too except it's really hard to measure because as you can see from the waterfall diagrams, with no Pi-hole it just keeps going and going and, well, it all gets a bit silly.
 
-* [Mmm... Pi-hole...](https://www.troyhunt.com/mmm-pi-hole/)
+* [Mmm… Pi-hole…](https://www.troyhunt.com/mmm-pi-hole/)
 
 ### ⛅ How to Build a Low-tech Website
 
@@ -271,9 +271,9 @@ If you ever wanted to read about the intersection of modern website design and e
 > 
 > The Internet is not an autonomous being. Its growing energy use is the consequence of actual decisions made by software developers, web designers, marketing departments, publishers and internet users. With a lightweight, off-the-grid solar-powered website, we want to show that other decisions can be made.
 
-I find it annoying that the discussion about renewable energy generation and storage early on forgets that just because fossil fuels are integral to manufacturing now does not mean that they will always be so, but this is a quibble on my part. The overall design considerations Low<-Tech Magazine highlights here are important, and it's worth noting that they make the website not only vastly more energy efficient, but also more accessible to folks with disabilities, and usable on poor internet connections. Even if internet-driven energy usage isn't something you care about, these are worthwhile goals in and of themselves.
+I find it annoying that the discussion about renewable energy generation and storage early on forgets that just because fossil fuels are integral to manufacturing now does not mean that they will always be so, but this is a quibble on my part. The overall design considerations Low←Tech Magazine highlights here are important, and it's worth noting that they make the website not only vastly more energy efficient, but also more accessible to folks with disabilities, and usable on poor internet connections. Even if internet-driven energy usage isn't something you care about, these are worthwhile goals in and of themselves.
 
-Now I want to redesign my websites...
+Now I want to redesign my websites…
 
 * [How to Build a Low-tech Website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)
 
@@ -285,7 +285,7 @@ When I tell people that the future will be weirder than they think, this is the 
 > 
 > Bill Gross, a long-time US entrepreneur, and Andrea Pedretti, a serial Swiss inventor, developed the Energy Vault system that applies this science. Here's how it works: A 120-meter (nearly 400-foot) tall, six-armed crane stands in the middle. In the discharged state, concrete cylinders weighing 35 metric tons each are neatly stacked around the crane far below the crane arms. When there is excess solar or wind power, a computer algorithm directs one or more crane arms to locate a concrete block, with the help of a camera attached to the crane arm's trolley.
 > 
-> [...]
+> […]
 > 
 > The system is "fully charged" when the crane has created a tower of concrete blocks around it. The total energy that can be stored in the tower is 20 megawatt-hours (MWh), enough to power 2,000 Swiss homes for a whole day.
 > 

@@ -70,7 +70,7 @@ Direct evidence that modern masculinity is a threat to the environment. This has
 * [Men Resist Green Behavior as Unmanly](https://www.scientificamerican.com/article/men-resist-green-behavior-as-unmanly/)
 * [What Exactly Is Ecofeminism?](https://www.bustle.com/articles/155515-what-exactly-is-ecofeminism)
 
-The weird behavior of Tabby's Star gets a decidedly prosaic explanation. But... Kickstarter-funded science!
+The weird behavior of Tabby's Star gets a decidedly prosaic explanation. But… Kickstarter-funded science!
 
 * [New Results Quash 'Alien Megastructure' Theory of Mysterious Dimming Star](https://gizmodo.com/new-results-quash-alien-megastructure-theory-of-myste-1821734317)
 

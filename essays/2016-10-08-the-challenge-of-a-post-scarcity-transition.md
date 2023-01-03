@@ -7,7 +7,7 @@ A few years ago I had a part-time gig as a subcontractor at a major bank. Who I 
 
 Every day at 9am I would come in and spend about half an hour swapping out the full backup tapes. Then I'd wait around for another four hours or so while my boss (who was based in Boulder and I hardly ever saw) remotely verified that everything was working. And then I would leave. I almost never saw another person.
 
-One day I joked with my boss in the company instant messenger that I was really just a human robot arm. "Well..." My boss started to type back. There was an uncomfortably long pause.
+One day I joked with my boss in the company instant messenger that I was really just a human robot arm. "Well…" My boss started to type back. There was an uncomfortably long pause.
 
 "You kind of are."
 
@@ -15,11 +15,11 @@ That was the day I learned that the wooden crate that filled up most of the room
 
 "The future is already here," William Gibson has often remarked, "it's just not evenly distributed yet."
 
-- - - -
+---
 
 [Hackers Movie Clip Zero Cool (Dade) hacks into TV Station (YouTube)](https://www.youtube.com/watch?v=2efhrCxI4J0)
 
-- - - -
+---
 
 It's easy to classify my time at the bank as one of David Graeber's "bullshit jobs." At one level it certainly was. But I think it also highlights the fact that a post-scarcity world is only here right now for *some* people. For the rest of us, the uneven distribution of post-scarcity leads it to play somewhat contradictory roles in our lives.
 

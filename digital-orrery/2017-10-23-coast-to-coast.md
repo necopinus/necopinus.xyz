@@ -11,7 +11,7 @@ A combination of astute planning and sheer luck/misfortune saw me traveling from
 
 A spider in Redwood Regional Park.
 
-There were a surprising number of spiders in the park... And surprisingly few birds.
+There were a surprising number of spiders in the park… And surprisingly few birds.
 
 ![A redwood forest, seen through the narrow gap between two foreground trees](assets/2017-10-23-coast-to-coast-02.webp)
 

@@ -38,7 +38,7 @@ The material stuff that powers rising global prosperity doesn't just appear. It 
 
 Worse yet, the waste products generated as we convert these raw materials into finished goods and transport them around the globe are serving to gradually alter and erode the broader natural systems of the Earth. The climate is changing, becoming less hospitable to human civilization. Pollution and intensive farming is gradually destroying the land that feeds us. As more of the Earth is altered by human activity, our fellow cohabitants suffer and die with consequences we are just beginning to grasp.
 
-Even if materials were incorporated into goods in a way that allowed them to be extracted and recycled later, even if all of our energy production came from renewable sources, even if farming and aquaculture was practiced sustainably, even if we reversed the environmental degradation our past growth has wrought... Even then, we would still not be able to sustain growth indefinitely. There is only so much accessible metal, only so much land, only so much available energy on this world.
+Even if materials were incorporated into goods in a way that allowed them to be extracted and recycled later, even if all of our energy production came from renewable sources, even if farming and aquaculture was practiced sustainably, even if we reversed the environmental degradation our past growth has wrought… Even then, we would still not be able to sustain growth indefinitely. There is only so much accessible metal, only so much land, only so much available energy on this world.
 
 The argument that growth can be continued indefinitely, that there are no material and energetic limits, typically fall into two categories.
 
@@ -46,7 +46,7 @@ The first of these is that human ingenuity will overcome any limits. Frequently 
 
 The second argument that indefinite growth can be sustained is to deny that resource limitations exist at all. When pushed, proponents of this view almost invariably fall back to the proposition that the colonization and exploitation of outer space is humanity's "ace in the hole". The first counter-argument to this assertion is that space travel still presents significant technological challenges, while the looming threats of environmental degredation and resource depletion are all but imminent. To attempt to outrun these threats using given the space technology we now have is, to be generous, a civilizational hail mary. More fundamentally however, colonizing the Solar System only substitutes one limit (the resources available on Earth) for another (the resources available in the Solar System). While the latter is a much higher limit, it is again not infinite. Barring the unlikely discovery of low-energy faster-than-light travel, growth must still ultimately be bounded.
 
-The most generous possible future is one in which blind luck allows us to outrun planetary limits and colonize the Solar System. This scenario pushes out the limits of growth substantially, but does not remove them. It is also, given our current technology, an extremely improbable outcome. The smart money is that we will confront the physical limits of Earth far before large-scale space colonization become feasible. If we are to colonize the Solar System, we will do so after learning how to construct a zero-growth civilization... Or not at all.
+The most generous possible future is one in which blind luck allows us to outrun planetary limits and colonize the Solar System. This scenario pushes out the limits of growth substantially, but does not remove them. It is also, given our current technology, an extremely improbable outcome. The smart money is that we will confront the physical limits of Earth far before large-scale space colonization become feasible. If we are to colonize the Solar System, we will do so after learning how to construct a zero-growth civilization… Or not at all.
 
 * [Global warming (Wikipedia)](https://en.wikipedia.org/wiki/Global_warming)
 * [Land degradation (Wikipedia)](https://en.wikipedia.org/wiki/Land_degradation)
@@ -116,7 +116,7 @@ Apparently I have the hottest of hot takes. Here's the New York Times offering u
 * [What the Shutdown Says About the Future of the Democrats](https://www.nytimes.com/2018/01/20/opinion/government-shutdown-democrats.html)
 * [2018-01-20 - Everything Was Stripped Away](2018-01-20-everything-was-stripped-away.md)
 
-Twitter recently sent out emails to people who followed, liked, or retweeted potential Russian troll accounts. I'll admit to having gotten one of these emails myself, and found it... Less than useful. The email doesn't inform you whether you were actually following a problematic account, retweeted propaganda to your followers, or simply liked such a tweet. There's no way to know how you were fooled, which makes it very hard to know how to alter your behavior to not be fooled again. Defense One has a good overview of this and the many other problems with how Twitter is responding to its use as a vehicle for propaganda and disruption during the 2016 US presidential election.
+Twitter recently sent out emails to people who followed, liked, or retweeted potential Russian troll accounts. I'll admit to having gotten one of these emails myself, and found it… Less than useful. The email doesn't inform you whether you were actually following a problematic account, retweeted propaganda to your followers, or simply liked such a tweet. There's no way to know how you were fooled, which makes it very hard to know how to alter your behavior to not be fooled again. Defense One has a good overview of this and the many other problems with how Twitter is responding to its use as a vehicle for propaganda and disruption during the 2016 US presidential election.
 
 * [Update on Twitter's review of the 2016 US election](https://blog.twitter.com/official/en_us/topics/company/2018/2016-election-update.html)
 * [What We Didn't Learn from Twitter's News Dump on Russiagate](http://www.defenseone.com/ideas/2018/01/twitter-and-russiagate-takeaways-friday-news-dump/145342/)
@@ -127,7 +127,7 @@ Rolling Stone has a good overview of gerrymandering and voter disenfranchisement
 
 ### Near Futures
 
-Over at Vox, David Roberts criticizes environmentalists for not putting decarbonization above all else, ultimately concluding that "[s]ome people, landscapes, and legitimately worthwhile priorities [will need to] suffer..." What I find interesting about Roberts' argument is that it never considers that the trade-offs he sees as necessary *would not be necessary with proper planning*. Of course, proper planning is just what we haven't been doing, so this critique is less about Roberts being wrong, and more about his lack of political imagination. That said, as environmental stressors grow, expect a lot more environmentalists to start migrating towards Roberts' position... Or something even more extreme.
+Over at Vox, David Roberts criticizes environmentalists for not putting decarbonization above all else, ultimately concluding that "[s]ome people, landscapes, and legitimately worthwhile priorities [will need to] suffer…" What I find interesting about Roberts' argument is that it never considers that the trade-offs he sees as necessary *would not be necessary with proper planning*. Of course, proper planning is just what we haven't been doing, so this critique is less about Roberts being wrong, and more about his lack of political imagination. That said, as environmental stressors grow, expect a lot more environmentalists to start migrating towards Roberts' position… Or something even more extreme.
 
 * [Reckoning with climate change will demand ugly tradeoffs from environmentalists - and everyone else](https://www.vox.com/energy-and-environment/2018/1/27/16935382/climate-change-ugly-tradeoffs)
 
@@ -146,7 +146,7 @@ A short survey of the literature regarding the economic effects of shrinking pop
 
 ### Deep Futures
 
-This editorial in The Guardian raises a good set of questions about how we might find meaning in a world without work... And then proceeds to answer them in what might be the darkest possible way.
+This editorial in The Guardian raises a good set of questions about how we might find meaning in a world without work… And then proceeds to answer them in what might be the darkest possible way.
 
 * [The meaning of life in a world without work](https://www.theguardian.com/technology/2017/may/08/virtual-reality-religion-robots-sapiens-book)
 

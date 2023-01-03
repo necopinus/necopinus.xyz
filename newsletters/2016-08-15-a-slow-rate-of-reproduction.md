@@ -20,9 +20,9 @@ A massive complex dating from the British Dark Ages has been discovered at Tinta
 
 > Archaeologists have discovered the impressive remains of a probable Dark Age royal palace at Tintagel in Cornwall. It is likely that the one-metre thick walls being unearthed are those of the main residence of the 6th century rulers of an ancient south-west British kingdom, known as Dumnonia.
 > 
-> [...]
+> […]
 > 
-> ...[T]he discovery by English Heritage-funded archaeologists ... will certainly trigger debate in Arthurian studies circles - because, in medieval tradition, Arthur was said to have been conceived at Tintagel as a result of an illicit union between a British King and the beautiful wife of a local ruler.
+> …[T]he discovery by English Heritage-funded archaeologists … will certainly trigger debate in Arthurian studies circles - because, in medieval tradition, Arthur was said to have been conceived at Tintagel as a result of an illicit union between a British King and the beautiful wife of a local ruler.
 
 The discovery is not just interesting because of its apparent links to Arthurian legend, but also because it provides further evidence of how connected the world was in the past, and remained even during periods that many of us (wrongly) view as times of local isolation.
 
@@ -38,13 +38,13 @@ The world has been flat for a lot longer than is popularly supposed.
 
 We like to think of animals like deer as running on more-or-less pure instinct. But it turns out that young fauns also learn from their mother, which can lead to large-scale regional behaviors that can only be described as "culture".
 
-> ... At the height of the Cold War, a high electric fence, barbed wire and machine-gun-carrying guards cut off Eastern Europe from the Western world. The barriers severed the herds of deer on the two sides as well.
+> … At the height of the Cold War, a high electric fence, barbed wire and machine-gun-carrying guards cut off Eastern Europe from the Western world. The barriers severed the herds of deer on the two sides as well.
 > 
 > The fence is long gone, and the no-man's land where it stood now is part of Europe's biggest nature preserve. The once-deadly border area is alive with songbirds nesting in crumbling watchtowers, foxes hiding in weedy fortifications and animals not seen here for years, such as elk and lynx.
 > 
 > But one species is boycotting the reunified animal kingdom: red deer. Herds of them roam both sides of the old NATO-Warsaw Pact border here but mysteriously turn around when they approach it. This although the deer alive today have no memory of the ominous fence.
 > 
-> [...]
+> […]
 > 
 > In the seven years since wildlife biologists began tracking the deer, only two, a German stag named Florian and a Czech stag incongruously called Izabel, have crossed the border to stay. Lately, some young males have begun to explore the pastures on the other side, but they always come back. Females don't set foot in the once-forbidden area.
 
@@ -56,31 +56,31 @@ If deer had stories, I wonder what tales they would tell to explain their contin
 
 The Atlantic is asking this month, "Why Are Some Conservative Thinkers Falling for Trump?" The piece spends a lot of time playing up the personal ambition of those supporting Trump:
 
-> Read the intellectuals who are supporting Trump - or are open to supporting Trump - and you notice a few themes. First, they admire his campaign's raw, unbridled energy. The Trump movement, according to the Wall Street Journal columnist Peggy Noonan, radiates "dynamism." His supporters "are just about the only cheerful people in politics ... They're having a good time." Former House Speaker Newt Gingrich, an even more unabashed Trump booster, explains, "There is no model here ... It is a Donald Trump unique, extraordinary experience. And you have to relax and take it for that kind of a unique experience."
+> Read the intellectuals who are supporting Trump - or are open to supporting Trump - and you notice a few themes. First, they admire his campaign's raw, unbridled energy. The Trump movement, according to the Wall Street Journal columnist Peggy Noonan, radiates "dynamism." His supporters "are just about the only cheerful people in politics … They're having a good time." Former House Speaker Newt Gingrich, an even more unabashed Trump booster, explains, "There is no model here … It is a Donald Trump unique, extraordinary experience. And you have to relax and take it for that kind of a unique experience."
 > 
 > Next, pro-Trump intellectuals chastise political elites for disrespecting his exuberant, impassioned followers. "Those who oppose Mr. Trump should do it seriously and with respect for his supporters," Noonan writes. "No one at this point needs your snotty potshots." In fact, Trump's intellectuals argue, elites have, due to their own incompetence and corruption, lost all grounds to lecture Trump supporters about individual rights and the rule of law. In his relationship to the Washington "establishmentarians," says Gingrich, Trump is "like the boy who says the emperor has no clothing."
 
-But I find what motivates Gingrich and Noonan to be less interesting than what they seem to be reading these days...
+But I find what motivates Gingrich and Noonan to be less interesting than what they seem to be reading these days…
 
-> ... Masugi directs readers desiring amplification to something called the "Journal of American Greatness." Noonan does too. She calls the journal "a sophisticated, rather brilliant and anonymous website that is using this Trumpian moment to break out of the enforced conservative orthodoxy of the past 15 years."
+> … Masugi directs readers desiring amplification to something called the "Journal of American Greatness." Noonan does too. She calls the journal "a sophisticated, rather brilliant and anonymous website that is using this Trumpian moment to break out of the enforced conservative orthodoxy of the past 15 years."
 > 
 > That's one way of describing it. During its four months of life, the "Journal of American Greatness" - which featured a collection of writers with classical pseudonyms and an affinity for the German American political theorist Leo Strauss - made a highbrow case for overthrowing America's existing political order and replacing it with the raw, dynamic, intoxicating energy of Donald Trump. The journal shuttered itself in June after some of its contributors grew worried that their identities would be exposed. But the conservative author Steven Hayward, who knows several of its authors, predicts that they will continue publishing in other venues. Already, he says, they have received several offers for book contracts.
 > 
 > The "Journal of American Greatness" makes explicit what Noonan, Hanson, and Gingrich imply: that America's current system of government is illegitimate. One article declares, "The digits of one hand suffice to count all of the truly committed defenders of American sovereignty, liberty, and nationhood in Congress." A second asserts that the United States is "post-Constitutional." A third accuses Washington conservatives of a "decadence so deep that it would take some Oliver Cromwell to puncture."
 > 
-> [...]
+> […]
 > 
-> ... The writers at the "Journal of American Greatness," however, do not believe America's political system can be remedied. They want it overthrown by a candidate who truly represents the popular will.
+> … The writers at the "Journal of American Greatness," however, do not believe America's political system can be remedied. They want it overthrown by a candidate who truly represents the popular will.
 > 
 > To explain how that might work, "Decius," one of the journal's most prolific contributors, employs a Straussian distinction between "tyranny" and "Caesarism." A tyrant, Strauss argues, takes absolute power by overthrowing a constitutional republic. A Caesar also takes absolute power, but only when a constitutional republic has already collapsed on its own.
 > 
 > Decius says Trump probably isn't a Caesar, because "he will serve no more than his Constitutionally permissible two terms." But if he is a Caesar, it might serve America right. "Have we not degenerated to the point that we are ready for Caesar?," Decius writes. "Caesarism is not tyranny. It is rather a sub-species of absolute monarchy, in which the monarch is not an unjust usurper but the savior of a country with a decayed republican order that can no longer function." By overthrowing a depraved and unaccountable elite, Trump would reassert "the people's sovereignty" and "their natural right to rule themselves."
 
-The classical pseudonyms... The not-all-that-hidden contempt for democracy... The elevation of tyrants... This reminds me a bit too much of the loose constellation of reactionary thinkers who call themselves the "Dark Enlightenment".
+The classical pseudonyms… The not-all-that-hidden contempt for democracy… The elevation of tyrants… This reminds me a bit too much of the loose constellation of reactionary thinkers who call themselves the "Dark Enlightenment".
 
 > [Mencius Moldbug's] devotees, many of whom are also bloggers, describe themselves as the "neoreactionary" vanguard of a "Dark Enlightenment." They oppose popular suffrage, egalitarianism and pluralism. Some are atheists, while others affect obscure orthodox beliefs, but most are youngish white males embittered by "political correctness." As best I can tell, their ideal society best resembles Blade Runner, but without all those Asian people cluttering up the streets. Neoreactionaries like to see themselves as the heroes of another sci-fi movie, in fact, sometimes boasting that they have been "redpilled," like Keanu Reeves's character in The Matrix-a movie Moldbug regards as "genius."
 > 
-> [...]
+> […]
 > 
 > [Moldbug]'s most toxic arguments come snugly wrapped in purple prose and coded language. (For instance, "The Cathedral" is Moldbuggian for the oppressive nexus of liberal newspapers, universities and the State Department, where his father worked after getting a PhD in philosophy from Brown.) By so doing, Moldbug has been able to an attract an audience that welcomes the usual teeth-gnashing white supremacists who haunt the web while also leaving room for a more socially acceptable assortment of "men's rights" advocates, gun nuts, transhumanist libertarians, disillusioned Occupiers and well-credentialed Silicon Valley entrepreneurs.
 
@@ -100,7 +100,7 @@ So yeah. The movement crystallizing around Donald Trump is starting to look like
 
 In related news, evidence mounts that growth in the world's most advanced economies has slowed to a virtual stand-still.
 
-> ... In the United States, per-person gross domestic product rose by an average of 2.2 percent a year from 1947 through 2000 - but starting in 2001 has averaged only 0.9 percent. The economies of Western Europe and Japan have done worse than that.
+> … In the United States, per-person gross domestic product rose by an average of 2.2 percent a year from 1947 through 2000 - but starting in 2001 has averaged only 0.9 percent. The economies of Western Europe and Japan have done worse than that.
 > 
 > Over long periods, that shift implies a radically slower improvement in living standards. In the year 2000, per-person G.D.P. - which generally tracks with the average American's income - was about $45,000. But if growth in the second half of the 20th century had been as weak as it has been since then, that number would have been only about $20,000.
 > 
@@ -128,7 +128,7 @@ This is impressive. It also has serious implications when it comes to repairing 
 
 Let that sink in for a moment. If an individual shark is taking more than 150 years to reach maturity, then restoring the ecosystem that these creature are part of is likely to take in excess of a thousand years. Assuming that it can be done at all.
 
-I don't think many within the environmental movement truly appreciate the magnitude of the task they've set before our species, though there are some outside of it who seem to see the outlines of what may yet be to come...
+I don't think many within the environmental movement truly appreciate the magnitude of the task they've set before our species, though there are some outside of it who seem to see the outlines of what may yet be to come…
 
 * [There Are Whales Alive Today Who Were Born Before Moby Dick Was Written](http://www.smithsonianmag.com/smart-news/there-are-whales-alive-today-who-were-born-before-moby-dick-was-written-660944/)
 * [These Ridiculously Long-Lived Sharks Are Older Than the United States, and Still Living It Up](http://www.smithsonianmag.com/science-nature/ridiculously-ancient-greenland-sharks-are-older-united-states-180960101/)

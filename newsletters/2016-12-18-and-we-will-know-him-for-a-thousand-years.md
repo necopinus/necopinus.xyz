@@ -17,7 +17,7 @@ Like everyone else, I sure did call that one wrong.
 
 If you've been following along, then you know that while I thought Clinton was going to win, I expected it to be tight, and for the GOP to retain control of the House and Senate. Pollsters are going to be doing a lot of soul-searching over the next few years about where their models and methodology went wrong. For my own part, I think I missed two things:
 
-* While I expected (white) men to break towards Trump more strongly than the polls predicted, I also expected (white) women to break towards Clinton - not out of some sense of feminine solidarity, but rather as a reaction to the frighteningly misogynistic tone of the election. Basically, I did not expect Trump to pull a Romney-style electoral map for any demographic of women. I was wrong. Not only did Trump win white women, but he did so by nearly the same margin as Romney. For me this was the biggest surprise of the election, as I've generally thought that sexism was a far more fundamental prejudice than the man-made specter of racism. To be honest, I'm still processing what I think this means for how I think about society and the future... But as Damon Young wrote shortly after the election, "I will never underestimate white people's need to preserve whiteness again."
+* While I expected (white) men to break towards Trump more strongly than the polls predicted, I also expected (white) women to break towards Clinton - not out of some sense of feminine solidarity, but rather as a reaction to the frighteningly misogynistic tone of the election. Basically, I did not expect Trump to pull a Romney-style electoral map for any demographic of women. I was wrong. Not only did Trump win white women, but he did so by nearly the same margin as Romney. For me this was the biggest surprise of the election, as I've generally thought that sexism was a far more fundamental prejudice than the man-made specter of racism. To be honest, I'm still processing what I think this means for how I think about society and the future… But as Damon Young wrote shortly after the election, "I will never underestimate white people's need to preserve whiteness again."
 * I also significantly underestimated the effectiveness of voter disenfranchisement. (More on this in a bit.)
 
 As you can probably guess, I expect little good to come of either set of factors.
@@ -53,9 +53,9 @@ The more we learn about Aboriginal Australian history and culture, the more mind
 
 Native American culture is also deeper than most of us learn in school. Before the arrival Europeans, North America was already occupied by a variety of nations. Cities were built, land was farmed, animals were domesticated, and complex trade networks were maintained. Ironically, as Charlie Loyd points out in the October edition of 6,88, these trade networks led to catastrophe when European diseases began to spread. The resulting social collapse helped Europeans conceptualize of North America as a "primitive" and "empty" place, when in reality it was neither.
 
-> ... Almost wherever European American people went, they saw Native American people in collapsed societies, because trade had already carried European diseases.
+> … Almost wherever European American people went, they saw Native American people in collapsed societies, because trade had already carried European diseases.
 > 
-> [...]
+> […]
 > 
 > So European American explorers tended to perceive social formlessness and emptiness wherever they went for two interlocking reasons: first, racism, and second, that the societies they encountered were often in the middle of the equivalent of Europe's Black Death or worse. The white people, generally, missed that huge parts of America were under agricultural management ranging from casual wildcrafting to intensive farming. They wrote these notes to each other about how oddly fertile and hospitable American land was, and how useful it would be once the local people were gone. It was as if to visit Berkshire and write home that it was full of naturally occurring dairies that would be very useful once all the damnable dairy farmers, milkmaids, and vets were killed. It was a massive failure of humanity, but also of basic observational skills.
 
@@ -71,9 +71,9 @@ When I talk about one of our central cultural challenges being how to conceptual
 
 We discussed in the introduction how the behavior of white women as a voting bloc in this past election took me by surprise. I also mentioned that the effectiveness of current voter disenfranchisement efforts surprised me. This is not to say that I thought disenfranchisement wasn't going to have an effect on the election, but rather that I thought it would take at least one more census/electoral cycle (i.e., 2022) for the effects to become sever. I seem to have seriously underestimated how bad the situation has already become.
 
-> ... 27,000 votes currently separate Trump and Clinton in Wisconsin, where 300,000 registered voters, according to a federal court, lacked strict forms of voter ID. Voter turnout in Wisconsin was at its lowest levels in 20 years and decreased 13 percent in Milwaukee, where 70 percent of the state's African-American population lives, according to Daniel Nichanian of the University of Chicago.
+> … 27,000 votes currently separate Trump and Clinton in Wisconsin, where 300,000 registered voters, according to a federal court, lacked strict forms of voter ID. Voter turnout in Wisconsin was at its lowest levels in 20 years and decreased 13 percent in Milwaukee, where 70 percent of the state's African-American population lives, according to Daniel Nichanian of the University of Chicago.
 > 
-> [...]
+> […]
 > 
 > How many people were turned away from the polls? How many others didn't bother to show up in the first place? These are questions we need to take far more seriously. In 2014, a study by Rice University and the University of Houston of Texas's 23rd Congressional District found that 12.8 percent of registered voters who didn't vote in the election cited lack of required photo ID as a reason they didn't cast a ballot, even though only 2.7 percent of registered voters actually lacked an acceptable ID. Texas's strict voter-ID law blocked some voters from the polls while having an ever larger deterrent effect on others. Eighty percent of these voters were Latino and strongly preferred Democratic candidates.
 > 
@@ -89,7 +89,7 @@ Previously I've mostly focused on the effects of gerrymandering, and as such I'm
 
 ## Things Change
 
-Trump's campaign went out with a bang that was just shy of Fascism 2.0, and his post-election cabinet picks and advisers have ranged from run-of-the-mill kleptocrats, to dangerous proto-authoritarians, to borderline Nazis. The only silver lining to the situation appear to be that career Republicans, largely excluded from Trump's nascent administration, are beginning to push back... But even this opposition seems at best half-hearted. Meanwhile, Democrats appear to be contemplating some level of cooperation with the incoming administration, a strategy that would make political sense only if one honestly believed Trump had any respect for the democratic and bureaucratic processes upon which our country is based - a position for which there seems to be diminishing evidence.
+Trump's campaign went out with a bang that was just shy of Fascism 2.0, and his post-election cabinet picks and advisers have ranged from run-of-the-mill kleptocrats, to dangerous proto-authoritarians, to borderline Nazis. The only silver lining to the situation appear to be that career Republicans, largely excluded from Trump's nascent administration, are beginning to push back… But even this opposition seems at best half-hearted. Meanwhile, Democrats appear to be contemplating some level of cooperation with the incoming administration, a strategy that would make political sense only if one honestly believed Trump had any respect for the democratic and bureaucratic processes upon which our country is based - a position for which there seems to be diminishing evidence.
 
 The entire situation has a distinctly Weimar-y vibe to it.
 

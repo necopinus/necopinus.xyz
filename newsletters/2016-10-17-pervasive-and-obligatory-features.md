@@ -72,9 +72,9 @@ In a world with no shared cultural narratives, "facts" are replace with group id
 
 Jezebel may have just broken one of the most important stories of the year, but damn did they bury the lead. It seems that a number of sites (including Jezebel) have fallen victim to an elaborate SEO scam involving wholly fictitious writers and stories. The case they cover in-depth concerns the fake author "Rachel Brewson."
 
-> ... Rachel's main creator [is] marketing consultant Kenny Hyder ... [who] ... came to [the website used to monetize the character's stores] Review Weekly through his friendship with Sheri "Charlie" Katz, an Israeli entrepreneur who runs a company called Equate Media. ...
+> … Rachel's main creator [is] marketing consultant Kenny Hyder … [who] … came to [the website used to monetize the character's stores] Review Weekly through his friendship with Sheri "Charlie" Katz, an Israeli entrepreneur who runs a company called Equate Media. …
 > 
-> [...]
+> […]
 > 
 > "The funny thing is we do this all the time," he told me. "You guys just found one."
 > 
@@ -86,11 +86,11 @@ Okay, how does this qualify as the biggest story of the year?
 
 So, the SEO scam managed to dupe a respected, mainstream news show. And then the other shoe *really* drops.
 
-> ... But otherwise he claims the process of launching a fake person into TV fame was surprisingly easy, even with the picture discrepancy. I asked if anything about it felt unethical, and he said no, pointing out that no one at ABC or Nightline ever asked for ID or any other kind of verification.
+> … But otherwise he claims the process of launching a fake person into TV fame was surprisingly easy, even with the picture discrepancy. I asked if anything about it felt unethical, and he said no, pointing out that no one at ABC or Nightline ever asked for ID or any other kind of verification.
 > 
 > "How is it unethical?" he added. "They wanted to interview her about this story that went viral and it was a story. You know what I mean? TV is all made up anyway. Why not join the fun? That's the state of our reporting in this country."
 > 
-> Besides, he says, "It's not the first time for me, having a fake author get invited to go on TV." He estimates that he has created "thousands" of fake characters over the years, and that seven or eight were as detailed as Rachel Brewson. (He didn't want to tell me about any of the more detailed characters he said he'd helped create or where they appeared, saying it could hurt his livelihood.) He claims that "Rachel" isn't even their most successful character: "She isn't the biggest. That side of Equate was so minor, such a minor blip." ...
+> Besides, he says, "It's not the first time for me, having a fake author get invited to go on TV." He estimates that he has created "thousands" of fake characters over the years, and that seven or eight were as detailed as Rachel Brewson. (He didn't want to tell me about any of the more detailed characters he said he'd helped create or where they appeared, saying it could hurt his livelihood.) He claims that "Rachel" isn't even their most successful character: "She isn't the biggest. That side of Equate was so minor, such a minor blip." …
 > 
 > "It's really funny because there's stuff on TV all the time, people that are not real people," he added, chuckling. "No one even knows, but us internet marketers just laugh."
 
@@ -110,7 +110,7 @@ The reason for my pessimism is that the GOP currently has a lock on 23 state gov
 
 The states control polling, voter registration, and most importantly how legistlative districts are redrawn after the decennial census. Control of the state governments thus allows the GOP to maintain control of the House of Representatives and biases Senate and presidential races. President Obama and former attorney general Eric Holder have recently launched an effort to combat this lock, but if the GOP is savvy they'll be pushing just as much, if not more, money into the 2018 and 2020 state races.
 
-Demographic changes can't be held off indefinitely under the current system... But unless Democrats invest heavily in the 2018 and 2020 state races (and I'm hoping that, given Obama and Holder's new effort, they will), it seems likely that a combination of gerrymandering and increasingly subtle voter suppression measures will tile the 2022 - and more importantly, the 2024 - election cycles increasingly in the GOP's favor. Should a radical nativist party come to control both the Executive and Legislative branches at the federal level, it's not hard to imagine the demographic shifts so many seem to be placing their hope in being put on hold indefinitely.
+Demographic changes can't be held off indefinitely under the current system… But unless Democrats invest heavily in the 2018 and 2020 state races (and I'm hoping that, given Obama and Holder's new effort, they will), it seems likely that a combination of gerrymandering and increasingly subtle voter suppression measures will tile the 2022 - and more importantly, the 2024 - election cycles increasingly in the GOP's favor. Should a radical nativist party come to control both the Executive and Legislative branches at the federal level, it's not hard to imagine the demographic shifts so many seem to be placing their hope in being put on hold indefinitely.
 
 * [Into the Blue](http://www.slate.com/articles/news_and_politics/politics/2010/12/into_the_blue.html)
 * [Gubernatorial and legislative party control of state government](https://ballotpedia.org/Gubernatorial_and_legislative_party_control_of_state_government)

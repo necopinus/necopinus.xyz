@@ -5,9 +5,9 @@
 
 > This short "essay" was written in response to a video a friend posted on my Facebook timeline about New Zealand granting the Te Urewera national park legal personhood - an idea that another (lawyer) friend took some exception to in the comments.
 
-So... Color me cautiously optimistic? But the devil's always in the details, and I'd need to understand the situation a lot better than the information in the video allows to really come down on this one way or another.
+So… Color me cautiously optimistic? But the devil's always in the details, and I'd need to understand the situation a lot better than the information in the video allows to really come down on this one way or another.
 
-Some background thinking...
+Some background thinking…
 
 I've been going on for a while that I think (one of?) the key question(s) that we need to be asking right now as we work towards resolve the failures of modern democratic systems is: "How do we incorporate the interests of people who are not people into our decision-making processes?"
 
@@ -23,11 +23,11 @@ But this example also lets us get at the second sense of the word "people" - as 
 
 Corporations are "people" in a legal sense, but that doesn't necessarily mean that we treat them as being *exactly* the same as a human being.
 
-Now, there's a key difference between corporations and the other entities I think we need to be considering: Corporations are made up of people who are contractually bound together within a clearly delineated legal scope. That's a big difference, so I think it's important not to push the analogy I'm making between corporations and, say, ecosystems too far. But I still think the example of corporations is useful, because it shows us that we can (more-or-less) successfully navigate these waters... At least with a simple, relatable non-human "person".
+Now, there's a key difference between corporations and the other entities I think we need to be considering: Corporations are made up of people who are contractually bound together within a clearly delineated legal scope. That's a big difference, so I think it's important not to push the analogy I'm making between corporations and, say, ecosystems too far. But I still think the example of corporations is useful, because it shows us that we can (more-or-less) successfully navigate these waters… At least with a simple, relatable non-human "person".
 
-Now, for the issue of Te Urewera's "personhood"...
+Now, for the issue of Te Urewera's "personhood"…
 
-If Te Urewera has been granted the status of legal person in exactly the same way that a corporation is a legal person (which the video makes it appear that it has), then I agree with Ryen Schimerman that this is immensly problematic. Firstly, Te Urewera is not made up of human beings, so there's already a set of rights that don't make any sense, and certainly one cannot talk about the park having "responsibilities". But just as importantly is the fact that a *park* is probably not a good candidate for consideration of the sorts of entities the interests of, and our responsibilities to, we're trying to capture here. A park is a human-demarcated piece of land, and I can't think of a single example where the boundaries of such an area match the ecological reality "on the ground" very well (or at all). The video seems to talk about Te Urewera as if it were an *ecosystem*, but that almost assuredly extends well past the park boundaries. Moreover, the health of portion of the ecosystem within the park boundaries is almost certainly intimately tied to the health of the larger ecosystem its part of... Declaring the park a "person" is, in this sense, missing the forrest for the trees (or, if you will, the person for the arms and legs).
+If Te Urewera has been granted the status of legal person in exactly the same way that a corporation is a legal person (which the video makes it appear that it has), then I agree with Ryen Schimerman that this is immensly problematic. Firstly, Te Urewera is not made up of human beings, so there's already a set of rights that don't make any sense, and certainly one cannot talk about the park having "responsibilities". But just as importantly is the fact that a *park* is probably not a good candidate for consideration of the sorts of entities the interests of, and our responsibilities to, we're trying to capture here. A park is a human-demarcated piece of land, and I can't think of a single example where the boundaries of such an area match the ecological reality "on the ground" very well (or at all). The video seems to talk about Te Urewera as if it were an *ecosystem*, but that almost assuredly extends well past the park boundaries. Moreover, the health of portion of the ecosystem within the park boundaries is almost certainly intimately tied to the health of the larger ecosystem its part of… Declaring the park a "person" is, in this sense, missing the forrest for the trees (or, if you will, the person for the arms and legs).
 
 This also gets into some of the explicit concerns that Ryen Schimerman is bringing up, because when we start to think about Te Urewera the *ecosystem* rather than Te Urewera the arbitrary boundaries, we realize that in this case we are talking about a gestalt entity that humans can be (though are not necessarily) part of. In this sense, once you have entered the park you have become part of the park, so the question of whether the park could be prosecuted for inhumanely treating an animal that died within it is a bit like asking how much responsibility you have to one of your fingers. Thinking about it as an ecosystem also lets us resolve the idea of trespass, which we again see is inapplicable because (1) ecosystems lack distinct boundaries they can trespass beyond, and (2) for the reasonscited above about ecosystems being gestalt entities, suing the park for trespass because a tree fell on your property is a bit like your nose suing your finger for picking at it.
 
@@ -41,7 +41,7 @@ On the face of it, I fear that declaring the Te Urewera national park a legal pe
 
 So, that's a lot of concerns. I wouldn't say that I have the same visceral reaction that Ryen Schimerman does, but I'm likewise not convinced that this was as wise a move as it sounds.
 
-That said...
+That said…
 
 I do think we need to begin building the social, cultural, and legal frameworks necessary to bring "people who are not people" into our day-to-day decision-making process. I don't have good, pat answers about how to do this, and frankly I don't think anyone does. The way that we're going to figure out how to do this is by trying different approaches.
 
