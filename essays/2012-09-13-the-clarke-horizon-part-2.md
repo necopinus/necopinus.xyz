@@ -1,7 +1,7 @@
 # The Clarke Horizon, Part 2
 
-author:: Nathan Acks  
-date:: 2012-09-13
+**author**:: Nathan Acks  
+**date**:: 2012-09-13
 
 Okay, here's an attempt at bringing the conversation about the "Clarke Horizon" down to Earth a bit. I'm going to attempt to recap everything I've said previously in less technical language and annotate a few concepts along the way. The discussion so far has led to some revisions of the original concept; I'm not going to stop to explain what's changed - just take this post as the canonical "state of the idea" at this time.
 

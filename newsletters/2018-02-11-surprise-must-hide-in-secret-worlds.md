@@ -1,18 +1,18 @@
 # Surprise Must Hide in Secret Worlds
 
-author:: Nathan Acks  
-date:: 2018-02-11  
-newsletter:: Five Futures  
-volume:: 2  
-issue:: 4
+**author**:: Nathan Acks  
+**date**:: 2018-02-11  
+**newsletter**:: Five Futures  
+**volume**:: 2  
+**issue**:: 4
 
-# The Story So Far
+## The Story So Far
 
 So much for getting one of these out every week. I blame the day job and an unexpected bought of no-it's-not-actually-Spring-yet cleaning. Despite this, and despite having a shorter Some Observations planned and fewer items in the queue for Elsewhen, this edition has somehow ended up at about the same length as the last one.
 
 At least I have my brevity. (Ha!)
 
-# Some Observations
+## Some Observations
 
 Last time I talked about why growth as we know it must one day end and why that day is probably sooner than we would like to think. I also explored some of the reasons why the sort of static zero growth world often championed within the environmental movement is likely to be at best unpleasant, and at worst so rigid as to be unable to cope with even foreseeable catastrophe.
 
@@ -20,11 +20,11 @@ But what is the alternative?
 
 * [2018-01-28 - The Last Remaining Hominin](2018-01-28-the-last-remaining-hominin.md)
 
-# The Radical Futures of Growth, Part 2
+## The Radical Futures of Growth, Part 2
 
 Before we discuss how to get out of this bind, it's useful to understand why we're here in the first place. While the failure modes of a world of unlimited growth may seem very different from one of zero growth, I contend that advocates of both futures are making the same fundamental mistake: They believe that a meaningful separation exists between the human and non-human worlds. In doing so, they reduce the non-human world to a passive backdrop for history rather than understanding it as an active participant whose fate is tightly coupled to our own.
 
-## To be Both in and of the World
+### To be Both in and of the World
 
 The tendency of modern, technologically dominant societies to function as if humanity was somehow apart from nature is, to the best of my knowledge, essentially universal. In the Abrahamic traditions this conceit is reinforced by the Biblical creation narrative, which explicitly places humanity in a superior station to other life. But even in cultures that lack such strong anthropocentric creation narratives, the spread of Western science and technology has brought with it a dualistic distinction between observer and observed, actor and acted upon, that functionally leads to much the same place. Humans alone are considered to have agency, and thus be worthy of ethical consideration and capable of playing an active role in history.
 
@@ -68,7 +68,7 @@ The only question is one of time.
 * [Future of Earth (Wikipedia)](https://en.wikipedia.org/wiki/Future_of_Earth)
 * [Interstellar travel (Wikipedia)](https://en.wikipedia.org/wiki/Interstellar_travel)
 
-## Beyond the End of History
+### Beyond the End of History
 
 We can now see the outlines of an alternative to both the modern conception of unlimited growth and of the zero growth reaction: It would be a human world that embraced the dynamism and evolutionary potential of the ecologies it was part of. It would be a world of some limits, yes, but not because those limits were necessary for human survival, or even because they were required of us to meet our ethical obligations to our fellows, but because such limits would preserve the potential for the system as a whole to grow. It would be a world that grew and changed along and within its ecological context, in which human foresight and technological ingenuity was put towards the betterment of entire ecologies, and not just a single species within that ecology. Most importantly, it is a world that preserves its capacity to grow and build when such growth and building is needed... And to step back to rest and heal when rest and healing is needed.
 
@@ -96,23 +96,23 @@ A more immediate issue with a (somewhat) more concrete set of solutions is the q
 * [Planned economy (Wikipedia)](https://en.wikipedia.org/wiki/Planned_economy)
 * [Externality (Wikipedia)](https://en.wikipedia.org/wiki/Externality)
 
-## Next Week
+### Next Week
 
 Next week we'll finish out this first series by discussing how we might counter the dystopic tendencies of both zero growth and long growth futures, how the idea of long growth makes (some of) these problems more tractable, and why it makes sense to advocate for policies addressing these concerns even if you believe that the limits of growth will never be reached.
 
-# Elsewhen
+## Elsewhen
 
-## Deep Pasts
+### Deep Pasts
 
 Octopus eyes are a well-known example of convergent evolution. But have you considered the origins of octopus brains?
 
 * [The Birth of Intermediacy?](http://crookedtimber.org/2018/02/01/the-birth-of-intermediacy/)
 
-## Near Pasts
+### Near Pasts
 
 Nothing this edition.
 
-## Presents
+### Presents
 
 The US continues to edge closer to war with North Korea.
 
@@ -131,7 +131,7 @@ Corey Robin wonders what it means to have a constitutional crisis divorced from 
 * [Unitary executive theory (Wikipedia)](https://en.wikipedia.org/wiki/Unitary_executive_theory)
 * [Clean Power Plan (Wikipedia)](https://en.wikipedia.org/wiki/Clean_Power_Plan)
 
-## Near Futures
+### Near Futures
 
 It seems that police in California have been working with neo-Nazis to pursue anti-fascist and anti-racist activists. There's been a real concern about white supremacists infiltrating law enforcement for over a decade now. I suspect that this is a long-term strategy that is going to increasingly start paying off.
 
@@ -152,7 +152,7 @@ Does the impossibility of realizing an ideal world sometimes mean that we should
 
 * [On Being Radical for Non-Ideal Reasons](http://crookedtimber.org/2018/02/09/on-being-radical-for-non-ideal-reasons/)
 
-## Deep Futures
+### Deep Futures
 
 Mutant crayfish capable of asexual reproduction are invading ecosystems across the planet.
 
@@ -162,6 +162,6 @@ A rumination on psychohistory, memetic entities, Dark Ages, and travel writing.
 
 * [Prolegomena to Any Dark-Age Psychohistory](https://www.ribbonfarm.com/2017/11/30/prolegomena-to-any-dark-age-psychohistory/)
 
-# Outro
+## Outro
 
 [Cutting a bagel into two linked halves.](http://www.georgehart.com/bagel/bagel.html)

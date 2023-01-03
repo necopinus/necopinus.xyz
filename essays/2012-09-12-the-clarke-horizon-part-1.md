@@ -1,7 +1,7 @@
 # The Clarke Horizon, Part 1
 
-author:: Nathan Acks  
-date:: 2012-09-12
+**author**:: Nathan Acks  
+**date**:: 2012-09-12
 
 Let us define the "Clarke Horizon" as the point at which technology can be considered to operate in an essentially magical fashion. By way of example and explanation, I'll use the sentence in which the term was coined: "It isn't really proper to say that Dune takes place in a post-Singularity civilization, as the idea of the Singularity hadn't been proposed when the novel was written. However, it's fair to say that the setting is well past the Clarke Horizon."
 

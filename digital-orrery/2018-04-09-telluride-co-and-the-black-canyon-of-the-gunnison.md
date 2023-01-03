@@ -1,14 +1,14 @@
 # Telluride, CO and the Black Canyon of the Gunnison
 
-photographer:: Nathan Acks  
-date:: 2018-04-09
+**photographer**:: Nathan Acks  
+**date**:: 2018-04-09
 
 Every year Len Montgomery and I take a short vacation around her birthday. For 2018 we decided to spend a couple of days in Telluride, CO. On the way back we stopped by one of my favorite (and I think, under-rated) national parks, the Black Canyon of the Gunnison.
 
 * [Telluride, Colorado](http://www.visittelluride.com)
 * [Black Canyon of the Gunnison](https://www.nps.gov/blca/)
 
-# Telluride
+## Telluride
 
 ![A black-and-white photo of a tree-lined mountain creek](assets/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison-01.webp)
 
@@ -42,7 +42,7 @@ A phone booth in Mountain Village.
 
 A phone booth in Mountain Village.
 
-# Black Canyon of the Gunnison
+## Black Canyon of the Gunnison
 
 ![A tall, domed mountain rises above the surrounding peaks](assets/2018-04-09-telluride-co-and-the-black-canyon-of-the-gunnison-09.webp)
 

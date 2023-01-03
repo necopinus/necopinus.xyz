@@ -1,20 +1,20 @@
 # A Slow Rate of Reproduction
 
-author:: Nathan Acks  
-date:: 2016-08-15  
-newsletter:: Five Futures  
-volume:: 1  
-issue:: 2  
-conditions:: Overcast and 27° C  
-location:: Back home on the ancient shore of Laurentia
+**author**:: Nathan Acks  
+**date**:: 2016-08-15  
+**newsletter**:: Five Futures  
+**volume**:: 1  
+**issue**:: 2  
+**conditions**:: Overcast and 27° C  
+**location**:: Back home on the ancient shore of Laurentia
 
-# The Story So Far
+## The Story So Far
 
 Hello, my six loyal subscribers! Welcome to the sophomore outing of Five Futures. Still playing around with formatting over here, as there were a few things about the way last week's letter looked that I didn't quite like. Let me know if you see anything weird with the characters or layout this week.
 
 Last week I also spent a lot longer writing up Five Futures than I'd intended. I'm aiming to write this one in about a quarter of the time I took last week. Hopefully that will translate to a shorter, tighter, but still informative, read.
 
-# The Once and Future King
+## The Once and Future King
 
 A massive complex dating from the British Dark Ages has been discovered at Tintagel in Cornwall. That may not sound like much at first, but it turns out to have a spooky mytho-historic resonance:
 
@@ -34,7 +34,7 @@ The world has been flat for a lot longer than is popularly supposed.
 * [Dark Ages royal palace discovered in Cornwall - in area closely linked to the legend of King Arthur](http://www.independent.co.uk/news/science/archaeology/king-arthur-castle-cornwall-tintagel-dark-ages-palace-camelot-a7168761.html)
 * [King Arthur (Wikipedia)](https://en.wikipedia.org/wiki/King_Arthur)
 
-# When Instinct Becomes Culture
+## When Instinct Becomes Culture
 
 We like to think of animals like deer as running on more-or-less pure instinct. But it turns out that young fauns also learn from their mother, which can lead to large-scale regional behaviors that can only be described as "culture".
 
@@ -52,7 +52,7 @@ If deer had stories, I wonder what tales they would tell to explain their contin
 
 * [Deep in the Forest, Bambi Remains the Cold War's Last Prisoner](http://www.wsj.com/articles/SB125729481234926717)
 
-# The Rise of the Dark Enlightenment
+## The Rise of the Dark Enlightenment
 
 The Atlantic is asking this month, "Why Are Some Conservative Thinkers Falling for Trump?" The piece spends a lot of time playing up the personal ambition of those supporting Trump:
 
@@ -96,7 +96,7 @@ So yeah. The movement crystallizing around Donald Trump is starting to look like
 * [Peter Thiel (Wikipedia)](https://en.wikipedia.org/wiki/Peter_Thiel)
 * [Peter Thiel's War On Gawker: A Timeline](http://www.forbes.com/sites/mattdrange/2016/06/21/peter-thiels-war-on-gawker-a-timeline/)
 
-# Halting States
+## Halting States
 
 In related news, evidence mounts that growth in the world's most advanced economies has slowed to a virtual stand-still.
 
@@ -116,7 +116,7 @@ So, where to from here?
 * [Secular Stagnation, Coalmines, Bubbles, and Larry Summers](https://krugman.blogs.nytimes.com/2013/11/16/secular-stagnation-coalmines-bubbles-and-larry-summers/)
 * [Thomas Piketty's Capital: everything you need to know about the surprise bestseller](https://www.theguardian.com/books/2014/apr/28/thomas-piketty-capital-surprise-bestseller)
 
-# Long is Their Time in the World
+## Long is Their Time in the World
 
 Two and a half years ago we learned that bowhead whales could live over 200 years. But it turns out that the lifespan of whales pales in comparison to that of some sharks.
 
@@ -134,7 +134,7 @@ I don't think many within the environmental movement truly appreciate the magnit
 * [These Ridiculously Long-Lived Sharks Are Older Than the United States, and Still Living It Up](http://www.smithsonianmag.com/science-nature/ridiculously-ancient-greenland-sharks-are-older-united-states-180960101/)
 * [The Case for Geological Optimism](http://io9.gizmodo.com/the-case-for-geological-optimism-1185202582)
 
-# Outro
+## Outro
 
 That's all for now. I'll see you again next week, unless of course you click on the unsubscribe link, in which case I wish you safe travels.
 

@@ -1,7 +1,7 @@
 # Denver Botanic Gardens
 
-photographer:: Nathan Acks  
-date:: 2018-01-27
+**photographer**:: Nathan Acks  
+**date**:: 2018-01-27
 
 Photos from the Denver Botanic Gardens' annual orchid show, many of which I tagged for the usual photo contest (though none won).
 

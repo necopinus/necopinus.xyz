@@ -1,7 +1,7 @@
 # The Circle of HOPE
 
-photographer:: Nathan Acks  
-date:: 2018-07-23
+**photographer**:: Nathan Acks  
+**date**:: 2018-07-23
 
 This year I attended HOPE 12, The Circle of HOPE. "HOPE" stands for "Hackers on Planet Earth", and is one of the older hacker conferences in the US. It's put on every other year by the crew from 2600 Magazine.
 
@@ -10,7 +10,7 @@ Attending HOPE is something I've wanted to do for a long time. While I didn't ta
 * [The Circle of HOPE](https://xii.hope.net/)
 * [2600: The Hacker Quarterly](https://www.2600.com/)
 
-# Denver to New York
+## Denver to New York
 
 ![A view down the train tracks at the Denver Union Station light rail stop](assets/2018-07-23-the-circle-of-hope-01.webp)
 
@@ -34,7 +34,7 @@ Jersey City from the air, just before landing in New York City for HOPE 12!
 
 * [The Circle of HOPE](https://xii.hope.net/)
 
-# The Hotel Pennsylvania
+## The Hotel Pennsylvania
 
 ![A New York City skyline at night](assets/2018-07-23-the-circle-of-hope-06.webp)
 
@@ -50,7 +50,7 @@ The view out the window of my room at the Hotel Pennsylvania on the second night
 
 * [The Circle of HOPE](https://xii.hope.net/)
 
-# The Metropolitan Museum of Art
+## The Metropolitan Museum of Art
 
 ![The arches and domes over The Great Hall of the Metropolitan Museum of Art](assets/2018-07-23-the-circle-of-hope-09.webp)
 

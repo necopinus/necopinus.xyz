@@ -1,17 +1,17 @@
 # October Adventures
 
-photographer:: Nathan Acks  
-date:: 2018-10-28
+**photographer**:: Nathan Acks  
+**date**:: 2018-10-28
 
 Photos from October 2018: Hiking with friends, a work trip to Boston, and a mid-Fall meander around Denver.
 
-# 16th Street Mall
+## 16th Street Mall
 
 ![An outdoor "smart" advertisement, displaying an error that makes it obvious that it's running the ads through Google Chrome](../photography/assets/2018-10-09-restore-pages.webp)
 
 Oops.
 
-# Red Rocks
+## Red Rocks
 
 ![A brown lizard suns itself on a red rock](../photography/assets/2018-10-13-lizard.webp)
 
@@ -37,7 +37,7 @@ Deer near Red Rocks amphitheater.
 
 Deer near Red Rocks amphitheater.
 
-# Boston
+## Boston
 
 ![A lighthouse seen from the air](../photography/assets/2018-10-17-lighthouse.webp)
 
@@ -59,7 +59,7 @@ Departing Boston.
 
 Sunset over western Massachusetts.
 
-# Denver
+## Denver
 
 ![A red-leafed fall tree, silhouetted against a clear blue sky](assets/2018-10-28-october-adventures-13.webp)
 

@@ -1,12 +1,12 @@
 # Where Homo Sapiens is Headed
 
-author:: Nathan Acks  
-date:: 2018-09-23  
-newsletter:: Five Futures  
-volume:: 2  
-issue:: 6
+**author**:: Nathan Acks  
+**date**:: 2018-09-23  
+**newsletter**:: Five Futures  
+**volume**:: 2  
+**issue**:: 6
 
-# Prologue
+## Prologue
 
 Another huge gap in newsletters, another change in format. The last iteration of Five Futures was an ambitious attempt to push me to write something more original. I still like the idea of doing serialized essays, and will probably attempt it again at some point. But right now I just need to write, to get something out there. And that something needs to be relatively easy to put together, because the day job isn't helping in the time-management department right now.
 
@@ -18,7 +18,7 @@ Anyway, that's the idea at least. Let's see how well it works.
 * [Pythia (Wikipedia)](https://en.wikipedia.org/wiki/Pythia)
 * [Ozymandias (comics) (Wikipedia)](https://en.wikipedia.org/wiki/Ozymandias_%28comics%29)
 
-# Chapter 1
+## Chapter 1
 
 🐳 Whales. Why are they so big?
 
@@ -76,7 +76,7 @@ A newly discovered section from "The Epic of Gilgamesh" gives the story a surpri
 
 * [Lost 'Epic of Gilgamesh' Verse Depicts Cacophonous Abode of Gods](https://www.livescience.com/52372-new-tablet-gilgamesh-epic.html)
 
-# Chapter 2
+## Chapter 2
 
 💻 The definitive timeline of Russia's hacking of the DNC, the Clinton presidential campaign, and local governments is a useful "birds-eye" view of the 2016 information operations. If you work in politics these are now the *baseline* threats you need to be guarding against.
 
@@ -122,7 +122,7 @@ Italian politics has always looked weird to outsiders. Is the country's most rec
 
 * [Italy's weird technopopulism could be the new normal](https://www.wired.co.uk/article/conte-italy-italia-new-government-prime-minister-technopopulism)
 
-# Chapter 3
+## Chapter 3
 
 Diversity increases conflict and makes people uncomfortable... And that's a good thing.
 
@@ -176,7 +176,7 @@ Intergenerational conflict is beginning to fracture the US environmental movemen
 
 * [A Green House Divided](https://sanfran.com/green-house-divided)
 
-# Chapter 4
+## Chapter 4
 
 🚅 A brief dive into the design of Japanese train stations.
 
@@ -222,7 +222,7 @@ US prisons are cutting back on in-person visitations. Inmates and their families
 
 * [The end of American prison visits: jails end face-to-face contact - and families suffer](https://www.theguardian.com/us-news/2017/dec/09/skype-for-jailed-video-calls-prisons-replace-in-person-visits)
 
-# Chapter 5
+## Chapter 5
 
 For most insects, an infection with cordyceps fungi means gradually slipping into a zombie-like state followed by a gruesome "Aliens"-like death. But for cicadas, cordyceps is what keeps them alive.
 
@@ -244,7 +244,7 @@ Mediocrity is evolutionary slack.
 
 * [Survival of the Mediocre Mediocre](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/)
 
-# Epilogue
+## Epilogue
 
 Originally I was going to write something longer and more conteplative here, but it's been almost exactly a week since I started writing this and I'm basically out of steam right now. Mind you, I haven't added any new articles to this list during that time - it just took me that long to review, sort, and trim down the list of interesting links I accumulated over the last six months. I'm going to experiment on building up future newsletters slowly over the course of a week or two, a little bit each day, and see how that works.
 

@@ -1,7 +1,7 @@
 # Great Sand Dunes National Park
 
-photographer:: Nathan Acks  
-date:: 2018-07-08
+**photographer**:: Nathan Acks  
+**date**:: 2018-07-08
 
 A weekend at Great Sand Dunes National Park. Technically a work trip, but I managed to fit in one short hike on the dunes.
 

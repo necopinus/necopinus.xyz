@@ -1,13 +1,13 @@
 # And We Will Know Him for a Thousand Years
 
-author:: Nathan Acks  
-date:: 2016-12-18  
-newsletter:: Five Futures  
-volume:: 1  
-issue:: 8  
-conditions:: Clear and -13° C
+**author**:: Nathan Acks  
+**date**:: 2016-12-18  
+**newsletter**:: Five Futures  
+**volume**:: 1  
+**issue**:: 8  
+**conditions**:: Clear and -13° C
 
-# The Story So Far
+## The Story So Far
 
 It's been a while, hasn't it?
 
@@ -29,7 +29,7 @@ But before we get into that, some historical perspective. To take the edge off t
 * [Why White Women Continue to Back the GOP](http://www.theatlantic.com/politics/archive/2016/11/white-women-support-gop/507617/)
 * [I Will Never Underestimate White People's Need To Preserve Whiteness Again](https://verysmartbrothas.theroot.com/i-will-never-underestimate-white-peoples-need-to-preser-1822521886)
 
-# Deep History
+## Deep History
 
 Two issues ago we discussed how Aboriginal Australian tales appear to accurately record over 7,000 years of coastal changes. Now researchers and Aboriginal elders have re-identified what appears to be an ancient solar observatory that may date back 11,000 years. Observatories of this type are unknown amongst hunter-gatherer peoples, but are common in early agricultural civilizations. Indeed:
 
@@ -49,7 +49,7 @@ The more we learn about Aboriginal Australian history and culture, the more mind
 * [The world's oldest observatory? How Aboriginal astronomy provides clues to ancient life](http://www.abc.net.au/news/2016-10-12/aboriginal-astronomy-provides-clues-to-ancient-life/7925024)
 * [Why Australia is home to one of the largest language families in the world](http://www.sciencemag.org/news/2016/09/why-australia-home-one-largest-language-families-world)
 
-# The Empty Land
+## The Empty Land
 
 Native American culture is also deeper than most of us learn in school. Before the arrival Europeans, North America was already occupied by a variety of nations. Cities were built, land was farmed, animals were domesticated, and complex trade networks were maintained. Ironically, as Charlie Loyd points out in the October edition of 6,88, these trade networks led to catastrophe when European diseases began to spread. The resulting social collapse helped Europeans conceptualize of North America as a "primitive" and "empty" place, when in reality it was neither.
 
@@ -67,7 +67,7 @@ When I talk about one of our central cultural challenges being how to conceptual
 * [6,88: Rooviande](https://tinyletter.com/vruba/letters/6-88-rooviande)
 * [2016-10-01 - When the Sea Came in and Covered the Land](2016-10-01-when-the-sea-came-in-and-covered-the-land.md)
 
-# The Subtle Knife
+## The Subtle Knife
 
 We discussed in the introduction how the behavior of white women as a voting bloc in this past election took me by surprise. I also mentioned that the effectiveness of current voter disenfranchisement efforts surprised me. This is not to say that I thought disenfranchisement wasn't going to have an effect on the election, but rather that I thought it would take at least one more census/electoral cycle (i.e., 2022) for the effects to become sever. I seem to have seriously underestimated how bad the situation has already become.
 
@@ -87,7 +87,7 @@ Previously I've mostly focused on the effects of gerrymandering, and as such I'm
 * [Half of Detroit votes may be ineligible for recount](http://www.detroitnews.com/story/news/politics/2016/12/05/recount-unrecountable/95007392/)
 * [What would happen if felons could vote in the US?](http://qz.com/784503/what-would-happen-if-felons-could-vote/)
 
-# Things Change
+## Things Change
 
 Trump's campaign went out with a bang that was just shy of Fascism 2.0, and his post-election cabinet picks and advisers have ranged from run-of-the-mill kleptocrats, to dangerous proto-authoritarians, to borderline Nazis. The only silver lining to the situation appear to be that career Republicans, largely excluded from Trump's nascent administration, are beginning to push back... But even this opposition seems at best half-hearted. Meanwhile, Democrats appear to be contemplating some level of cooperation with the incoming administration, a strategy that would make political sense only if one honestly believed Trump had any respect for the democratic and bureaucratic processes upon which our country is based - a position for which there seems to be diminishing evidence.
 
@@ -111,7 +111,7 @@ The best-case scenario at this point may be a (temporary?) descent into autocrac
 * [Harvard researcher's startling findings: Young people open to military rule](https://www.cbsnews.com/news/harvard-researchers-startling-findings-young-people-open-to-military-rule/)
 * [How Journalists Need to Begin Imagining the Unimaginable](https://www.propublica.org/podcast/item/how-journalists-need-to-begin-imagining-the-unimaginable)
 
-# And We Will Know Him for a Thousand Year
+## And We Will Know Him for a Thousand Year
 
 At its worst, the Trump administration may represent the end of the republic. At it's best, it may just be an episode of unprecedented level of kleptocracy and kakistocracy. Either of which would be bad enough. Unfortunately, the consequences of Trump's presidency are unlikely to end with his administration.
 
@@ -127,6 +127,6 @@ I am not sure that I agree that Trump is the first demagogue of the Anthropocene
 * [Donald Trump Is the First Demagogue of the Anthropocene](https://www.theatlantic.com/science/archive/2016/10/trump-the-first-demagogue-of-the-anthropocene/504134/)
 * [Predatory Delay and the Rights of Future Generations](https://medium.com/@AlexSteffen/predatory-delay-and-the-rights-of-future-generations-69b06094a16)
 
-# Outro
+## Outro
 
 [Existential risk and the end of civilization: The video game.](https://mkremins.itch.io/epitaph)

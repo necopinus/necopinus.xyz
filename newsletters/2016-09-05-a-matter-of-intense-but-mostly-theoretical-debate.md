@@ -1,14 +1,14 @@
 # A Matter of Intense But Mostly Theoretical Debate
 
-author:: Nathan Acks  
-date:: 2016-09-05  
-newsletter:: Five Futures  
-volume:: 1  
-issue:: 4  
-conditions:: Clear and 32° C  
-location:: hotels.harsh.villa
+**author**:: Nathan Acks  
+**date**:: 2016-09-05  
+**newsletter**:: Five Futures  
+**volume**:: 1  
+**issue**:: 4  
+**conditions**:: Clear and 32° C  
+**location**:: `hotels.harsh.villa`
 
-# The Story So Far
+## The Story So Far
 
 When I wrote the last issue of Five Futures, I was anticipating the next issue coming out on Monday the 29th, or perhaps Tuesday the 30th. My final weekend in Idaho was looking busy, but how intense could a vendor conference really be? It was basically just going to be three days of marketing, right?
 
@@ -20,7 +20,7 @@ So now I'm two weeks late.
 
 By way of compensation, this is a double issue of Five Futures, cover ten topics rather than the customary five. A couple of these stories are a bit older, as despite having two weeks worth of material I've had to delve into my archive a bit to maintain the structure I committed to when I began this project. Sometimes the structure of the stories we tell is more important than the words themselves, and Five Futures is, I think, one of those stories.
 
-# The Ever More Distant Origins of Life
+## The Ever More Distant Origins of Life
 
 One of the more exciting developments of the last week has been the discovery of probable stromatolite fossils in Greenland. Stromatolites are structures accreted by various microorganisms, typically cyanobacteria, though who knows what accreted the Greenland fossils (the earliest evidence for the existence of cyanobacteria doesn't show up until almost a billion years after these fossils). The find pushes back the earliest known evidence of life by 220 million years, to 3.7 billion years ago.
 
@@ -36,7 +36,7 @@ The apparent rapidity of LUCA's advancement from deep-sea chemical process to mo
 * [Universal ancestor of all life on Earth was only half alive](https://www.newscientist.com/article/2098564-universal-ancestor-of-all-life-on-earth-was-only-half-alive/)
 * [Astrobiology (Wikipedia)](https://en.wikipedia.org/wiki/Astrobiology)
 
-# Lichens Get Weird(er)
+## Lichens Get Weird(er)
 
 Lichens are already fairly unusual... Things. They're not "species", at least as we generally think about "species", as they're composed of a fungus and one or more algae or cyanobacteria, each of which can successfully grow and reproduce outside of its "lichenized" form. The same fungi can produce wildly different lichen if combined with a different partner species. They may, in fact, represent almost entirely self-contained miniature ecosystems. And no one's quite sure when lichen first evolved - the best range we have is somewhere between 400 million (the earliest undisputed fossils) and 2.2 billion (the earliest evidence of lichen component species) years ago.
 
@@ -48,7 +48,7 @@ Despite the fact that the species that make up lichens can be cultured independe
 * [Holobiont (Wikipedia)](https://en.wikipedia.org/wiki/Holobiont)
 * [How a Guy From a Montana Trailer Park Overturned 150 Years of Biology](http://www.theatlantic.com/science/archive/2016/07/how-a-guy-from-a-montana-trailer-park-upturned-150-years-of-biology/491702/)
 
-# Women at the Beginnings of Art
+## Women at the Beginnings of Art
 
 The first indisputable human art (though it's impossible to say what its creators thought of it) are cave paintings found throughout Europe and Asia. The earliest example is in modern-day Indonesia, but the best preserved sites are in Spain and France. These paintings typically feature local (at the time) animal species, and occasionally images that appear to depict hunting. Often hand stencils were left behind, presumably the mark of the painter.
 
@@ -62,7 +62,7 @@ And that gives me a significant degree of hope for the future.
 * [Were the First Artists Mostly Women?](http://news.nationalgeographic.com/news/2013/10/131008-women-handprints-oldest-neolithic-cave-art/)
 * [Secondary sex characteristic (Wikipedia)](https://en.m.wikipedia.org/wiki/Secondary_sex_characteristic)
 
-# Multi-Generational Iron Age Engineering
+## Multi-Generational Iron Age Engineering
 
 Scattered across Asia are giant artifacts known as "desert kites", low structures composed of piled rock that form geometric patterns that can stretch for up to a kilometer. These structures appear to have been massive "nets" designed to capture migrating animal herds, funneling them into shallow pits where they were easily slaughtered. If the discarded antelope bones near these kill pits are any indication, these massive traps probably decimated the great ungulate herds that had previously roamed from the Middle East to Uzbekistan.
 
@@ -71,7 +71,7 @@ But the kites were not some sudden innovation: Rather "the sites appear to have 
 * [Giant 'Arrows' Seen From Space Point to a Vanished World](http://news.nationalgeographic.com/2016/08/desert-kites-out-of-eden-walk-uzbekistan-iron-age-saiga/)
 * [Massagetae / Massagetes](http://www.historyfiles.co.uk/KingListsFarEast/AsiaMassagetae.htm)
 
-# The Unfortunate History of Zika Mosquito Eradication
+## The Unfortunate History of Zika Mosquito Eradication
 
 Atlas Obscura has posted an interesting history of efforts to eradicate the invasive Aedes aegypti mosquito, which carries yellow fever and the Zika virus, from the Americas.
 
@@ -85,7 +85,7 @@ Unfortunately, US "national security" interests continue to trump public health 
 * [While Brazil Was Eradicating Zika Mosquitoes, America Made Them Into Weapons](http://www.atlasobscura.com/articles/while-brazil-was-eradicating-zika-mosquitoes-america-made-them-into-weapons)
 * [How the CIA's Fake Vaccination Campaign Endangers Us All](https://www.scientificamerican.com/article/how-cia-fake-vaccination-campaign-endangers-us-all/)
 
-# The Global Proto-Fascist Moment
+## The Global Proto-Fascist Moment
 
 Those of you who know me know that I'm no fan of Hillary Clinton. But her "alt-right" speech on August 25th was an excellent (if surface-level) overview of the movement and the Trump campaign's increasing dependence on it.
 
@@ -109,7 +109,7 @@ Certainly we do seem to be having a global moment here, one that Putin, Trump, a
 * [Sarah Kendzior (Twitter)](https://twitter.com/sarahkendzior)
 * [Donald Trump's bromance with Vladimir Putin underscores an unsettling truth about the two leaders](http://qz.com/761656/donald-trumps-bromance-with-vladimir-putin-underscores-an-unsettling-truth-about-the-two-leaders/)
 
-# Capitalism and the Hollowing of Politics
+## Capitalism and the Hollowing of Politics
 
 I finally got around to reading Emmett Rensin's massive essay on the smug style in American liberalism, and... I didn't find it as compelling as many of the folks on my Twitter feed seemed to find it. But Rensin's description of the performative character of American liberalism put me in mind of another essay that i recently read, "The Authoritarian Personality Revisited: Reading Adorno in the Age of Trump".
 
@@ -128,7 +128,7 @@ I'm not sure where it goes from here. Adorno himself seems to have been pretty p
 * [The Bot Economy](https://medium.com/@johnrobb/the-bot-economy-cdd9e913c1ae)
 * [The end of capitalism has begun](https://www.theguardian.com/books/2015/jul/17/postcapitalism-end-of-capitalism-begun)
 
-# Transparent Wood
+## Transparent Wood
 
 On a less depressing note, what's stronger than steel, has better thermal insulation than glass, and you can see through? It's not transparent aluminum (sorry Star Trek fans); rather, researchers at the University of Maryland have figured out how to create transparent *wood* by replacing the wood's lignin with an epoxy.
 
@@ -139,7 +139,7 @@ Perhaps one day we will find ourselves growing, rather than mining, the raw mate
 * [List of Star trek materials (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Star_Trek_materials)
 * [The incredible possibilities of 'invisible' wood](https://edition.cnn.com/style/article/clear-wood-architecture/index.html)
 
-# The Anthropocene Gets a Start Date
+## The Anthropocene Gets a Start Date
 
 The concept of the "Anthropocene" got its start in the 1980s as a way of putting the magnitude of humanity's impact on the Earth in perspective. It has since gained rapid acceptance among environmental activists and writers, and despite its apparently self-aggrandizing name, is generally used as a warning: The global changes that humanity is making are unplanned and uncontrollable, and are negatively impacting both ourselves and many of our fellow species. The Anthropocene is not a place of honor.
 
@@ -153,7 +153,7 @@ To define the Anthropocene now seems to imply a belief that humanity is on track
 * [WIPP Exhibit: Message to 12,000 A.D.](https://wipp.info/)
 * [Atomic bombs and oil addiction herald Earth's new epoch: The Anthropocene](http://www.sciencemag.org/news/2016/08/atomic-bombs-and-oil-addiction-herald-earth-s-new-epoch-anthropocene)
 
-# The (Next) Closest "Earth" We'll Ever Get
+## The (Next) Closest "Earth" We'll Ever Get
 
 Astronomers have announced the discovery of an Earth-sized planet orbiting within the "habitable zone" of Poxima Centauri. It's pretty unclear how "habitable" this new planet actually is: While only slightly larger than our own world and orbiting within the region that liquid water would exist, the world is also almost certainly tidally locked towards Poxima Centauri and is frequently buffeted by intense X-ray flares.
 
@@ -166,7 +166,7 @@ What we don't yet know, and we likely won't know for at least another forty year
 * [Proxima Centauri (Wikipedia)](https://en.wikipedia.org/wiki/Proxima_Centauri)
 * [Breakthrough Starshot (Wikipedia)](https://en.wikipedia.org/wiki/Breakthrough_Starshot)
 
-# Outro
+## Outro
 
 A visualization of global shipping traffic circa 2012.
 
