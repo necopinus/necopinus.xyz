@@ -17,5 +17,5 @@ But in all this acknowledgment of the fucked-ness of our collective future, I do
 
 The most important part of the Kobayashi Maru scenario is *not* that it is impossible to win. It is that, in facing the impossibility of winning, we reveal the true content of our character.
 
-* [2016-06-21 - The Kobayashi Maru](2016-06-21-the-kobayashi-maru.md)
+* [2016-06-21 — The Kobayashi Maru](2016-06-21-the-kobayashi-maru.md)
 * [Kobayashi Maru (Wikipedia)](https://en.m.wikipedia.org/wiki/Kobayashi_Maru)

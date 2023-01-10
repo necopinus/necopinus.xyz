@@ -33,4 +33,4 @@ We all want to live in the great big beautiful tomorrow, but it's probably worth
 
 There's probably a whole new cross-disciplinary field of study here. Certainly we're talking about something a lot heavier and with a broader scope than economics, political science, or social psychology currently has. Perhaps we should just call it "psychohistory".
 
-* [2012-09-12 - The Clarke Horizon, Part 1](2012-09-12-the-clarke-horizon-part-1.md)
+* [2012-09-12 — The Clarke Horizon, Part 1](2012-09-12-the-clarke-horizon-part-1.md)

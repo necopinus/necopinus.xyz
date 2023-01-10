@@ -114,7 +114,7 @@ The physical maps of the Inuit.
 Apparently I have the hottest of hot takes. Here's the New York Times offering up essentially the same analysis of last weekend's shutdown of the US federal government as I did the day before. Also, did I call how long that would last or what?
 
 * [What the Shutdown Says About the Future of the Democrats](https://www.nytimes.com/2018/01/20/opinion/government-shutdown-democrats.html)
-* [2018-01-20 - Everything Was Stripped Away](2018-01-20-everything-was-stripped-away.md)
+* [2018-01-20 — Everything Was Stripped Away](2018-01-20-everything-was-stripped-away.md)
 
 Twitter recently sent out emails to people who followed, liked, or retweeted potential Russian troll accounts. I'll admit to having gotten one of these emails myself, and found it… Less than useful. The email doesn't inform you whether you were actually following a problematic account, retweeted propaganda to your followers, or simply liked such a tweet. There's no way to know how you were fooled, which makes it very hard to know how to alter your behavior to not be fooled again. Defense One has a good overview of this and the many other problems with how Twitter is responding to its use as a vehicle for propaganda and disruption during the 2016 US presidential election.
 
