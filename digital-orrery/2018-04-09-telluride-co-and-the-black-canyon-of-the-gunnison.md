@@ -1,7 +1,7 @@
 # Telluride, CO and the Black Canyon of the Gunnison
 
-**photographer**:: Nathan Acks  
-**date**:: 2018-04-09
+* **photographer**:: Nathan Acks  
+* **date**:: 2018-04-09
 
 Every year Len Montgomery and I take a short vacation around her birthday. For 2018 we decided to spend a couple of days in Telluride, CO. On the way back we stopped by one of my favorite (and I think, under-rated) national parks, the Black Canyon of the Gunnison.
 

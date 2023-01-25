@@ -1,12 +1,12 @@
 # A Matter of Intense But Mostly Theoretical Debate
 
-**author**:: Nathan Acks  
-**date**:: 2016-09-05  
-**newsletter**:: Five Futures  
-**volume**:: 1  
-**issue**:: 4  
-**conditions**:: Clear and 32° C  
-**location**:: `hotels.harsh.villa`
+* **author**:: Nathan Acks  
+* **date**:: 2016-09-05  
+* **newsletter**:: Five Futures  
+* **volume**:: 1  
+* **issue**:: 4  
+* **conditions**:: Clear and 32° C  
+* **location**:: `hotels.harsh.villa`
 
 ## The Story So Far
 

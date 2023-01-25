@@ -1,12 +1,12 @@
 # Enough Behavioral Flexibility to Persist in a Disturbed Landscape
 
-**author**:: Nathan Acks  
-**date**:: 2016-09-19  
-**newsletter**:: Five Futures  
-**volume**:: 1  
-**issue**:: 5  
-**conditions**:: Clear and 17° C  
-**location**:: `snail.hunter.member`
+* **author**:: Nathan Acks  
+* **date**:: 2016-09-19  
+* **newsletter**:: Five Futures  
+* **volume**:: 1  
+* **issue**:: 5  
+* **conditions**:: Clear and 17° C  
+* **location**:: `snail.hunter.member`
 
 ## The Story So Far
 

@@ -1,7 +1,7 @@
 # Denver Botanic Gardens
 
-**photographer**:: Nathan Acks  
-**date**:: 2018-06-02
+* **photographer**:: Nathan Acks  
+* **date**:: 2018-06-02
 
 Photos from the Denver Botanic Gardens.
 

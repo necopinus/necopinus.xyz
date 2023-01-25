@@ -1,11 +1,11 @@
 # And We Will Know Him for a Thousand Years
 
-**author**:: Nathan Acks  
-**date**:: 2016-12-18  
-**newsletter**:: Five Futures  
-**volume**:: 1  
-**issue**:: 8  
-**conditions**:: Clear and -13° C
+* **author**:: Nathan Acks  
+* **date**:: 2016-12-18  
+* **newsletter**:: Five Futures  
+* **volume**:: 1  
+* **issue**:: 8  
+* **conditions**:: Clear and -13° C
 
 ## The Story So Far
 

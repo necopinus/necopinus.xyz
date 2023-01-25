@@ -1,10 +1,10 @@
 # Where Homo Sapiens is Headed
 
-**author**:: Nathan Acks  
-**date**:: 2018-09-23  
-**newsletter**:: Five Futures  
-**volume**:: 2  
-**issue**:: 6
+* **author**:: Nathan Acks  
+* **date**:: 2018-09-23  
+* **newsletter**:: Five Futures  
+* **volume**:: 2  
+* **issue**:: 6
 
 ## Prologue
 

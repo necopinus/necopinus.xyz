@@ -1,10 +1,10 @@
 # Something of Adaptive Value to Human Life
 
-**author**:: Nathan Acks  
-**date**:: 2018-02-18  
-**newsletter**:: Five Futures  
-**volume**:: 2  
-**issue**:: 5
+* **author**:: Nathan Acks  
+* **date**:: 2018-02-18  
+* **newsletter**:: Five Futures  
+* **volume**:: 2  
+* **issue**:: 5
 
 ## The Story So Far
 

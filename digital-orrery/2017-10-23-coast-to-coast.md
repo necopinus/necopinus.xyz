@@ -1,7 +1,7 @@
 # Coast to Coast
 
-**photographer**:: Nathan Acks  
-**date**:: 2017-10-23
+* **photographer**:: Nathan Acks  
+* **date**:: 2017-10-23
 
 A combination of astute planning and sheer luck/misfortune saw me traveling from San Francisco, to Louisville, Kentucky, to Washington, DC over the course of two and a half weeks.
 

@@ -2,8 +2,8 @@
 
 ![A honey bee rests on a cluster of striking orange flowers](assets/2015-11-15-the-last-honey-bee.webp)
 
-**photographer**:: Nathan Acks  
-**date**:: 2015-11-15
+* **photographer**:: Nathan Acks  
+* **date**:: 2015-11-15
 
 Near the lily pond lies a small clump of red and orange flowers, dying from the frost but still fragrant.
 

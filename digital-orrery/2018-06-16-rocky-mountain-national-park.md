@@ -1,7 +1,7 @@
 # Rocky Mountain National Park
 
-**photographer**:: Nathan Acks  
-**date**:: 2018-06-16
+* **photographer**:: Nathan Acks  
+* **date**:: 2018-06-16
 
 A short excursion to Bear Lake and the Alpine Visitor Center in Rocky Mountain National Park.
 

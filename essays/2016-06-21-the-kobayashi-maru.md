@@ -1,7 +1,7 @@
 # The Kobayashi Maru
 
-**author**:: Nathan Acks  
-**date**:: 2016-06-21
+* **author**:: Nathan Acks  
+* **date**:: 2016-06-21
 
 2016 is the Kobayashi Maru scenario of Western democracy.
 

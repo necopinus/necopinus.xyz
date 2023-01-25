@@ -2,8 +2,8 @@
 
 ![A black-and-white photograph of an apartment building under construction in Washington, DC](assets/2017-03-24-redevelopment.webp)
 
-**photographer**:: Nathan Acks  
-**date**:: 2017-03-24
+* **photographer**:: Nathan Acks  
+* **date**:: 2017-03-24
 
 Chinese redevelopment (apartments) in Washington, DC.
 
