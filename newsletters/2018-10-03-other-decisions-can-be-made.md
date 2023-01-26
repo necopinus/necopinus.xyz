@@ -208,7 +208,7 @@ This isn't a long term strategy to contain political rivals. This is recklessnes
 
 ### 🚀 Doctor Who Official Trailer
 
-[Trailer #2 | Doctor Who | Sunday, October 7 | BBC America (YouTube)](https://www.youtube.com/watch?v=lf_YE24KCKo)
+[Trailer \#2 | Doctor Who | Sunday, October 7 | BBC America (YouTube)](https://www.youtube.com/watch?v=lf_YE24KCKo)
 
 [VIDEO] I'm optimistic about the new season of Doctor Who.
 
