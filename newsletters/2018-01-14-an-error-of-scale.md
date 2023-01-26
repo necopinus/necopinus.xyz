@@ -1,11 +1,11 @@
 # An Error of Scale
 
-* **author**:: Nathan Acks  
-* **date**:: 2018-01-14  
-* **newsletter**:: Five Futures  
-* **volume**:: 2  
-* **issue**:: 1  
-* **conditions**:: Partly cloudy and 14° C  
+* **author**:: Nathan Acks
+* **date**:: 2018-01-14
+* **newsletter**:: Five Futures
+* **volume**:: 2
+* **issue**:: 1
+* **conditions**:: Partly cloudy and 14° C
 * **location**:: `volunteered.cities.owners`
 
 ## The Story So Far

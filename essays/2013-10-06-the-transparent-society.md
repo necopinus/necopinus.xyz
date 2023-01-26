@@ -1,6 +1,6 @@
 # The Transparent Society
 
-* **author**:: Nathan Acks  
+* **author**:: Nathan Acks
 * **date**:: 2013-10-06
 
 While I agree with the advocates off the "Transparent Society", I don't think they appreciate for the most part how radical that transparency is going to have to be, or how fundamentally our society is going to have to change because of it.

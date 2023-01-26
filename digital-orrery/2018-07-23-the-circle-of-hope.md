@@ -1,6 +1,6 @@
 # The Circle of HOPE
 
-* **photographer**:: Nathan Acks  
+* **photographer**:: Nathan Acks
 * **date**:: 2018-07-23
 
 This year I attended HOPE 12, The Circle of HOPE. "HOPE" stands for "Hackers on Planet Earth", and is one of the older hacker conferences in the US. It's put on every other year by the crew from 2600 Magazine.

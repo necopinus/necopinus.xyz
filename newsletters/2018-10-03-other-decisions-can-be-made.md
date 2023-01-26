@@ -1,9 +1,9 @@
 # Other Decisions Can be Made
 
-* **author**:: Nathan Acks  
-* **date**:: 2018-10-03  
-* **newsletter**:: Five Futures  
-* **volume**:: 2  
+* **author**:: Nathan Acks
+* **date**:: 2018-10-03
+* **newsletter**:: Five Futures
+* **volume**:: 2
 * **issue**:: 7
 
 A little bit less Azeem Azhar this time, and a little bit more Patrick Tanguay. Mostly, this is a function of me actually jotting down some notes and quotes from each article as I read them. Doing this made the entire process of compiling this edition of Five Futures a lot easier, and also made it feel feasible to include some podcast and video links, which I haven't previously done.

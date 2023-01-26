@@ -1,11 +1,11 @@
 # Pervasive and Obligatory Features
 
-* **author**:: Nathan Acks  
-* **date**:: 2016-10-17  
-* **newsletter**:: Five Futures  
-* **volume**:: 1  
-* **issue**:: 7  
-* **conditions**:: Clear and 11° C  
+* **author**:: Nathan Acks
+* **date**:: 2016-10-17
+* **newsletter**:: Five Futures
+* **volume**:: 1
+* **issue**:: 7
+* **conditions**:: Clear and 11° C
 * **location**:: `rock.afford.lots`
 
 ## The Story So Far

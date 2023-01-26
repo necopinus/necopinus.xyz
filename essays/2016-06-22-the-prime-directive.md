@@ -1,6 +1,6 @@
 # The Prime Directive
 
-* **author**:: Nathan Acks  
+* **author**:: Nathan Acks
 * **date**:: 2016-06-22
 
 Hyperbolic headlines aside, I'm not 100% sure that any other species has entered into a phase of development that we could recognize as a precursor to the emergence of complex ("human-like") societies.

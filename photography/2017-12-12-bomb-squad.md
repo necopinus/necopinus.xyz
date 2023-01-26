@@ -2,7 +2,7 @@
 
 ![A large truck marked "Denver Police Bomb Squad" blocks a nighttime intersection](assets/2017-12-12-bomb-squad.webp)
 
-* **photographer**:: Nathan Acks  
+* **photographer**:: Nathan Acks
 * **date**:: 2017-12-12
 
 Well, this isn't something you see every day…

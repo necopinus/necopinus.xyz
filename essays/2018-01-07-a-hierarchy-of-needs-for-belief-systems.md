@@ -1,6 +1,6 @@
 # A Hierarchy of Needs for Belief Systems
 
-* **author**:: Nathan Acks  
+* **author**:: Nathan Acks
 * **date**:: 2018-01-07
 
 A quick sketch of a Maslow-ish "hierarchy of needs" for belief systems.

@@ -1,11 +1,11 @@
 # Everything Was Stripped Away
 
-* **author**:: Nathan Acks  
-* **date**:: 2018-01-20  
-* **newsletter**:: Five Futures  
-* **volume**:: 2  
-* **issue**:: 2  
-* **conditions**:: Partly cloudy and 8° C  
+* **author**:: Nathan Acks
+* **date**:: 2018-01-20
+* **newsletter**:: Five Futures
+* **volume**:: 2
+* **issue**:: 2
+* **conditions**:: Partly cloudy and 8° C
 * **location**:: `unless.gain.books`
 
 ## The Story So Far

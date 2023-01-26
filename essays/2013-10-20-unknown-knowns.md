@@ -1,6 +1,6 @@
 # Unknown Knowns
 
-* **author**:: Nathan Acks  
+* **author**:: Nathan Acks
 * **date**:: 2013-10-20
 
 A lot of folks have made fun of Donald Rumsfeld's remarks in the lead up to the Iraq War.

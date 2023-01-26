@@ -1,9 +1,9 @@
 # Something of Adaptive Value to Human Life
 
-* **author**:: Nathan Acks  
-* **date**:: 2018-02-18  
-* **newsletter**:: Five Futures  
-* **volume**:: 2  
+* **author**:: Nathan Acks
+* **date**:: 2018-02-18
+* **newsletter**:: Five Futures
+* **volume**:: 2
 * **issue**:: 5
 
 ## The Story So Far
@@ -60,7 +60,7 @@ Wealth and income taxes should be primarily driven by the need to prevent power 
 
 The second policy prong for addressing resource hoarding involves reducing the factors that encourage this behavior to begin with.
 
-* We need to make sure that children have as even a playing field to start out  as possible. This means, above all else, a significant investment in (and equalization of) universal, public education and the *elimination* of exclusive schools whenever possible. There is also a growing body of evidence that access to basic health care and adequate nutrition have a profound impact over the first few years of life; currently, the US primarily uses public schools to provide these services, but the most critical years are likely before most children enter the public school system. Finding a way to ensure that all children have their basic needs are met, at least through early elementary school, is critical.
+* We need to make sure that children have as even a playing field to start outas possible. This means, above all else, a significant investment in (and equalization of) universal, public education and the *elimination* of exclusive schools whenever possible. There is also a growing body of evidence that access to basic health care and adequate nutrition have a profound impact over the first few years of life; currently, the US primarily uses public schools to provide these services, but the most critical years are likely before most children enter the public school system. Finding a way to ensure that all children have their basic needs are met, at least through early elementary school, is critical.
 * Outside of our desire to provide for our children, hedging against uncertainty (both for ourselves and others) is probably the next most significant incentive to hoard resources for most people. Strong access to basic health care, adequate nutrition, and some form of guaranteed shelter would substantially mitigate the most basic uncertainties we face. In many countries these policies take the form of a some sort of regulated or single-payer health care system and a strong social safety net. Some advocates of universal basic income have proposed that direct transfer payments could be used as substitutes as well.
 
 These can be expensive programs, though it's worth noting that over a multi-decade period programs that target children almost always wind up having significant positive externalities (sometimes to such an extent that they more than pay for themselves). The rigorous system of taxation suggested above should make it possible to fund these social programs; such a combination has the virtue of providing a synergistic "one-two" punch that both makes it more difficult (hopefully impossible) to sustain multi-generational resource hoarding while simultaneously reducing the individual incentives for most of us to even begin indulging in such behavior.

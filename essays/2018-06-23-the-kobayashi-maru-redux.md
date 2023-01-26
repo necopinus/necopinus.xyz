@@ -1,6 +1,6 @@
 # The Kobayashi Maru (Redux)
 
-* **author**:: Nathan Acks  
+* **author**:: Nathan Acks
 * **date**:: 2018-06-23
 
 Two years ago I wrote that:

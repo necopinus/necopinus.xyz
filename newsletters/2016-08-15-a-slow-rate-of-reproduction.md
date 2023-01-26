@@ -1,11 +1,11 @@
 # A Slow Rate of Reproduction
 
-* **author**:: Nathan Acks  
-* **date**:: 2016-08-15  
-* **newsletter**:: Five Futures  
-* **volume**:: 1  
-* **issue**:: 2  
-* **conditions**:: Overcast and 27° C  
+* **author**:: Nathan Acks
+* **date**:: 2016-08-15
+* **newsletter**:: Five Futures
+* **volume**:: 1
+* **issue**:: 2
+* **conditions**:: Overcast and 27° C
 * **location**:: Back home on the ancient shore of Laurentia
 
 ## The Story So Far

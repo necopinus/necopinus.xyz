@@ -1,11 +1,11 @@
 # When the Sea Came in and Covered the Land
 
-* **author**:: Nathan Acks  
-* **date**:: 2016-10-01  
-* **newsletter**:: Five Futures  
-* **volume**:: 1  
-* **issue**:: 6  
-* **conditions**:: Clear and 25° C  
+* **author**:: Nathan Acks
+* **date**:: 2016-10-01
+* **newsletter**:: Five Futures
+* **volume**:: 1
+* **issue**:: 6
+* **conditions**:: Clear and 25° C
 * **location**:: `yoga.skin.shovels`
 
 ## The Story So Far

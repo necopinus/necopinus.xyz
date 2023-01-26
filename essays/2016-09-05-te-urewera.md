@@ -1,6 +1,6 @@
 # Te Urewera
 
-* **author**:: Nathan Acks  
+* **author**:: Nathan Acks
 * **date**:: 2016-09-05
 
 > This short "essay" was written in response to a video a friend posted on my Facebook timeline about New Zealand granting the Te Urewera national park legal personhood - an idea that another (lawyer) friend took some exception to in the comments.

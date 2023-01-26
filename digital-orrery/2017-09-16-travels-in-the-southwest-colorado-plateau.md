@@ -1,6 +1,6 @@
 # Travels in the Southwest Colorado Plateau
 
-* **photographer**:: Nathan Acks  
+* **photographer**:: Nathan Acks
 * **date**:: 2017-09-16
 
 A week spent road-tripping to Arches, Grand Canyon, and Bryce Canyon National Parks, and a few more spots in between.

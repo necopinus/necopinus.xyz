@@ -1,6 +1,6 @@
 # October Adventures
 
-* **photographer**:: Nathan Acks  
+* **photographer**:: Nathan Acks
 * **date**:: 2018-10-28
 
 Photos from October 2018: Hiking with friends, a work trip to Boston, and a mid-Fall meander around Denver.
