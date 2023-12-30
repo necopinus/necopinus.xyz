@@ -53,7 +53,7 @@ body, input, select, textarea {
 }
 .noto-bluesky:before {
 	font-family: 'Noto Emoji';
-	content: "🦋";
+	content: "\01F98B";
 }
 .noto-twitter:before {
 	font-family: 'Noto Emoji';
