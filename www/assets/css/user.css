@@ -15,9 +15,37 @@ body, input, select, textarea {
 	font-family: 'Noto Emoji';
 	content: "🌱";
 }
+.noto-box:before {
+	font-family: 'Noto Emoji';
+	content: "📦";
+}
+.noto-lizard:before {
+	font-family: 'Noto Emoji';
+	content: "🦎";
+}
+.noto-shield:before {
+	font-family: 'Noto Emoji';
+	content: "🛡️";
+}
+.noto-brain:before {
+	font-family: 'Noto Emoji';
+	content: "🧠";
+}
+.noto-camera:before {
+	font-family: 'Noto Emoji';
+	content: "📷";
+}
+.noto-love:before {
+	font-family: 'Noto Emoji';
+	content: "💑";
+}
 .noto-at:before {
 	font-family: 'Noto Sans';
 	content: "@";
+}
+.noto-home:before {
+	font-family: 'Noto Emoji';
+	content: "🏡";
 }
 .noto-farcaster:before {
 	font-family: 'Noto Emoji';
@@ -29,7 +57,7 @@ body, input, select, textarea {
 }
 .noto-twitter:before {
 	font-family: 'Noto Emoji';
-	content: "🐦‍⬛";
+	content: "🐦";
 }
 .noto-linkedin:before {
 	font-family: 'Noto Emoji';
@@ -46,6 +74,14 @@ body, input, select, textarea {
 .noto-keybase:before {
 	font-family: 'Noto Emoji';
 	content: "🔑";
+}
+.noto-email:before {
+	font-family: 'Noto Emoji';
+	content: "📧";
+}
+.noto-briefcase:before {
+	font-family: 'Noto Emoji';
+	content: "💼";
 }
 
 .icon.inline {
